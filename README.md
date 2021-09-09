@@ -1,4 +1,4 @@
-### Student with little desire to live xD 🤖👋🤖
+### Student with little desire to live.
 
 [Portfolio](https://fabian-martinez1.github.io/)
 

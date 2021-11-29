@@ -2,6 +2,7 @@
 
 <h3 align="center"><a href="https://zonafabo.github.io/" target="_blank">Zona Fabo</a> </h3> 
 
-![](https://user-images.githubusercontent.com/55964635/143610311-5cd11e31-d591-45dd-898f-a4566021b377.png)
 
 
+
+![icon2](https://user-images.githubusercontent.com/55964635/143814315-8b6ab9d9-0e2e-4e21-aa6f-3c6213920a38.png)

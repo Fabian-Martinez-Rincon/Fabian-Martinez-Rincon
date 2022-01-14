@@ -1,9 +1,3 @@
-
-
-
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fabian-Martinez1&label=Profile%20views&color=0e75b6&style=flat" alt="Fabian-Martinez1" /> </p>
-
 - 📁 [Portfolio](https://fabian-martinez1.github.io/PortfolioReact/)
 - 📧 Mail de contacto: fabianmartinezrincon.123@gmail.com
 

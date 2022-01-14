@@ -2,5 +2,7 @@
 <img src="https://media.giphy.com/media/NGp9QCXJcBPuU/giphy.gif"/>
  </div>
  
-<h3 align="center"><a href="https://fabian-martinez1.github.io/PortfolioReact/" target="_blank">Portfolio</a> </h3> 
 
+
+- 📁 [Portfolio](https://fabian-martinez1.github.io/PortfolioReact/)
+- 📧 Mail de contacto: fabianmartinezrincon.123@gmail.com

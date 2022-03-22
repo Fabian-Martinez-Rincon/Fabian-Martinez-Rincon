@@ -11,17 +11,22 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabian-Martinez1&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+## 📚 Materias
 
-<div>
+
   
 <a href="https://github.com/Fabian-Martinez1/FOD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez1&repo=FOD&theme=dark" />
-</a> &nbsp;      
+  <img align="center" height="95em" src="https://github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez1&repo=FOD&theme=dark" />
+</a> &nbsp;   
+  
+  
 <a href="https://github.com/Fabian-Martinez1/AyED">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez1&repo=ayed&theme=dark" />
+  <img align="center" height="95em" src="https://github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez1&repo=ayed&theme=dark" />
 </a>
+  
+  
 <a href="https://github.com/Fabian-Martinez1/Seminario-de-Lenguajes-Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez1&repo=Seminario-de-Lenguajes-Python&theme=dark" />
+  <img align="center" height="95em" src="https://github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez1&repo=Seminario-de-Lenguajes-Python&theme=dark" />
 </a>
 
 

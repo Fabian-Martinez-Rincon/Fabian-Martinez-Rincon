@@ -29,23 +29,3 @@
   <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez1&repo=Seminario-de-Lenguajes-Python&theme=dark" />
 </a>
 
-&nbsp; 
-
-
-
-
-<a href="https://github.com/Fabian-Martinez1/Taller-de-Programacion">
-  <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez1&repo=Taller-de-Programacion&theme=dark" />
-</a>  
-  
-  
-<a href="https://github.com/Fabian-Martinez1/Arquitectura-de-Computadoras">
-  <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez1&repo=Arquitectura-de-Computadoras&theme=dark" />
-</a>
-  
-  
-<a href="https://github.com/Fabian-Martinez1/CADP">
-  <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez1&repo=CADP&theme=dark" />
-</a>
-
-

@@ -22,8 +22,8 @@
 
 
 
-<img  height="240em" src="https://media.giphy.com/media/xUNd9FM5B4LDxkDgHK/giphy.gif"/>
+<img  height="225em" src="https://media.giphy.com/media/xUNd9FM5B4LDxkDgHK/giphy.gif"/>
   
-  <img height="240em" src="https://media.giphy.com/media/Vg5B8A4WX2bItzYXq1/giphy.gif"/>
+  <img height="225em" src="https://media.giphy.com/media/Vg5B8A4WX2bItzYXq1/giphy.gif"/>
   
 </div>

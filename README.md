@@ -1,6 +1,8 @@
-<div align="center">
 
-## 📚 Materias Actuales
+
+<h1 align="center">📚 Materias Actuales</h1>
+  
+<div align="center">
 
 <a href="https://github.com/Fabian-Martinez1/FOD">
   <img align="center" height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez1&repo=FOD&theme=ayu-mirage" />

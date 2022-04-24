@@ -24,9 +24,9 @@ src="https://media.giphy.com/media/YVsqk0CpvC1upjGqHl/giphy.gif" height="38" /><
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/dice-roll-albert-ext"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez1&repo=FOD&theme=react&bg_color=1F222E&title_color=0176FF&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez1&repo=ayed&theme=react&bg_color=1F222E&title_color=0176FF&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/DenverCoder1/custom-icon-badges"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez1&repo=Seminario-de-Lenguajes-Python&theme=react&bg_color=1F222E&title_color=0176FF&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/Fabian-Martinez1/FOD"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez1&repo=FOD&theme=react&bg_color=1F222E&title_color=0176FF&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
+  <a href="https://github.com/Fabian-Martinez1/Seminario-de-Lenguajes-Python"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez1&repo=ayed&theme=react&bg_color=1F222E&title_color=0176FF&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Fabian-Martinez1/AyED"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez1&repo=Seminario-de-Lenguajes-Python&theme=react&bg_color=1F222E&title_color=0176FF&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 
 </p>
 

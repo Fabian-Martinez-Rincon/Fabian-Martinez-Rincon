@@ -1,9 +1,6 @@
 <h1 align="center"><img src="https://media.giphy.com/media/NE353aasvIpC7u6aHv/giphy.gif" height="38" /> Hi there, I'm <a href="https://fabian-martinez1.github.io/" target="_blank">Fabian Martinez</a>
  <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/NE353aasvIpC7u6aHv/giphy.gif" height="38" /></h1>
 
-
-
-
 Espero que esta data les ayude :D
 
 <a href="#"><img align="right" src="https://media.giphy.com/media/l3vRd7MSzBC4H8FyM/giphy.gif" width="340 " height="280" /></a>

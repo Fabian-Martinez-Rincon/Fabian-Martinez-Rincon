@@ -3,7 +3,16 @@
 
 Espero que esta data les ayude :D
 
-<a href="#"><img align="right" src="https://media.giphy.com/media/3o7WTFmAMnKd7DyrQY/giphy.gif" width="340 " height="280" /></a>
+
+<table align="right">
+<tr>
+<td> <a href="#"><img src="https://media.giphy.com/media/l41lO3XKps6PUdUsw/giphy.gif" width="270 " height="270" /></a> </td> <td><a href="#"><img src="https://media.giphy.com/media/l41lO3XKps6PUdUsw/giphy.gif" width="270 " height="270"/></a> </td>
+</tr>
+
+</table>
+
+
+
 
 ### ```Proyectos``` 
 

@@ -10,7 +10,7 @@ Espero que esta data les ayude :D
 </tr>
 
  <tr>
-<td> <a href="#"><img src="/91 (1).gif" width="230 " height="230" /></a> </td> <td><a href="#"><img src="https://media.giphy.com/media/l41lO3XKps6PUdUsw/giphy.gif" width="230 " height="230"/></a> </td>
+<td> <a href="#"><img src="/91 (1).gif" width="230 " height="230" /></a> </td> <td><a href="#"><img src="/2.gif" width="230 " height="230"/></a> </td>
 </tr>
  
 </table>
@@ -30,6 +30,7 @@ Espero que esta data les ayude :D
 - <a href='https://fabian-martinez1.github.io/Converter-OC/' target='_blank'>Converter OC</a> - 2021-02-25
 - <a href='https://fabian-martinez1.github.io/Keypad/' target='_blank'>Keypad</a> - 2020-06-30
 
+</br>
 
 <h1 align="center"><img style="transform:scaleX(-1);" src="https://media.giphy.com/media/YVsqk0CpvC1upjGqHl/giphy.gif" height="38" /> Materias Actuales</a>
  <img 

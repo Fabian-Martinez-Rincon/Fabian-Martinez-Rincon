@@ -6,9 +6,13 @@ Espero que esta data les ayude :D
 
 <table align="right">
 <tr>
-<td> <a href="#"><img src="/91 (1).gif" width="230 " height="230" /></a> </td> <td><a href="#"><img src="https://media.giphy.com/media/l41lO3XKps6PUdUsw/giphy.gif" width="230 " height="230"/></a> </td>
+<td>  <div align="center">Mega Conversor OC</div> </td> <td> <div align="center" >Zona Fabo</div> </td>
 </tr>
 
+ <tr>
+<td> <a href="#"><img src="/91 (1).gif" width="230 " height="230" /></a> </td> <td><a href="#"><img src="https://media.giphy.com/media/l41lO3XKps6PUdUsw/giphy.gif" width="230 " height="230"/></a> </td>
+</tr>
+ 
 </table>
 
 

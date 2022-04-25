@@ -6,7 +6,7 @@ Espero que esta data les ayude :D
 
 <table align="right">
 <tr>
-<td> <a href="#"><img src="https://media.giphy.com/media/l41lO3XKps6PUdUsw/giphy.gif" width="270 " height="270" /></a> </td> <td><a href="#"><img src="https://media.giphy.com/media/l41lO3XKps6PUdUsw/giphy.gif" width="270 " height="270"/></a> </td>
+<td> <a href="#"><img src="https://media.giphy.com/media/l41lO3XKps6PUdUsw/giphy.gif" width="240 " height="240" /></a> </td> <td><a href="#"><img src="https://media.giphy.com/media/l41lO3XKps6PUdUsw/giphy.gif" width="240 " height="240"/></a> </td>
 </tr>
 
 </table>

@@ -1,5 +1,5 @@
-<h1 align="center"><img src="https://media.giphy.com/media/NE353aasvIpC7u6aHv/giphy.gif" height="38" /> Hi there, I'm <a href="https://fabian-martinez1.github.io/" target="_blank">Fabian Martinez</a>
- <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/NE353aasvIpC7u6aHv/giphy.gif" height="38" /></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/SUDr9512mOzZrAbMcv/giphy.gif" height="38" /> Hi there, I'm <a href="https://fabian-martinez1.github.io/" target="_blank">Fabian Martinez</a>
+ <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/J5dm29T4xgwyEnUYYc/giphy.gif" height="38" /></h1>
 
 <table align="right">
 <tr>

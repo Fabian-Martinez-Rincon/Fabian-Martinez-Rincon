@@ -1,9 +1,6 @@
 <h1 align="center"><img src="https://media.giphy.com/media/NE353aasvIpC7u6aHv/giphy.gif" height="38" /> Hi there, I'm <a href="https://fabian-martinez1.github.io/" target="_blank">Fabian Martinez</a>
  <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/NE353aasvIpC7u6aHv/giphy.gif" height="38" /></h1>
 
-Espero que esta data les ayude :D
-
-
 <table align="right">
 <tr>
 <td>  <div align="center">Mega Conversor OC</div> </td> <td> <div align="center" >Zona Fabo</div> </td>

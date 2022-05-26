@@ -61,20 +61,10 @@ src="https://media.giphy.com/media/YVsqk0CpvC1upjGqHl/giphy.gif" height="38" /><
 
   <b>Nota:</b> Los idiomas principales son solo una métrica de los idiomas en los que se compone mi código público y no reflejan la experiencia o el nivel de habilidad.
 <br>
-
  <a align="center" href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Fabian-Martinez's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Fabian-Martinez1&bg_color=1F222E&color=F8D866&line=0176FF&point=FFFFFF&hide_border=true" /></a>
-
-
-
-
 </details>
 
-
-
-
-
 <details> 
- 
    <summary><h1 align="center"><img style="transform:scaleX(-1);" src="https://media.giphy.com/media/9Jz0uH4BsT55UDyKML/giphy.gif" height="38" /> Materias de Primero</a>
  <img 
 src="https://media.giphy.com/media/9Jz0uH4BsT55UDyKML/giphy.gif" height="38" /></h1></summary>

@@ -45,14 +45,16 @@ src="https://media.giphy.com/media/YVsqk0CpvC1upjGqHl/giphy.gif" height="38" /><
 
 
 
-<h1 align="center"><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="38" /> Github stats</a>
- <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="38" /></h1>
+
 
 <!-- https://github.com/Fabian-Fartinez1/github-readme-stats -->
 
 <details> 
 
-  <summary>💻 GitHub Profile Stats</summary>
+ 
+ 
+  <summary><h1 align="center"><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="38" /> Github stats</a>
+ <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="38" /></h1></summary>
   <br/>
     <a align="center" href="https://github.com/Fabian-Fartinez1/github-readme-stats"><img alt="Fabian-Martinez1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Fabian-Martinez1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=0176FF&icon_color=F8D866" height="192px"/></a>
   <a align="center" href="https://github.com/Fabian-Fartinez1/github-readme-stats"><img alt="Fabian-Martinez's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabian-Martinez1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=0176FF&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
@@ -68,12 +70,15 @@ src="https://media.giphy.com/media/YVsqk0CpvC1upjGqHl/giphy.gif" height="38" /><
 </details>
 
 
-<h1 align="center"><img style="transform:scaleX(-1);" src="https://media.giphy.com/media/9Jz0uH4BsT55UDyKML/giphy.gif" height="38" /> Materias de Primero</a>
- <img 
-src="https://media.giphy.com/media/9Jz0uH4BsT55UDyKML/giphy.gif" height="38" /></h1>
+
 
 
 <details> 
+ 
+   <summary><h1 align="center"><img style="transform:scaleX(-1);" src="https://media.giphy.com/media/9Jz0uH4BsT55UDyKML/giphy.gif" height="38" /> Materias de Primero</a>
+ <img 
+src="https://media.giphy.com/media/9Jz0uH4BsT55UDyKML/giphy.gif" height="38" /></h1></summary>
+ 
 
 <p align="center">
   <a href="https://github.com/Fabian-Martinez1/EPA"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez1&repo=EPA&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>

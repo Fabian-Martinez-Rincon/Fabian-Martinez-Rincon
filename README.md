@@ -7,7 +7,7 @@
 </tr>
 
  <tr>
-<td> <a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img src="./img/Mega_Conversor_OC.gif" width="215 " height="215" /></a> </td> <td><a href="https://zonafabo.github.io/"><img src="./img/Zona_Fabo.gif" width="215 " height="215"/></a> </td>
+<td> <a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img src="./Mega_Conversor_OC.gif" width="215 " height="215" /></a> </td> <td><a href="https://zonafabo.github.io/"><img src="./Zona_Fabo.gif" width="215 " height="215"/></a> </td>
 </tr>
  
 </table>

@@ -29,18 +29,6 @@
 
 
 
-<h1 align="center"><img style="transform:scaleX(-1);" src="https://media.giphy.com/media/YVsqk0CpvC1upjGqHl/giphy.gif" height="38" /> Materias Actuales</a>
- <img 
-src="https://media.giphy.com/media/YVsqk0CpvC1upjGqHl/giphy.gif" height="38" /></h1>
-
-
-
-<p align="center">
-  <a href="https://github.com/Fabian-Martinez1/FOD"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez1&repo=FOD&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
-  <a href="https://github.com/Fabian-Martinez1/AyED"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez1&repo=ayed&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/Fabian-Martinez1/Seminario-de-Lenguajes-Python"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez1&repo=Seminario-de-Lenguajes-Python&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-
-</p>
 
 
 
@@ -49,36 +37,12 @@ src="https://media.giphy.com/media/YVsqk0CpvC1upjGqHl/giphy.gif" height="38" /><
 
 <!-- https://github.com/Fabian-Fartinez1/github-readme-stats -->
 
-<details> 
 
- 
- 
-  <summary><h1 align="center"><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="38" /> Github stats</a>
- <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="38" /></h1></summary>
   <br/>
     <a align="center" href="https://github.com/Fabian-Fartinez1/github-readme-stats"><img alt="Fabian-Martinez1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Fabian-Martinez1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=0176FF&icon_color=F8D866" height="192px"/></a>
   <a align="center" href="https://github.com/Fabian-Fartinez1/github-readme-stats"><img alt="Fabian-Martinez's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabian-Martinez1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=0176FF&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 
-  <b>Nota:</b> Los idiomas principales son solo una métrica de los idiomas en los que se compone mi código público y no reflejan la experiencia o el nivel de habilidad.
-<br>
  <a align="center" href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Fabian-Martinez's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Fabian-Martinez1&bg_color=1F222E&color=F8D866&line=0176FF&point=FFFFFF&hide_border=true" /></a>
-</details>
 
-<details> 
-   <summary><h1 align="center"><img style="transform:scaleX(-1);" src="https://media.giphy.com/media/9Jz0uH4BsT55UDyKML/giphy.gif" height="38" /> Materias de Primero</a>
- <img 
-src="https://media.giphy.com/media/9Jz0uH4BsT55UDyKML/giphy.gif" height="38" /></h1></summary>
- 
 
-<p align="center">
-  <a href="https://github.com/Fabian-Martinez1/EPA"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez1&repo=EPA&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
-  <a href="https://github.com/Fabian-Martinez1/CADP"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez1&repo=CADP&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/Fabian-Martinez1/Taller-de-Programacion"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez1&repo=Taller-de-Programacion&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 
- <br>
-  <a href="https://github.com/Fabian-Martinez1/OC"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez1&repo=OC&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
-  <a href="https://github.com/Fabian-Martinez1/Arquitectura-de-Computadoras"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez1&repo=Arquitectura-de-Computadoras&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
-
- 
-</p>
- </details> 

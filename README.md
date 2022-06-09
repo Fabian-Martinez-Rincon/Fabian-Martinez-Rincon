@@ -12,8 +12,7 @@
  
 </table>
 
-### ```Proyectos``` 
-
+### 📌```Proyectos``` 
 - <a href='https://fabian-martinez1.github.io/' target='_blank'>Portfolio</a> 
 - <a href='https://fabian-martinez1.github.io/Mega-Conversor-OC/' target='_blank'>MEGA CONVERSOR OC</a> 
 - <a href='https://fabian-martinez1.github.io/Old_Portfolio/' target='_blank'>Old Portfolio</a> 
@@ -21,7 +20,6 @@
 - <a href='https://fabian-martinez1.github.io/Efficiency_X/' target='_blank'>Eficiencia X</a> 
 - <a href='https://fabian-martinez1.github.io/Transform-Pokemon-Resolution/' target='_blank'>Transform Pokemon Resolution</a> 
 - <a href='https://fabian-martinez1.github.io/Lock/' target='_blank'>Lock</a> 
-- <a href='https://fabian-martinez1.github.io/Converter-OC/' target='_blank'>Converter OC</a> 
 - <a href='https://fabian-martinez1.github.io/Keypad/' target='_blank'>Keypad</a>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)

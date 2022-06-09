@@ -27,14 +27,14 @@
 
 ![Metrics](https://metrics.lecoq.io/Fabian-Martinez1?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FShanghai)
 
-<details> <summary>Stats</summary>
+<details> <summary>📈 Stats</summary>
 
  <a align="center" href="https://github.com/Fabian-Fartinez1/github-readme-stats"><img alt="Fabian-Martinez1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Fabian-Martinez1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=0176FF&icon_color=F8D866" height="192px"/></a>
   <a align="center" href="https://github.com/Fabian-Fartinez1/github-readme-stats"><img alt="Fabian-Martinez's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabian-Martinez1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=0176FF&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 
 </details>
 
-<details><summary>Materias</summary>
+<details><summary>📘 Materias</summary>
 
    <a href="https://github.com/Fabian-Martinez1/FOD"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez1&repo=FOD&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
   <a href="https://github.com/Fabian-Martinez1/AyED"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez1&repo=ayed&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>

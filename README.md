@@ -19,8 +19,6 @@
 - <a href='https://zonafabo.github.io/' target='_blank'>Zona Fabo</a> 
 - <a href='https://fabian-martinez1.github.io/Efficiency_X/' target='_blank'>Eficiencia X</a> 
 - <a href='https://fabian-martinez1.github.io/Transform-Pokemon-Resolution/' target='_blank'>Transform Pokemon Resolution</a> 
-- <a href='https://fabian-martinez1.github.io/Lock/' target='_blank'>Lock</a> 
-- <a href='https://fabian-martinez1.github.io/Keypad/' target='_blank'>Keypad</a>
 - <a href='https://mith-arg.github.io/EI-Materias-Web/aboutme/' target='_blank'>EI-Materias</a>
 
 

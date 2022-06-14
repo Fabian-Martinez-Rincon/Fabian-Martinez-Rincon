@@ -5,8 +5,8 @@
 
 
 
-<a href="https://zonafabo.github.io/"><img align="right" src="./Zona_Fabo.gif" width="215 " height="215"/></a> 
-<a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img align="right" src="./Mega_Conversor_OC.gif" width="215 " height="215" /></a>
+<a href="https://zonafabo.github.io/"><img align="right" src="./Zona_Fabo.gif"  height="215"/></a> 
+<a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img align="right" src="./Mega_Conversor_OC.gif"  height="215" /></a>
 
 
 ### 📌```Proyectos``` 

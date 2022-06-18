@@ -1,38 +1,20 @@
 <h1 align="center"><img src="https://media.giphy.com/media/3oKIPkHXpUP8lIO0AU/giphy.gif" height="38" /> Hi there, I'm <a href="https://fabian-martinez1.github.io/" target="_blank">Fabian Martinez</a>
  <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/3oKIPkHXpUP8lIO0AU/giphy.gif" height="38" /></h1>
 
-
-
-
-
-
-<table align="right"><tr><td>
-    <a href="https://zonafabo.github.io/"><img align="right" src="./Zona_Fabo.gif"  height="215"/></a> <a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img align="right" src="./Mega_Conversor_OC.gif"  height="215" /></a> 
-</td></tr></table>
-
-### 📌```Proyectos``` 
-- <a href='https://fabian-martinez1.github.io/' target='_blank'>Portfolio</a> 
-- <a href='https://fabian-martinez1.github.io/Mega-Conversor-OC/' target='_blank'>MEGA CONVERSOR OC</a> 
-- <a href='https://fabian-martinez1.github.io/Old_Portfolio/' target='_blank'>Old Portfolio</a> 
-- <a href='https://zonafabo.github.io/' target='_blank'>Zona Fabo</a> 
-- <a href='https://fabian-martinez1.github.io/Efficiency_X/' target='_blank'>Eficiencia X</a> 
-- <a href='https://fabian-martinez1.github.io/Transform-Pokemon-Resolution/' target='_blank'>Transform Pokemon Resolution</a> 
-- <a href='https://mith-arg.github.io/EI-Materias-Web/aboutme/' target='_blank'>EI-Materias</a>
-
-
-
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h3 align ="center">Proyectos</h3>
 
 
 <table align ="center">
 <tr>
-<td align="center"><a href="https://zonafabo.github.io/"><img  width="160" height="101" src="logos/ZonaFabo.svg" alt="RobotScript-Icon" /><br />Zona_Fabo</a></td>
-<td align="center"><a href="https://mith-arg.github.io/EI-Materias-Web/"><img width="250" height="100" src="logos/EI-Materias.svg" alt="EI-Materias" /><br />EI-Materias</a></td>
-<td align="center"><a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img width="250" height="100" src="logos/SinFondo.svg" alt="Mega Conversor OC" /><br />MC OC</a></td>
-<td align="center"><a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img width="160" height="100" src="logos/portfolio2.svg" alt="Mega Conversor OC" /><br />Portfolio</a></td>
-<td align="center"><a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img width="160" height="100" src="logos/oldPortfolio.svg" alt="Mega Conversor OC" /><br />Old_Portfolio</a></td>
-<td align="center"><a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img width="160" height="100" src="logos/Pokemon.svg" alt="Mega Conversor OC" /><br />Transform Resoluction</a></td>
-</tr>        
+<td align="center"><a href="https://zonafabo.github.io/"><img  width="100" height="101" src="logos/ZonaFabo.svg" alt="RobotScript-Icon" /><br />Zona_Fabo</a></td>
+<td align="center"><a href="https://mith-arg.github.io/EI-Materias-Web/"><img width="100" height="100" src="logos/EI-Materias.svg" alt="EI-Materias" /><br />EI-Materias</a></td>
+<td align="center"><a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img width="100" height="100" src="logos/SinFondo.svg" alt="Mega Conversor OC" /><br />MC_OC</a></td>
+<td align="center"><a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img width="100" height="100" src="logos/Portfolio2.svg" alt="Mega Conversor OC" /><br />Portfolio</a></td>
+<td align="center"><a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img width="100" height="100" src="logos/oldPortfolio.svg" alt="Mega Conversor OC" /><br />Old_Portfolio</a></td>
+<td align="center"><a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img width="100" height="100" src="logos/Pokemon.svg" alt="Mega Conversor OC" /><br />Transform Resoluction</a></td>
+</tr>       
 </table>
 
 

@@ -2,7 +2,36 @@
  <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/3oKIPkHXpUP8lIO0AU/giphy.gif" height="38" /></h1>
 
 
-<h3 align ="center">Proyectos</h3>
+
+
+
+
+
+<table align="right">
+<tr>
+<td>  <div align="center">Mega Conversor OC</div> </td> <td> <div align="center" >Zona Fabo</div> </td>
+</tr>
+
+ <tr>
+<td> <a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img src="./Mega_Conversor_OC.gif" width="215 " height="215" /></a> </td> <td><a href="https://zonafabo.github.io/"><img src="./Zona_Fabo.gif" width="215 " height="215"/></a> </td>
+</tr>
+ 
+</table>
+
+### 📌```Proyectos``` 
+- <a href='https://fabian-martinez1.github.io/' target='_blank'>Portfolio</a> 
+- <a href='https://fabian-martinez1.github.io/Mega-Conversor-OC/' target='_blank'>MEGA CONVERSOR OC</a> 
+- <a href='https://fabian-martinez1.github.io/Old_Portfolio/' target='_blank'>Old Portfolio</a> 
+- <a href='https://zonafabo.github.io/' target='_blank'>Zona Fabo</a> 
+- <a href='https://fabian-martinez1.github.io/Efficiency_X/' target='_blank'>Eficiencia X</a> 
+- <a href='https://fabian-martinez1.github.io/Transform-Pokemon-Resolution/' target='_blank'>Transform Pokemon Resolution</a> 
+- <a href='https://mith-arg.github.io/EI-Materias-Web/aboutme/' target='_blank'>EI-Materias</a>
+
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h3 align ="center">📌Proyectos</h3>
 
 
 <table align ="center">
@@ -11,21 +40,24 @@
 <td align="center"><a href="https://mith-arg.github.io/EI-Materias-Web/"><img width="100" height="100" src="logos/EI-Materias.svg" alt="EI-Materias" /><br />EI-Materias</a></td>
 <td align="center"><a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img width="100" height="100" src="logos/SinFondo.svg" alt="Mega Conversor OC" /><br />MC_OC</a></td>
 <td align="center"><a href="https://fabian-martinez1.github.io/"><img width="100" height="100" src="logos/Portfolio2.svg" alt="Portfolio" /><br />Portfolio</a></td>
-<td align="center"><a href="https://fabian-martinez1.github.io/Old_Portfolio/"><img width="100" height="100" src="logos/Old.svg" alt="Old" /><br />OLD</a></td>
-<td align="center"><a href="https://fabian-martinez1.github.io/Transform-Pokemon-Resolution/"><img width="100" height="100" src="logos/Pokemon.svg" alt="Transform Resolution" /><br />Transform Resolution</a></td>
+
 </tr>  
 <tr>
 <td align="center"><a href="https://fabian-martinez1.github.io/Converter-OC/"><img  width="100" height="101" src="logos/converter.svg" alt="Converter OC" /><br />Converter OC</a></td>
 <td align="center"><a href="https://fabian-martinez1.github.io/Keypad/"><img width="100" height="100" src="logos/Keypad.svg" alt="KEYPAD" /><br />KEYPAD</a></td>
 <td align="center"><a href="https://fabian-martinez1.github.io/Lock/"><img width="100" height="100" src="logos/Lock.svg" alt="LOCK" /><br />LOCK</a></td>
 <td align="center"><a href="https://fabian-martinez1.github.io/Efficiency_X/"><img width="100" height="100" src="logos/Eficiencia.svg" alt="Eficiencia X" /><br />Eficiencia X</a></td>
+
+</tr>       
+
+<tr>
 <td align="center"><a href="https://fabian-martinez1.github.io/Resume/"><img width="100" height="100" src="logos/CV.svg" alt="Resume" /><br />Resume</a></td>
 <td align="center"><a href="https://fabian-martinez1.github.io/Quien-quiere-ser-aprobado/"><img width="100" height="100" src="logos/Millonario.svg" alt="QQS_APROBADO" /><br />APROBADO</a></td>
-</tr>       
+<td align="center"><a href="https://fabian-martinez1.github.io/Old_Portfolio/"><img width="100" height="100" src="logos/Old.svg" alt="Old" /><br />OLD</a></td>
+<td align="center"><a href="https://fabian-martinez1.github.io/Transform-Pokemon-Resolution/"><img width="100" height="100" src="logos/Pokemon.svg" alt="Transform Resolution" /><br />Transform Resolution</a></td>
+</tr>
+
 </table>
-
-
-
 
 ![Metrics](https://metrics.lecoq.io/Fabian-Martinez1?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FShanghai)
 
@@ -52,3 +84,15 @@
   <a href="https://github.com/Fabian-Martinez1/Arquitectura-de-Computadoras"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez1&repo=Arquitectura-de-Computadoras&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
 
 </details>
+
+
+
+
+
+
+
+
+
+
+
+

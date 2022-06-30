@@ -19,22 +19,16 @@
 </table>
 
 ### 📌```Proyectos``` 
-- <a href='https://fabian-martinez1.github.io/' target='_blank'>Portfolio</a> 
-- <a href='https://fabian-martinez1.github.io/Mega-Conversor-OC/' target='_blank'>MEGA CONVERSOR OC</a> 
-- <a href='https://fabian-martinez1.github.io/Old_Portfolio/' target='_blank'>Old Portfolio</a> 
-- <a href='https://zonafabo.github.io/' target='_blank'>Zona Fabo</a> 
-- <a href='https://fabian-martinez1.github.io/Efficiency_X/' target='_blank'>Eficiencia X</a> 
-- <a href='https://fabian-martinez1.github.io/Transform-Pokemon-Resolution/' target='_blank'>Transform Pokemon Resolution</a> 
-- <a href='https://mith-arg.github.io/EI-Materias-Web/aboutme/' target='_blank'>EI-Materias</a>
+Hola, mi nombre es Fabián, soy técnico electrónico y actualmente estudio licenciatura en informática (UNLP Argentina). Mis intereses actuales se centran en el desarrollo de web y el machine learning. Aquí está mi [resume](https://fabian-martinez1.github.io/Resume/) completo y puedes contactarme enviando un correo electrónico a [mail](fabianmartinezrincon.123@gmail.com).
 
 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 
 <h3 align ="center">📌Proyectos</h3>
 
 
-<table align ="center">
+<table align ="center" width="1">
 <tr>
 <td align="center"><a href="https://zonafabo.github.io/"><img  width="100" height="101" src="logos/ZonaFabo.svg" alt="RobotScript-Icon" /><br />Zona_Fabo</a></td>
 <td align="center"><a href="https://mith-arg.github.io/EI-Materias-Web/"><img width="100" height="100" src="logos/EI-Materias.svg" alt="EI-Materias" /><br />EI-Materias</a></td>

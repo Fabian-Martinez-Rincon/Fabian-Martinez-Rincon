@@ -13,45 +13,69 @@
 </tr>
 
  <tr>
-<td> <a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img src="./Mega_Conversor_OC.gif" width="215 " height="215" /></a> </td> <td><a href="https://zonafabo.github.io/"><img src="./Zona_Fabo.gif" width="215 " height="215"/></a> </td>
+<td> <a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img src="./Mega_Conversor_OC.gif" width="190 " height="190" /></a> </td> <td><a href="https://zonafabo.github.io/"><img src="./Zona_Fabo.gif" width="190 " height="190"/></a> </td>
 </tr>
  
 </table>
 
-### 📌```Proyectos``` 
+### 🤖```Yop``` 
 Hola, mi nombre es Fabián, soy técnico electrónico y actualmente estudio licenciatura en informática (UNLP Argentina). Mis intereses actuales se centran en el desarrollo de web y el machine learning. Aquí está mi [resume](https://fabian-martinez1.github.io/Resume/) completo y puedes contactarme enviando un correo electrónico a [mail](fabianmartinezrincon.123@gmail.com).
 
 
+---
 
 
+### 📌Proyectos
 
-<h3 align ="center">📌Proyectos</h3>
 
+<div align="right">
+<a href="https://zonafabo.github.io/"><img  width="100" height="101" src="logos/ZonaFabo.svg" alt="RobotScript-Icon" /><br />Zona_Fabo</a>
+</div><div align="right">
+<a href="https://mith-arg.github.io/EI-Materias-Web/"><img width="100" height="100" src="logos/EI-Materias.svg" alt="EI-Materias" /><br />EI-Materias</a>
+</div>
 
-<table align ="center" width="1">
-<tr>
-<td align="center"><a href="https://zonafabo.github.io/"><img  width="100" height="101" src="logos/ZonaFabo.svg" alt="RobotScript-Icon" /><br />Zona_Fabo</a></td>
-<td align="center"><a href="https://mith-arg.github.io/EI-Materias-Web/"><img width="100" height="100" src="logos/EI-Materias.svg" alt="EI-Materias" /><br />EI-Materias</a></td>
-<td align="center"><a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img width="100" height="100" src="logos/SinFondo.svg" alt="Mega Conversor OC" /><br />MC_OC</a></td>
+<div align="right">
+<a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img width="100" height="100" src="logos/SinFondo.svg" alt="Mega Conversor OC" /><br />MC_OC</a>
+</div>
+
+<div>
 <td align="center"><a href="https://fabian-martinez1.github.io/"><img width="100" height="100" src="logos/Portfolio2.svg" alt="Portfolio" /><br />Portfolio</a></td>
+</div>
 
-</tr>  
-<tr>
-<td align="center"><a href="https://fabian-martinez1.github.io/Converter-OC/"><img  width="100" height="101" src="logos/converter.svg" alt="Converter OC" /><br />Converter OC</a></td>
-<td align="center"><a href="https://fabian-martinez1.github.io/Keypad/"><img width="100" height="100" src="logos/Keypad.svg" alt="KEYPAD" /><br />KEYPAD</a></td>
-<td align="center"><a href="https://fabian-martinez1.github.io/Lock/"><img width="100" height="100" src="logos/Lock.svg" alt="LOCK" /><br />LOCK</a></td>
-<td align="center"><a href="https://fabian-martinez1.github.io/Efficiency_X/"><img width="100" height="100" src="logos/Eficiencia.svg" alt="Eficiencia X" /><br />Eficiencia X</a></td>
+<div>
+<a href="https://fabian-martinez1.github.io/Converter-OC/"><img  width="100" height="101" src="logos/converter.svg" alt="Converter OC" /><br />Converter OC</a>
+</div>
 
-</tr>       
+<div>
+<td align="center"><a href="https://fabian-martinez1.github.io/Keypad/"><img width="100" height="100" src="logos/Keypad.svg" alt="KEYPAD" /><br />KEYPAD</a>
+</div>
 
-<tr>
+<div>
+<td align="center"><a href="https://fabian-martinez1.github.io/Lock/"><img width="100" height="100" src="logos/Lock.svg" alt="LOCK" /><br />LOCK</a>
+</div>
+
+<div>
+<td align="center"><a href="https://fabian-martinez1.github.io/Efficiency_X/"><img width="100" height="100" src="logos/Eficiencia.svg" alt="Eficiencia X" /><br />Eficiencia X</a>
+</div>
+  
+
+<div>
 <td align="center"><a href="https://fabian-martinez1.github.io/Resume/"><img width="100" height="100" src="logos/CV.svg" alt="Resume" /><br />Resume</a></td>
-<td align="center"><a href="https://fabian-martinez1.github.io/Quien-quiere-ser-aprobado/"><img width="100" height="100" src="logos/Millonario.svg" alt="QQS_APROBADO" /><br />APROBADO</a></td>
-<td align="center"><a href="https://fabian-martinez1.github.io/Old_Portfolio/"><img width="100" height="100" src="logos/Old.svg" alt="Old" /><br />OLD</a></td>
-<td align="center"><a href="https://fabian-martinez1.github.io/Transform-Pokemon-Resolution/"><img width="100" height="100" src="logos/Pokemon.svg" alt="Transform Resolution" /><br />Transform Resolution</a></td>
-</tr>
+</div>
 
-</table>
+<div>
+<td align="center"><a href="https://fabian-martinez1.github.io/Quien-quiere-ser-aprobado/"><img width="100" height="100" src="logos/Millonario.svg" alt="QQS_APROBADO" /><br />APROBADO</a>
+</div>
+
+<div>
+<td align="center"><a href="https://fabian-martinez1.github.io/Old_Portfolio/"><img width="100" height="100" src="logos/Old.svg" alt="Old" /><br />OLD</a>
+</div>
+
+<div>
+<td align="center"><a href="https://fabian-martinez1.github.io/Transform-Pokemon-Resolution/"><img width="100" height="100" src="logos/Pokemon.svg" alt="Transform Resolution" /><br />Transform Resolution</a>
+</div>
+
+
 
 ![Metrics](https://metrics.lecoq.io/Fabian-Martinez1?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&people=1&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&config.timezone=Asia%2FShanghai)
 

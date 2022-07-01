@@ -18,15 +18,16 @@
  
 </table>
 
-### 🤖```Yop``` 
+<h3 align="center"><img src="https://media.giphy.com/media/3oKIPkHXpUP8lIO0AU/giphy.gif" height="38" /> Yop</h3>
+ 
 Hola, mi nombre es Fabián, soy técnico electrónico y actualmente estudio licenciatura en informática (UNLP Argentina). Mis intereses actuales se centran en el desarrollo de web y el machine learning. Aquí está mi [resume](https://fabian-martinez1.github.io/Resume/) completo y puedes contactarme enviando un correo electrónico a [mail](fabianmartinezrincon.123@gmail.com).
 
 
 ---
 
 
-### 📌Proyectos
 
+<h3 ><img src="https://media.giphy.com/media/lOUQIB66MY7fgFEfUp/giphy.gif" height="38" /> Proyectos</h3>
 
 
 <!--START_SECTION:top-followers-->

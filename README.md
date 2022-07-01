@@ -27,7 +27,7 @@ Hola, mi nombre es Fabián, soy técnico electrónico y actualmente estudio lice
 
 
 
-<h3 ><img src="https://media.giphy.com/media/lOUQIB66MY7fgFEfUp/giphy.gif" height="38" /> Proyectos</h3>
+<h3 ><img src="https://media.giphy.com/media/lOUQIB66MY7fgFEfUp/giphy.gif" height="30" /> Proyectos</h3>
 
 
 <!--START_SECTION:top-followers-->

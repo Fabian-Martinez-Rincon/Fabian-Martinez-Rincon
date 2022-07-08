@@ -42,7 +42,6 @@ Hola, mi nombre es Fabián, soy técnico electrónico y actualmente estudio lice
 <a href="https://mith-arg.github.io/EI-Materias-Web/"><img width="60px" src="logos/EI-Materias.svg" alt="EI-Materias" /></a>
 <a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img width="60px"  src="logos/SinFondo.svg" alt="Mega Conversor OC" /></a>
 <a href="https://fabian-martinez1.github.io/"><img width="60px" src="logos/Portfolio2.svg" alt="Portfolio" /></a>
-<a href="https://fabian-martinez1.github.io/Converter-OC/"><img  width="60px"  src="logos/converter.svg" alt="Converter OC" /></a>
 <a href="https://fabian-martinez1.github.io/Keypad/"><img width="60px"  src="logos/Keypad.svg" alt="KEYPAD" /></a>
 <a href="https://fabian-martinez1.github.io/Lock/"><img width="60px"  src="logos/Lock.svg" alt="LOCK" /></a>
 <a href="https://fabian-martinez1.github.io/Efficiency_X/"><img width="60px"  src="logos/Eficiencia.svg" alt="Eficiencia X" /></a>

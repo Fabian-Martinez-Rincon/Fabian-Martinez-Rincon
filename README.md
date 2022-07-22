@@ -23,7 +23,7 @@
 Hola, mi nombre es Fabián, soy técnico electrónico y actualmente estudio licenciatura en informática (UNLP Argentina). Mis intereses actuales se centran en el desarrollo web y el machine learning.
 
 
-[![YouTube Badge](https://img.shields.io/badge/-@FaboHop-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q)](https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q)
+[![YouTube Badge](https://img.shields.io/badge/-@Fabot-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q)](https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q)
 [![Linkedin Badge](https://img.shields.io/badge/-fabianmartinez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabian-martinez-rincon/)](https://www.linkedin.com/in/fabian-martinez-rincon/)
 [![Instagram Badge](https://img.shields.io/badge/-@fabianm__11-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/fabianm__11/)](https://www.instagram.com/fabianm__11/)
 

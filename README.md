@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/3oKIPkHXpUP8lIO0AU/giphy.gif" height="38" /> Hi there, I'm <a href="https://fabian-martinez1.github.io/" target="_blank">Fabian Martinez</a>
+<h1 align="center"><img src="https://media.giphy.com/media/3oKIPkHXpUP8lIO0AU/giphy.gif" height="38" /> <a href="https://fabian-martinez1.github.io/" target="_blank">Fabo</a> para los amigos ;)
  <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/3oKIPkHXpUP8lIO0AU/giphy.gif" height="38" /></h1>
 
 <table align="right">
@@ -14,7 +14,7 @@
 
 <h3 align="center"> Un poco sobre mi  </h3>
  
-Hola, mi nombre es Fabián, soy técnico electrónico y actualmente estudio licenciatura en informática (UNLP Argentina). Mis intereses actuales se centran en el desarrollo web y el machine learning.
+Hola, mi nombre es Fabián, soy técnico electrónico y actualmente estudio licenciatura en informática (UNLP Argentina). Mis intereses actuales se centran en terminar la carrera y no morir :D.
 
 
 [![YouTube Badge](https://img.shields.io/badge/-@FaboCOD-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q)](https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q)

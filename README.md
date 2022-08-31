@@ -7,7 +7,7 @@
 </tr>
 
  <tr>
-<td> <a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img src="./Mega_Conversor_OC.gif" width="190 " height="190" /></a> </td> <td><a href="https://zonafabo.github.io/"><img src="./logos/ElMATERIAS.png" width="190 " height="190"/></a> </td>
+<td> <a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img src="./Mega_Conversor_OC.gif" width="190 " height="190" /></a> </td> <td><a href="https://mith-arg.github.io/EI-Materias-Web/"><img src="./logos/ElMATERIAS.png" width="190 " height="190"/></a> </td>
 </tr>
  
 </table>
@@ -29,7 +29,7 @@ Hola, mi nombre es Fabián, soy técnico electrónico y actualmente estudio lice
 
 
 
-<h3 ><img src="https://media.giphy.com/media/lOUQIB66MY7fgFEfUp/giphy.gif" height="30" /> Proyectos</h3>
+<h3 ><img src="https://media.giphy.com/media/lOUQIB66MY7fgFEfUp/giphy.gif" height="30" /> Proyectos y Organizaciones</h3>
 
 
 <!--START_SECTION:top-followers-->

@@ -3,11 +3,11 @@
 
 <table align="right">
 <tr>
-<td>  <div align="center">Mega Conversor OC</div> </td> <td> <div align="center" >Zona Fabo</div> </td>
+<td>  <div align="center">Mega Conversor OC</div> </td> <td> <div align="center" >El Materias</div> </td>
 </tr>
 
  <tr>
-<td> <a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img src="./Mega_Conversor_OC.gif" width="190 " height="190" /></a> </td> <td><a href="https://zonafabo.github.io/"><img src="./Zona_Fabo.gif" width="190 " height="190"/></a> </td>
+<td> <a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img src="./Mega_Conversor_OC.gif" width="190 " height="190" /></a> </td> <td><a href="https://zonafabo.github.io/"><img src="./logos/ElMATERIAS.png" width="190 " height="190"/></a> </td>
 </tr>
  
 </table>

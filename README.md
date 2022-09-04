@@ -23,9 +23,9 @@ Hola, mi nombre es Fabián, soy técnico electrónico y actualmente estudio lice
 
 
 <p align="center">
-    <a href="https://www.youtube.com/c/FaboCOD"><img alt="Youtube views" height="30" src="https://img.shields.io/youtube/channel/views/UC9LoqsWsp3E6ymT1j1JLC4Q?style=social"/></a>
+    <a href="https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q"><img alt="Youtube views" height="30" src="https://img.shields.io/youtube/channel/views/UC9LoqsWsp3E6ymT1j1JLC4Q?style=social"/></a>
     ‏‏‎ ‎
-    <a href="https://www.youtube.com/c/FaboCOD"><img alt="Youtube subscribers" height="30" src="https://img.shields.io/youtube/channel/subscribers/UC9LoqsWsp3E6ymT1j1JLC4Q?style=social"/></a>
+    <a href="https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q"><img alt="Youtube subscribers" height="30" src="https://img.shields.io/youtube/channel/subscribers/UC9LoqsWsp3E6ymT1j1JLC4Q?style=social"/></a>
 </p>
 
 

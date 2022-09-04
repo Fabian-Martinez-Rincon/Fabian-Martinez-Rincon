@@ -22,9 +22,13 @@ Hola, mi nombre es Fabián, soy técnico electrónico y actualmente estudio lice
 [![Instagram Badge](https://img.shields.io/badge/-@faboart_-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/faboart_/)](https://www.instagram.com/faboart_/)
 [![OpenSea](https://img.shields.io/badge/-@FaboartNFT-2081e2?style=flat-square&labelColor=2081e2&logo=opensea&logoColor=white&link=https://opensea.io/collection/untitled-collection-478941430)](https://opensea.io/collection/untitled-collection-478941430)
 
+<p align="center">
+    <a href="https://www.youtube.com/c/FaboCOD"><img alt="Youtube views" height="30" src="https://img.shields.io/youtube/channel/views/UC9LoqsWsp3E6ymT1j1JLC4Q?style=social"/></a>
+    ‏‏‎ ‎
+    <a href="https://www.youtube.com/c/FaboCOD"><img alt="Youtube subscribers" height="30" src="https://img.shields.io/youtube/channel/subscribers/UC9LoqsWsp3E6ymT1j1JLC4Q?style=social"/></a>
+</p>
 
 
----
 
 
 

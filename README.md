@@ -43,6 +43,3 @@ El que no usa el titulo de técnico electrónico y actualmente estudia licenciat
 
 
  
- <a align="center" href="https://github.com/Fabian-Fartinez1/github-readme-stats"><img alt="Fabian-Martinez1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Fabian-Martinez1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=0176FF&icon_color=F8D866" height="192px"/></a>
-  <a align="center" href="https://github.com/Fabian-Fartinez1/github-readme-stats"><img alt="Fabian-Martinez's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabian-Martinez1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=0176FF&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-

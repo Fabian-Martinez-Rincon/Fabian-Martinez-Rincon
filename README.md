@@ -7,8 +7,10 @@
 </tr>
 
 
+
+
  <tr>
-<td> <a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img src="./Mega_Conversor_OC.gif" width="190 " height="190" /></a> </td> <td><a href="https://mith-arg.github.io/EI-Materias-Web/"><img src="./logos/ElMATERIAS.png" width="190 " height="190"/></a> </td>
+<td> <a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img src="./Mega_Conversor_OC.gif" width="190 " height="190" /></a> </td> <td><a href="https://mith-arg.github.io/EI-Materias-Web/"><img src="https://user-images.githubusercontent.com/55964635/204922087-ee46641c-fd5b-418d-a35c-ae1203e8ec01.png" width="190 " /></a> </td>
 </tr>
  
 </table>

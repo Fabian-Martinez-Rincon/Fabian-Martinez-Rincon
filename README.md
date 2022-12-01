@@ -9,6 +9,7 @@
 
 
 
+
  <tr>
 <td> <a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img src="./Mega_Conversor_OC.gif" width="190 " height="190" /></a> </td> <td><a href="https://mith-arg.github.io/EI-Materias-Web/"><img src="https://user-images.githubusercontent.com/55964635/204922087-ee46641c-fd5b-418d-a35c-ae1203e8ec01.png" width="190 " /></a> </td>
 </tr>
@@ -35,7 +36,7 @@ El que no usa el titulo de técnico electrónico y actualmente estudia licenciat
 
 <a href="https://mith-arg.github.io/EI-Materias-Web/"><img width="60px" src="https://user-images.githubusercontent.com/55964635/204916834-acdf230e-7800-4b12-96f9-3e2008b9bfe8.png" alt="EI-Materias" /></a>
 <a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img width="60px"  src="logos/SinFondo.svg" alt="Mega Conversor OC" /></a>
-<a href="https://fabian-martinez1.github.io/"><img width="60px" src="logos/Portfolio2.svg" alt="Portfolio" /></a>
+<a href="https://fabian-martinez1.github.io/"><img width="60px" src="https://user-images.githubusercontent.com/55964635/204942876-99f4e7fe-ef54-4205-9965-ff1a009bf3bc.png" alt="Portfolio" /></a>
 <a href="https://fabian-martinez1.github.io/Resume/"><img width="60px" src="logos/CV.svg" alt="Resume" /></a>
 
 

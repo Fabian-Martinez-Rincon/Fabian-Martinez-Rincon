@@ -38,6 +38,10 @@ El que no usa el titulo de técnico electrónico y actualmente estudia licenciat
 <a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img width="60px"  src="logos/SinFondo.svg" alt="Mega Conversor OC" /></a>
 <a href="https://fabian-martinez1.github.io/"><img width="60px" src="https://user-images.githubusercontent.com/55964635/204942876-99f4e7fe-ef54-4205-9965-ff1a009bf3bc.png" alt="Portfolio" /></a>
 <a href="https://fabian-martinez1.github.io/Resume/"><img width="60px" src="logos/CV.svg" alt="Resume" /></a>
+<a href="https://fablog-mu.vercel.app/"><img width="60px" src="https://user-images.githubusercontent.com/55964635/206926260-d016fb1e-7797-452f-b725-79f6c23c8893.svg" alt="Resume" /></a>
+ 
+ 
+
 
 
 <!--END_SECTION:top-followers-->

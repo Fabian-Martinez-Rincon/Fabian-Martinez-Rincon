@@ -7,6 +7,9 @@
  
 El que no usa el titulo de técnico electrónico y actualmente estudia licenciatura en informática (UNLP). Mis intereses actuales se centran en terminar la carrera y no morir :D 
 
+![https://fabianmartinez.vercel.app/](https://user-images.githubusercontent.com/55964635/207183957-a8af95fd-a2f1-423b-b480-ced1122f7f62.png)
+
+
 [Portfolio](https://fabianmartinez.vercel.app/)
 
 

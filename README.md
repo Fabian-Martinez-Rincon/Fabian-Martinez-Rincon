@@ -1,9 +1,5 @@
+<a title="" href="https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q"><img src="https://user-images.githubusercontent.com/55964635/210648152-2d167e4b-5147-4a46-8285-c54be35a15ef.png" alt="" /></a>
 
-<a href='https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q'>
-![github](https://user-images.githubusercontent.com/55964635/210648152-2d167e4b-5147-4a46-8285-c54be35a15ef.png)
-
-</a>
-  
 <h1 align="center"> Skills
 
   

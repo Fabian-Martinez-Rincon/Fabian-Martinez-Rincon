@@ -16,7 +16,7 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=e9f8f3)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=e9f8f3)
   
-  
+[![Linkedin Badge](https://img.shields.io/badge/-NomaDiix-000000?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/@NomaDiix/featured)](https://www.youtube.com/@NomaDiix/featured)
 [![Linkedin Badge](https://img.shields.io/badge/-fabianmartinezrincon-000000?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabian-martinez-rincon/)](https://www.linkedin.com/in/fabian-martinez-rincon/)
 [![Instagram Badge](https://img.shields.io/badge/-@nomadiix_logos-000000?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/nomadiixlogos/)](https://www.instagram.com/nomadiixlogos/)
 [![Gmail Badge](https://img.shields.io/badge/-fabianmartinezrincon.123@gmaill.com-000000?style=flat&logo=Gmail&logoColor=white&link=mailto:fabianmartinezrincon.123@gmaill.com)](mailto:fabianmartinezrincon.123@gmaill.com)

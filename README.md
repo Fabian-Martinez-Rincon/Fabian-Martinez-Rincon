@@ -18,6 +18,7 @@
   
   
 
+[![Linkedin Badge](https://img.shields.io/badge/-Linktree-000000?style=flat&logo=Perfil&logoColor=white&link=https://linktree-fabian.vercel.app/)](https://linktree-fabian.vercel.app/)
 [![Linkedin Badge](https://img.shields.io/badge/-Cv/Resume-000000?style=flat&logo=Perfil&logoColor=white&link=https://nomadiix.github.io/Resume/)](https://nomadiix.github.io/Resume/)
 [![Linkedin Badge](https://img.shields.io/badge/-NomaDiix-000000?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/@NomaDiix/featured)](https://www.youtube.com/@NomaDiix/featured)
 [![Linkedin Badge](https://img.shields.io/badge/-fabianmartinezrincon-000000?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabian-martinez-rincon/)](https://www.linkedin.com/in/fabian-martinez-rincon/)

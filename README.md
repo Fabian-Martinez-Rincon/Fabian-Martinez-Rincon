@@ -25,17 +25,4 @@
 [![Instagram Badge](https://img.shields.io/badge/-@nomadiix_logos-000000?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/nomadiixlogos/)](https://www.instagram.com/nomadiixlogos/)
 [![Gmail Badge](https://img.shields.io/badge/-fabianmartinezrincon.123@gmaill.com-000000?style=flat&logo=Gmail&logoColor=white&link=mailto:fabianmartinezrincon.123@gmaill.com)](mailto:fabianmartinezrincon.123@gmaill.com)
 
-  
-</h1>
-
-<h1 align="center"> Materias Actuales 
-
-<br>
-  
-<a href="https://github.com/FaboCorp/OO1"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FaboCorp&repo=OO1&theme=react&bg_color=1E1E1E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
-<a href="https://github.com/FaboCorp/ISO"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FaboCorp&repo=ISO&theme=react&bg_color=1E1E1E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
-<a href="https://github.com/ZonaFabo/DBD"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FaboCorp&repo=DBD&theme=react&bg_color=1E1E1E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-<a href="https://github.com/FaboCorp/IS1"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FaboCorp&repo=IS1&theme=react&bg_color=1E1E1E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-
-</h1>
-
+ 

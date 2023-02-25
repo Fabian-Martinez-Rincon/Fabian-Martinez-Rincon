@@ -25,4 +25,21 @@
 [![Instagram Badge](https://img.shields.io/badge/-@nomadiix_logos-000000?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/nomadiixlogos/)](https://www.instagram.com/nomadiixlogos/)
 [![Gmail Badge](https://img.shields.io/badge/-fabianmartinezrincon.123@gmaill.com-000000?style=flat&logo=Gmail&logoColor=white&link=mailto:fabianmartinezrincon.123@gmaill.com)](mailto:fabianmartinezrincon.123@gmaill.com)
 
- 
+ ## 📘 Materias de Primero
+
+  <a href="https://github.com/FaboCorp/EPA"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FaboCorp&repo=EPA&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
+  <a href="https://github.com/NomaDiix/CADP"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NomaDiix&repo=CADP&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/NomaDiix/Taller-de-Programacion"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NomaDiix&repo=Taller-de-Programacion&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/FaboCorp/Organizacion_de_Computadoras"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FaboCorp&repo=Organizacion_de_Computadoras&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
+  <a href="https://github.com/NomaDiix/Arquitectura-de-Computadoras"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NomaDiix&repo=Arquitectura-de-Computadoras&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
+
+## 📕 Materias de Segundo
+
+<a href="https://github.com/FaboCorp/FOD"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FaboCorp&repo=FOD&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
+<a href="https://github.com/FaboCorp/AyED"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FaboCorp&repo=ayed&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
+<a href="https://github.com/FaboCorp/Seminario-de-Lenguajes-Python"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FaboCorp&repo=Seminario-de-Lenguajes-Python&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/FaboCorp/OO1"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FaboCorp&repo=OO1&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
+<a href="https://github.com/FaboCorp/ISO"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FaboCorp&repo=ISO&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
+<a href="https://github.com/ZonaFabo/DBD"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FaboCorp&repo=DBD&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/FaboCorp/IS1"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=FaboCorp&repo=IS1&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+

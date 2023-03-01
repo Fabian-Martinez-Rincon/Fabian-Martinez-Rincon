@@ -45,7 +45,10 @@
 <a href="https://github.com/Nomadiix/ISO"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nomadiix&repo=ISO&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
 <a href="https://github.com/ZonaFabo/DBD"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nomadiix&repo=DBD&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 <a href="https://github.com/Nomadiix/IS1"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nomadiix&repo=IS1&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+ 
   
+ #### 📓 Materias de Tercero
+ 
   
 </div>
 

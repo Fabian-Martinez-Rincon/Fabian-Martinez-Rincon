@@ -1,7 +1,11 @@
 <a title="" href="https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q"><img src="https://user-images.githubusercontent.com/55964635/210648152-2d167e4b-5147-4a46-8285-c54be35a15ef.png" alt="" /></a>
 
 
-<h1 align="center">Skills</h1>
+
+
+<h1 align="center"><img src="https://media.giphy.com/media/eBchNWiXpd3Op7r5L5/giphy.gif" height="38" /> Skills
+ <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/eBchNWiXpd3Op7r5L5/giphy.gif" height="38" /></h1>
+
   
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=e9f8f3)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=e9f8f3)
@@ -27,8 +31,8 @@
 
 <div align="center"> 
  
-<h1 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNkMDgzYTkzOThkNmNkNzU3OWQwOWY0NTc1MGQ0OTcxMGQ4ZjI0YSZjdD1z/XSmHWLpvdycR6xukzC/giphy.gif" height="38" /> Materias de Primero
- <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNkMDgzYTkzOThkNmNkNzU3OWQwOWY0NTc1MGQ0OTcxMGQ4ZjI0YSZjdD1z/XSmHWLpvdycR6xukzC/giphy.gif" height="38" /></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/ChT2Jt0zAP7NG7CiHB/giphy.gif" height="38" /> Materias de Primero
+ <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/ChT2Jt0zAP7NG7CiHB/giphy.gif" height="38" /></h1>
 
 
 
@@ -38,8 +42,8 @@
 <a href="https://github.com/Nomadiix/Organizacion_de_Computadoras"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nomadiix&repo=Organizacion_de_Computadoras&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
 <a href="https://github.com/NomaDiix/Arquitectura-de-Computadoras"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NomaDiix&repo=Arquitectura-de-Computadoras&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
 
-<h1 align="center"><img src="https://media.giphy.com/media/kHTxk2uuLFCPMMZXhS/giphy.gif" height="38" /> Materias de Segundo
- <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/kHTxk2uuLFCPMMZXhS/giphy.gif" height="38" /></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/Ybn6JMiTnjm4U/giphy.gif" height="38" /> Materias de Segundo
+ <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/Ybn6JMiTnjm4U/giphy.gif" height="38" /></h1>
 
 
 
@@ -53,8 +57,8 @@
  
   
  
-<h1 align="center"><img src="https://media.giphy.com/media/lqMkJLYluuEVhtY38s/giphy.gif" height="38" /> Materias de Tercero
- <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/lqMkJLYluuEVhtY38s/giphy.gif" height="38" /></h1> 
+<h1 align="center"><img src="https://media.giphy.com/media/cm57ZsUgo2XV0l8wf4/giphy.gif" height="38" /> Materias de Tercero
+ <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/cm57ZsUgo2XV0l8wf4/giphy.gif" height="38" /></h1> 
  
 
   <a href="https://github.com/Nomadiix/CPLP"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nomadiix&repo=CPLP&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>

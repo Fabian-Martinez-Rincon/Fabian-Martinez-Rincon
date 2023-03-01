@@ -42,10 +42,10 @@
 <a href="https://github.com/Nomadiix/Organizacion_de_Computadoras"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nomadiix&repo=Organizacion_de_Computadoras&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
 <a href="https://github.com/NomaDiix/Arquitectura-de-Computadoras"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NomaDiix&repo=Arquitectura-de-Computadoras&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
 
-<h1 align="center"><img src="https://media.giphy.com/media/Ybn6JMiTnjm4U/giphy.gif" height="38" /> Materias de Segundo
- <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/Ybn6JMiTnjm4U/giphy.gif" height="38" /></h1>
 
-
+<h1 align="center"><img src="https://media.giphy.com/media/cm57ZsUgo2XV0l8wf4/giphy.gif" height="38" /> Materias de Segundo
+ <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/cm57ZsUgo2XV0l8wf4/giphy.gif" height="38" /></h1> 
+ 
 
 <a href="https://github.com/Nomadiix/FOD"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nomadiix&repo=FOD&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
 <a href="https://github.com/Nomadiix/AyED"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nomadiix&repo=ayed&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
@@ -57,8 +57,8 @@
  
   
  
-<h1 align="center"><img src="https://media.giphy.com/media/cm57ZsUgo2XV0l8wf4/giphy.gif" height="38" /> Materias de Tercero
- <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/cm57ZsUgo2XV0l8wf4/giphy.gif" height="38" /></h1> 
+<h1 align="center"><img src="https://media.giphy.com/media/5YBhVt6yLGoWxnLkYG/giphy.gif" height="38" /> Materias de Tercero
+ <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/5YBhVt6yLGoWxnLkYG/giphy.gif" height="38" /></h1> 
  
 
   <a href="https://github.com/Nomadiix/CPLP"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nomadiix&repo=CPLP&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>

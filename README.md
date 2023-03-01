@@ -49,6 +49,8 @@
   
  #### 📓 Materias de Tercero
  
+  <a href="https://github.com/Nomadiix/CPLP"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nomadiix&repo=CPLP&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+ 
   
 </div>
 

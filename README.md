@@ -57,8 +57,8 @@
  
   
  
-<h1 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBxcDdobGJycnBubHVobHRvYXAyeGUxZjNjbDVhYjdocTh0a3ltZSZjdD1z/utfeiHQ7CcpyRtXla6/giphy.gif" height="38" /> Materias de Tercero
- <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBxcDdobGJycnBubHVobHRvYXAyeGUxZjNjbDVhYjdocTh0a3ltZSZjdD1z/utfeiHQ7CcpyRtXla6/giphy.gif" height="38" /></h1> 
+<h1 align="center"><img src="https://media.giphy.com/media/6z1269kfhwdgY/giphy.gif" height="38" /> Materias de Tercero
+ <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/6z1269kfhwdgY/giphy.gif" height="38" /></h1> 
  
 
   <a href="https://github.com/Nomadiix/CPLP"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nomadiix&repo=CPLP&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>

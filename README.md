@@ -21,10 +21,9 @@
   
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linktree-000000?style=flat&logo=Perfil&logoColor=white&link=https://linktree-fabian.vercel.app/)](https://linktree-fabian.vercel.app/)
-[![Linkedin Badge](https://img.shields.io/badge/-Cv/Resume-000000?style=flat&logo=Perfil&logoColor=white&link=https://nomadiix.github.io/Resume/)](https://nomadiix.github.io/Resume/)
-[![Linkedin Badge](https://img.shields.io/badge/-NomaDiix-000000?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/@NomaDiix/featured)](https://www.youtube.com/@NomaDiix/featured)
+[![Linkedin Badge](https://img.shields.io/badge/-Cv/Resume-000000?style=flat&logo=Perfil&logoColor=white&link=https://Fabian-Martinez-Rincon.github.io/Resume/)](https://Fabian-Martinez-Rincon.github.io/Resume/)
 [![Linkedin Badge](https://img.shields.io/badge/-fabianmartinezrincon-000000?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabian-martinez-rincon/)](https://www.linkedin.com/in/fabian-martinez-rincon/)
-[![Instagram Badge](https://img.shields.io/badge/-@nomadiix_logos-000000?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/nomadiixlogos/)](https://www.instagram.com/nomadiixlogos/)
+[![Instagram Badge](https://img.shields.io/badge/-@Nomadiix_logos-000000?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/Fabian-Martinez-Rinconlogos/)](https://www.instagram.com/Nomadiixlogos/)
 [![Gmail Badge](https://img.shields.io/badge/-fabianmartinezrincon.123@gmaill.com-000000?style=flat&logo=Gmail&logoColor=white&link=mailto:fabianmartinezrincon.123@gmaill.com)](mailto:fabianmartinezrincon.123@gmaill.com)
 
 <div align="center"> 
@@ -34,24 +33,24 @@
 
 
 
-<a href="https://github.com/Nomadiix/EPA"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nomadiix&repo=EPA&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
-<a href="https://github.com/NomaDiix/CADP"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NomaDiix&repo=CADP&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
-<a href="https://github.com/NomaDiix/Taller-de-Programacion"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NomaDiix&repo=Taller-de-Programacion&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-<a href="https://github.com/Nomadiix/Organizacion_de_Computadoras"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nomadiix&repo=Organizacion_de_Computadoras&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
-<a href="https://github.com/NomaDiix/Arquitectura-de-Computadoras"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=NomaDiix&repo=Arquitectura-de-Computadoras&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/EPA"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=EPA&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/CADP"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CADP&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/Taller-de-Programacion"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Taller-de-Programacion&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/Organizacion_de_Computadoras"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Organizacion_de_Computadoras&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/Arquitectura-de-Computadoras"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Arquitectura-de-Computadoras&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
 
 
 <h1 align="center"><img src="https://media.giphy.com/media/cm57ZsUgo2XV0l8wf4/giphy.gif" height="38" /> Materias de Segundo
  <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/cm57ZsUgo2XV0l8wf4/giphy.gif" height="38" /></h1> 
  
 
-<a href="https://github.com/Nomadiix/FOD"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nomadiix&repo=FOD&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
-<a href="https://github.com/Nomadiix/AyED"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nomadiix&repo=ayed&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
-<a href="https://github.com/Nomadiix/Seminario-de-Lenguajes-Python"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nomadiix&repo=Seminario-de-Lenguajes-Python&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-<a href="https://github.com/Nomadiix/OO1"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nomadiix&repo=OO1&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
-<a href="https://github.com/Nomadiix/ISO"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nomadiix&repo=ISO&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
-<a href="https://github.com/ZonaFabo/DBD"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nomadiix&repo=DBD&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-<a href="https://github.com/Nomadiix/IS1"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nomadiix&repo=IS1&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/FOD"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=FOD&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/AyED"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=ayed&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/Seminario-de-Lenguajes-Python"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Seminario-de-Lenguajes-Python&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/OO1"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=OO1&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/ISO"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=ISO&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
+<a href="https://github.com/ZonaFabo/DBD"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=DBD&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/IS1"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=IS1&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
  
   
  
@@ -59,7 +58,7 @@
  <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/6z1269kfhwdgY/giphy.gif" height="38" /></h1> 
  
 
-  <a href="https://github.com/Nomadiix/CPLP"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nomadiix&repo=CPLP&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/Fabian-Martinez-Rincon/CPLP"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CPLP&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
  
   
 </div>

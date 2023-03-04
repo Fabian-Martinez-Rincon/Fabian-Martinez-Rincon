@@ -1,6 +1,4 @@
-<a title="" href="https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q"><img src="https://user-images.githubusercontent.com/55964635/210648152-2d167e4b-5147-4a46-8285-c54be35a15ef.png" alt="" /></a>
-
-
+<a title="" href="https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q"><img src="https://user-images.githubusercontent.com/55964635/222882101-46245c1b-354a-4032-bcb9-2c9955c20b29.png" alt="" /></a>
 
 
 <h1 align="center"><img src="https://media.giphy.com/media/eBchNWiXpd3Op7r5L5/giphy.gif" height="38" /> Skills

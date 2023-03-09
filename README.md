@@ -1,8 +1,8 @@
 <a title="" href="https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q"><img src="https://user-images.githubusercontent.com/55964635/222882101-46245c1b-354a-4032-bcb9-2c9955c20b29.png" alt="" /></a>
 
 
-<h1 align="center"><img src="https://media.giphy.com/media/eBchNWiXpd3Op7r5L5/giphy.gif" height="38" /> Skills
- <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/eBchNWiXpd3Op7r5L5/giphy.gif" height="38" /></h1>
+<h2 align="center"><img src="https://media.giphy.com/media/eBchNWiXpd3Op7r5L5/giphy.gif" height="30" /> Skills
+ <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/eBchNWiXpd3Op7r5L5/giphy.gif" height="30" /></h2>
 
   
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=e9f8f3)
@@ -28,11 +28,11 @@
 
 <div align="center"> 
 
- <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
- 
-<h1 align="center"><img src="https://media.giphy.com/media/ChT2Jt0zAP7NG7CiHB/giphy.gif" height="38" /> Materias de Primero
- <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/ChT2Jt0zAP7NG7CiHB/giphy.gif" height="38" /></h1>
 
+<h2 align="center">
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+ <img src="https://media.giphy.com/media/ChT2Jt0zAP7NG7CiHB/giphy.gif" height="30" /> Materias de Primero
+<img style="transform:scaleX(-1);" src="https://media.giphy.com/media/ChT2Jt0zAP7NG7CiHB/giphy.gif" height="30" /></h2>
 
 
 <a href="https://github.com/Fabian-Martinez-Rincon/EPA"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=EPA&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
@@ -41,11 +41,12 @@
 <a href="https://github.com/Fabian-Martinez-Rincon/Organizacion_de_Computadoras"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Organizacion_de_Computadoras&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
 <a href="https://github.com/Fabian-Martinez-Rincon/Arquitectura-de-Computadoras"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Arquitectura-de-Computadoras&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
 
-<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-<h1 align="center"><img src="https://media.giphy.com/media/cm57ZsUgo2XV0l8wf4/giphy.gif" height="38" /> Materias de Segundo
- <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/cm57ZsUgo2XV0l8wf4/giphy.gif" height="38" /></h1> 
- 
+<h2 align="center">
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+ <img src="https://media.giphy.com/media/cm57ZsUgo2XV0l8wf4/giphy.gif" height="30" /> Materias de Segundo
+<img style="transform:scaleX(-1);" src="https://media.giphy.com/media/cm57ZsUgo2XV0l8wf4/giphy.gif" height="30" /></h2> 
+
 
 <a href="https://github.com/Fabian-Martinez-Rincon/FOD"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=FOD&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
 <a href="https://github.com/Fabian-Martinez-Rincon/AyED"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=ayed&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
@@ -56,10 +57,12 @@
 <a href="https://github.com/Fabian-Martinez-Rincon/IS1"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=IS1&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
  
   
-<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
- 
-<h1 align="center"><img src="https://media.giphy.com/media/6z1269kfhwdgY/giphy.gif" height="38" /> Materias de Tercero
- <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/6z1269kfhwdgY/giphy.gif" height="38" /></h1> 
+
+
+<h2 align="center">
+ <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+<img src="https://media.giphy.com/media/6z1269kfhwdgY/giphy.gif" height="30" /> Materias de Tercero
+<img style="transform:scaleX(-1);" src="https://media.giphy.com/media/6z1269kfhwdgY/giphy.gif" height="30" /></h2> 
  
 
   <a href="https://github.com/Fabian-Martinez-Rincon/CPLP"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CPLP&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>

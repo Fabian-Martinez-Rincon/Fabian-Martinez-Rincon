@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=e9f8f3)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=e9f8f3)
   
-  
+ 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linktree-000000?style=flat&logo=Perfil&logoColor=white&link=https://linktree-fabian.vercel.app/)](https://linktree-fabian.vercel.app/)
 [![Linkedin Badge](https://img.shields.io/badge/-Cv/Resume-000000?style=flat&logo=Perfil&logoColor=white&link=https://Fabian-Martinez-Rincon.github.io/Resume/)](https://Fabian-Martinez-Rincon.github.io/Resume/)
@@ -27,6 +27,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-fabianmartinezrincon.123@gmaill.com-000000?style=flat&logo=Gmail&logoColor=white&link=mailto:fabianmartinezrincon.123@gmaill.com)](mailto:fabianmartinezrincon.123@gmaill.com)
 
 <div align="center"> 
+
+ <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
  
 <h1 align="center"><img src="https://media.giphy.com/media/ChT2Jt0zAP7NG7CiHB/giphy.gif" height="38" /> Materias de Primero
  <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/ChT2Jt0zAP7NG7CiHB/giphy.gif" height="38" /></h1>
@@ -39,6 +41,7 @@
 <a href="https://github.com/Fabian-Martinez-Rincon/Organizacion_de_Computadoras"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Organizacion_de_Computadoras&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
 <a href="https://github.com/Fabian-Martinez-Rincon/Arquitectura-de-Computadoras"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Arquitectura-de-Computadoras&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
 
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
 <h1 align="center"><img src="https://media.giphy.com/media/cm57ZsUgo2XV0l8wf4/giphy.gif" height="38" /> Materias de Segundo
  <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/cm57ZsUgo2XV0l8wf4/giphy.gif" height="38" /></h1> 
@@ -53,6 +56,7 @@
 <a href="https://github.com/Fabian-Martinez-Rincon/IS1"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=IS1&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
  
   
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
  
 <h1 align="center"><img src="https://media.giphy.com/media/6z1269kfhwdgY/giphy.gif" height="38" /> Materias de Tercero
  <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/6z1269kfhwdgY/giphy.gif" height="38" /></h1> 

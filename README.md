@@ -58,10 +58,10 @@
 
 <table align ="center">
   <tr>
-      <td align="center"><a href="https://fablogg.vercel.app/"><img  width="60%"  src="https://user-images.githubusercontent.com/55964635/227695927-ff3e748d-9ebe-4c3b-9dc8-34cb8316b866.png" alt="Fablog" /><br />Fablog</a></td>
-      <td align="center"><a href="https://fabianmartinez.vercel.app/works/gallerix"><img width="70%" src="https://user-images.githubusercontent.com/55964635/227696370-ba5a0d05-6f16-4498-97ec-7f8a241e9d35.png" alt="MITH" /><br />Gallerix</a></td>
+      <td align="center"><a href="https://fablogg.vercel.app/"><img  width="45%"  src="https://user-images.githubusercontent.com/55964635/227695927-ff3e748d-9ebe-4c3b-9dc8-34cb8316b866.png" alt="Fablog" /><br />Fablog</a></td>
+      <td align="center"><a href="https://fabianmartinez.vercel.app/works/gallerix"><img width="60%" src="https://user-images.githubusercontent.com/55964635/227696370-ba5a0d05-6f16-4498-97ec-7f8a241e9d35.png" alt="MITH" /><br />Gallerix</a></td>
       <td align="center"><a href="https://mith-arg.github.io/EI-Materias-Web/"><img width="250"  src="https://user-images.githubusercontent.com/55964635/204918050-46974ca5-66d3-4526-9ead-7f0cc673fc42.png" alt="EI-Materias" /><br />EI-Materias</a></td>
-        <td align="center"><a href="https://fabianmartinez.vercel.app/works/linktree"><img width="90%" src="https://user-images.githubusercontent.com/55964635/227697112-3a30c4f8-6aee-4ce4-8e4b-89b67372a6b1.png" alt="EI-Links" /><br />Lintree</a></td>
+        <td align="center"><a href="https://fabianmartinez.vercel.app/works/linktree"><img width="60%" src="https://user-images.githubusercontent.com/55964635/227697112-3a30c4f8-6aee-4ce4-8e4b-89b67372a6b1.png" alt="EI-Links" /><br />Lintree</a></td>
         <td align="center"><a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img width="250" height="100" src="./logos/SinFondo.svg" alt="Mega Conversor OC" /><br />MC OC</a></td>
   </tr>
 </table>

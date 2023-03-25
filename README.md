@@ -49,24 +49,6 @@
 <a href="https://github.com/Fabian-Martinez-Rincon/IS1"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=IS1&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 <a href="https://github.com/Fabian-Martinez-Rincon/CPLP"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CPLP&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 
-<h2 align="center">
-<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
- <img src="https://media.giphy.com/media/cm57ZsUgo2XV0l8wf4/giphy.gif" height="30" /> Proyectos
-<img style="transform:scaleX(-1);" src="https://media.giphy.com/media/cm57ZsUgo2XV0l8wf4/giphy.gif" height="30" /></h2> 
-
-
-
-<table align ="center">
-  <tr>
-      <td align="center"><a href="https://fablogg.vercel.app/"><img  width="45%"  src="https://user-images.githubusercontent.com/55964635/227695927-ff3e748d-9ebe-4c3b-9dc8-34cb8316b866.png" alt="Fablog" /><br />Fablog</a></td>
-      <td align="center"><a href="https://fabianmartinez.vercel.app/works/gallerix"><img width="60%" src="https://user-images.githubusercontent.com/55964635/227696370-ba5a0d05-6f16-4498-97ec-7f8a241e9d35.png" alt="MITH" /><br />Gallerix</a></td>
-      <td align="center"><a href="https://mith-arg.github.io/EI-Materias-Web/"><img width="250"  src="https://user-images.githubusercontent.com/55964635/204918050-46974ca5-66d3-4526-9ead-7f0cc673fc42.png" alt="EI-Materias" /><br />EI-Materias</a></td>
-        <td align="center"><a href="https://fabianmartinez.vercel.app/works/linktree"><img width="60%" src="https://user-images.githubusercontent.com/55964635/227697112-3a30c4f8-6aee-4ce4-8e4b-89b67372a6b1.png" alt="EI-Links" /><br />Lintree</a></td>
-        <td align="center"><a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img width="250" height="100" src="./logos/SinFondo.svg" alt="Mega Conversor OC" /><br />MC OC</a></td>
-  </tr>
-</table>
-
- 
 
 </div>
 

@@ -58,10 +58,10 @@
 
 <table align ="center">
   <tr>
-      <td align="center"><a href="https://j-josu.github.io/RobotScript/"><img  width="160" height="101" src="https://user-images.githubusercontent.com/55964635/227695778-28901df9-9873-4744-a76d-6172d38f684a.png" alt="RobotScript-Icon" /><br />Fablog</a></td>
-      <td align="center"><a href="https://mith-arg.github.io/mith-arg/"><img width="250" height="101" src="./logos/MITH.svg" alt="MITH" /><br />Gallerix</a></td>
+      <td align="center"><a href="https://j-josu.github.io/RobotScript/"><img  width="160" height="101" src="https://user-images.githubusercontent.com/55964635/227695927-ff3e748d-9ebe-4c3b-9dc8-34cb8316b866.png" alt="RobotScript-Icon" /><br />Fablog</a></td>
+      <td align="center"><a href="https://mith-arg.github.io/mith-arg/"><img width="250" height="101" src="https://user-images.githubusercontent.com/55964635/227696370-ba5a0d05-6f16-4498-97ec-7f8a241e9d35.png" alt="MITH" /><br />Gallerix</a></td>
       <td align="center"><a href="https://mith-arg.github.io/EI-Materias-Web/"><img width="250"  src="https://user-images.githubusercontent.com/55964635/204918050-46974ca5-66d3-4526-9ead-7f0cc673fc42.png" alt="EI-Materias" /><br />EI-Materias</a></td>
-        <td align="center"><a href="https://github.com/MITH-arg/EI-Links"><img width="250" height="100" src="./logos/EI-Links.svg" alt="EI-Links" /><br />Lintree</a></td>
+        <td align="center"><a href="https://github.com/MITH-arg/EI-Links"><img width="250" height="100" src="https://user-images.githubusercontent.com/55964635/227696525-5baad38b-66fb-4c5b-9b56-af9e4ddbb6d1.png" alt="EI-Links" /><br />Lintree</a></td>
         <td align="center"><a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img width="250" height="100" src="./logos/SinFondo.svg" alt="Mega Conversor OC" /><br />MC OC</a></td>
         <td align="center"><a href="https://vonsim.github.io/"><img height="100" src="./logos/vonsim.svg" alt="VONSIM" /><br />Portfolio 2020</a></td>
   </tr>

@@ -67,11 +67,8 @@
   </tr>
     <tr>
       <td align="center"><a href="https://j-josu.github.io/RobotScript/"><img  width="70%"  src="https://user-images.githubusercontent.com/55964635/227697324-2e760b33-cca6-4667-9e70-96ac5975be55.png" alt="RobotScript-Icon" /><br />Portfolio 2021</a></td>
-      <td align="center"><a href="https://mith-arg.github.io/mith-arg/"><img width="250" height="101" src="./logos/MITH.svg" alt="MITH" /><br />Resume</a></td>
-      <td align="center"><a href="https://mith-arg.github.io/EI-Materias-Web/"><img width="250"  src="https://user-images.githubusercontent.com/55964635/204918050-46974ca5-66d3-4526-9ead-7f0cc673fc42.png" alt="EI-Materias" /><br />Zona Fabo</a></td>
-        <td align="center"><a href="https://github.com/MITH-arg/EI-Links"><img width="250" height="100" src="./logos/EI-Links.svg" alt="EI-Links" /><br />Efficiency_X</a></td>
-        <td align="center"><a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img   src="https://user-images.githubusercontent.com/55964635/227697623-2d331b65-cb88-4dce-87d3-2d894e47e4d9.png" alt="Mega Conversor OC" /><br />Transform Pokemon Resolution</a></td>
-        <td align="center"><a href="https://vonsim.github.io/"><img height="100" src="./logos/vonsim.svg" alt="VONSIM" /><br />Keypad</a></td>
+        <td align="center"><a href="https://fabian-martinez1.github.io/Mega-Conversor-OC/"><img src="https://user-images.githubusercontent.com/55964635/227697623-2d331b65-cb88-4dce-87d3-2d894e47e4d9.png" alt="Mega Conversor OC" /><br />Transform Pokemon Resolution</a></td>
+        <td align="center"><a href="https://vonsim.github.io/"><img src="https://user-images.githubusercontent.com/55964635/227697952-cd15cfea-2ffc-4014-8fcf-60b137394ef6.png" alt="VONSIM" /><br />Keypad</a></td>
   </tr>    
 </table>
 

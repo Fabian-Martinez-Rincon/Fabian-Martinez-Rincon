@@ -56,9 +56,7 @@
 <a href="https://github.com/ZonaFabo/DBD"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=DBD&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 <a href="https://github.com/Fabian-Martinez-Rincon/IS1"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=IS1&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
  
-  
-
-
+ 
 <h2 align="center">
  <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 <img src="https://media.giphy.com/media/6z1269kfhwdgY/giphy.gif" height="30" /> Materias de Tercero
@@ -67,6 +65,10 @@
 
   <a href="https://github.com/Fabian-Martinez-Rincon/CPLP"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CPLP&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
  
-  
+<h2 align="center">
+ <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNkNmU3NWNiYmUwYWYzMTY4MjdiZWExNjJjOWRlYzIxZTM3ZDliZSZjdD1z/gR2FAWPWEEW1zhOWvy/giphy.gif" height="30" /> Proyectos
+<img style="transform:scaleX(-1);" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNkNmU3NWNiYmUwYWYzMTY4MjdiZWExNjJjOWRlYzIxZTM3ZDliZSZjdD1z/gR2FAWPWEEW1zhOWvy/giphy.gif" height="30" /></h2> 
+ 
 </div>
 

@@ -35,11 +35,11 @@
 <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/ChT2Jt0zAP7NG7CiHB/giphy.gif" height="30" /></h2>
 
 
-<a href="https://github.com/Fabian-Martinez-Rincon/EPA"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=EPA&theme=react&bg_color=3C3C3C&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
-<a href="https://github.com/Fabian-Martinez-Rincon/CADP"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CADP&theme=react&bg_color=3C3C3C&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
-<a href="https://github.com/Fabian-Martinez-Rincon/Taller-de-Programacion"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Taller-de-Programacion&theme=react&bg_color=3C3C3C&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
-<a href="https://github.com/Fabian-Martinez-Rincon/Organizacion_de_Computadoras"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Organizacion_de_Computadoras&theme=react&bg_color=3C3C3C&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
-<a href="https://github.com/Fabian-Martinez-Rincon/Arquitectura-de-Computadoras"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Arquitectura-de-Computadoras&theme=react&bg_color=3C3C3C&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/EPA"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=EPA&theme=react&bg_color=3C3C3C&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/CADP"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CADP&theme=react&bg_color=3C3C3C&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/Taller-de-Programacion"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Taller-de-Programacion&theme=react&bg_color=3C3C3C&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/Organizacion_de_Computadoras"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Organizacion_de_Computadoras&theme=react&bg_color=3C3C3C&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/Arquitectura-de-Computadoras"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Arquitectura-de-Computadoras&theme=react&bg_color=3C3C3C&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
 
 
 <h2 align="center">
@@ -48,13 +48,13 @@
 <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/cm57ZsUgo2XV0l8wf4/giphy.gif" height="30" /></h2> 
 
 
-<a href="https://github.com/Fabian-Martinez-Rincon/FOD"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=FOD&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
-<a href="https://github.com/Fabian-Martinez-Rincon/AyED"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=ayed&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
-<a href="https://github.com/Fabian-Martinez-Rincon/Seminario-de-Lenguajes-Python"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Seminario-de-Lenguajes-Python&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
-<a href="https://github.com/Fabian-Martinez-Rincon/OO1"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=OO1&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
-<a href="https://github.com/Fabian-Martinez-Rincon/ISO"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=ISO&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
-<a href="https://github.com/ZonaFabo/DBD"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=DBD&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
-<a href="https://github.com/Fabian-Martinez-Rincon/IS1"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=IS1&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/FOD"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=FOD&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/AyED"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=ayed&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/Seminario-de-Lenguajes-Python"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Seminario-de-Lenguajes-Python&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/OO1"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=OO1&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/ISO"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=ISO&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
+<a href="https://github.com/ZonaFabo/DBD"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=DBD&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/IS1"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=IS1&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
  
   
 
@@ -65,7 +65,7 @@
 <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/jdV1qhKi6H6la/giphy.gif" height="30" /></h2> 
  
 
-  <a href="https://github.com/Fabian-Martinez-Rincon/CPLP"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CPLP&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/Fabian-Martinez-Rincon/CPLP"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CPLP&theme=react&bg_color=1F222E&title_color=00000&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
  
   
 </div>

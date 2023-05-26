@@ -18,13 +18,7 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=e9f8f3)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=e9f8f3)
   
- 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linktree-000000?style=flat&logo=Perfil&logoColor=white&link=https://linktree-fabian.vercel.app/)](https://linktree-fabian.vercel.app/)
-[![Linkedin Badge](https://img.shields.io/badge/-Cv/Resume-000000?style=flat&logo=Perfil&logoColor=white&link=https://Fabian-Martinez-Rincon.github.io/Resume/)](https://Fabian-Martinez-Rincon.github.io/Resume/)
-[![Linkedin Badge](https://img.shields.io/badge/-fabianmartinezrincon-000000?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabian-martinez-rincon/)](https://www.linkedin.com/in/fabian-martinez-rincon/)
-[![Instagram Badge](https://img.shields.io/badge/-@Nomadiix_logos-000000?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/Fabian-Martinez-Rinconlogos/)](https://www.instagram.com/Nomadiixlogos/)
-[![Gmail Badge](https://img.shields.io/badge/-fabianmartinezrincon.123@gmaill.com-000000?style=flat&logo=Gmail&logoColor=white&link=mailto:fabianmartinezrincon.123@gmaill.com)](mailto:fabianmartinezrincon.123@gmaill.com)
 
 <div align="center"> 
 

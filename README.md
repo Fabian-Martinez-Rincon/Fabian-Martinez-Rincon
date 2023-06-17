@@ -1,10 +1,14 @@
 <a title="" href="https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q"><img src="https://user-images.githubusercontent.com/55964635/222882101-46245c1b-354a-4032-bcb9-2c9955c20b29.png" alt="" /></a>
 
 
-<h2 align="center"><img src="https://media.giphy.com/media/eBchNWiXpd3Op7r5L5/giphy.gif" height="30" /> Skills
- <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/eBchNWiXpd3Op7r5L5/giphy.gif" height="30" /></h2>
+<h2 align="center"><img src="https://media.giphy.com/media/eBchNWiXpd3Op7r5L5/giphy.gif" height="30" /> 
 
-  
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fabian+Martinez+Rincon"/></h2>
+<img style="transform:scaleX(-1);" src="https://media.giphy.com/media/eBchNWiXpd3Op7r5L5/giphy.gif" height="30" /></h2>
+
+
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=e9f8f3)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=e9f8f3)
 ![](https://img.shields.io/badge/Code-Tailwindcss-informational?style=flat&logo=tailwindcss&logoColor=white&color=e9f8f3)

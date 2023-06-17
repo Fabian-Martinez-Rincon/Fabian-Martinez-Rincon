@@ -21,7 +21,7 @@
 
 
 <details open> 
-  <summary><h2><img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+  <summary><h2>
  <img src="https://media.giphy.com/media/ChT2Jt0zAP7NG7CiHB/giphy.gif" height="30" /> Materias de Primero
 <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/ChT2Jt0zAP7NG7CiHB/giphy.gif" height="30" /></h2></summary>
   <p align="left">
@@ -32,11 +32,10 @@
     <a href="https://github.com/Fabian-Martinez-Rincon/Arquitectura-de-Computadoras"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Arquitectura-de-Computadoras&theme=react&bg_color=3C3C3C&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
   </p>
 
-  <a href="https://github.com/Fabian-Martinez-Rincon?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 <details open> 
-  <summary><h2><img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+  <summary><h2>
  <img src="https://media.giphy.com/media/cm57ZsUgo2XV0l8wf4/giphy.gif" height="30" /> Materias de Segundo
 <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/cm57ZsUgo2XV0l8wf4/giphy.gif" height="30" /></h2></summary>
   <p align="left">
@@ -48,17 +47,10 @@
     <a href="https://github.com/ZonaFabo/DBD"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=DBD&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
     <a href="https://github.com/Fabian-Martinez-Rincon/IS1"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=IS1&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
   </p>
-
-  <a href="https://github.com/Fabian-Martinez-Rincon?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 
 <div align="center"> 
-
-
-
-
-
 
 <h2 align="center">
  <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">

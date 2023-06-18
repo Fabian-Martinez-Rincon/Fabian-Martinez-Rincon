@@ -49,8 +49,8 @@
 
 <details open> 
   <summary><h2>
-<img src="https://media.giphy.com/media/jdV1qhKi6H6la/giphy.gif" height="30" /> Materias de Tercero
-<img style="transform:scaleX(-1);" src="https://media.giphy.com/media/jdV1qhKi6H6la/giphy.gif" height="30" /></h2></summary>
+<img src="https://media.giphy.com/media/Ybn6JMiTnjm4U/giphy.gif" height="30" /> Materias de Tercero
+<img style="transform:scaleX(-1);" src="https://media.giphy.com/media/Ybn6JMiTnjm4U/giphy.gif" height="30" /></h2></summary>
   <p align="left">
     <a href="https://github.com/Fabian-Martinez-Rincon/CPLP"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CPLP&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="dice-roll-albert-ext"></a>
     <a href="https://github.com/Fabian-Martinez-Rincon/CyC"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CyC&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>

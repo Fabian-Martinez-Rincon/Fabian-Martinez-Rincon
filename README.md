@@ -16,7 +16,7 @@
 
 <details open> 
   <summary><h2>
- <img src="https://media.giphy.com/media/Sd9XrDFZZ0Q0OXAdJM/giphy.gif" height="30" /> Septimo Electronica 2020
+ <img src="https://media.giphy.com/media/Sd9XrDFZZ0Q0OXAdJM/giphy.gif" height="30" /> Septimo Electrónica 2020
 <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/Sd9XrDFZZ0Q0OXAdJM/giphy.gif" height="30" /></h2></summary>
   <p align="left">
     <a href="https://github.com/Fabian-Martinez-Rincon/Keypad"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Keypad&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="dice-roll-albert-ext"></a>

@@ -24,7 +24,7 @@
 Quiero buscar la forma de trabajar de algún modo en el CERN, desde 6to que miro videos de fisica por simple vicio. Mire que mi facultad tiene convenios con el cern pero solo toman estudiantes avanzados. Aca sigo remando dia a dia. Trato de compaginar vida social y deportiva con todo el estudio, aveces es dificil pero creo que organizandote bien, es posible todo.
 
 
-<br><br><br>
+<br><br>
 
 <details open> 
   <summary><h2>

@@ -21,7 +21,7 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=e9f8f3)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=e9f8f3)
 
-Quiero buscar la forma de trabajar de algún modo en el CERN, desde 6to que miro videos de fisica por simple vicio. Mire que mi facultad tiene convenios con el cern pero solo toman estudiantes avanzados. Aca sigo remando dia a dia. :D
+Quiero buscar la forma de trabajar de algún modo en el CERN, desde 6to que miro videos de fisica por simple vicio. Mire que mi facultad tiene convenios con el cern pero solo toman estudiantes avanzados. Aca sigo remando dia a dia. Trato de compaginar vida social y deportiva con todo el estudio, aveces es dificil pero creo que organizandote bien, es posible todo.
 
 
 <br><br><br>

@@ -24,7 +24,6 @@
 Quiero buscar la forma de trabajar de algún modo en el CERN, desde 6to que miro videos de fisica por simple vicio. Mire que mi facultad tiene convenios con el cern pero solo toman estudiantes avanzados. Aca sigo remando dia a dia. Trato de compaginar vida social y deportiva con todo el estudio, aveces es dificil pero creo que organizandote bien, es posible todo.
 
 [![YouTube Badge](https://img.shields.io/badge/-@FabianMartinezRincon-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/@FabianMartinezRinconA)](https://www.youtube.com/@FabianMartinezRincon)  [![Instagram Badge](https://img.shields.io/badge/-@fabianm__11-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/maddhruv)](https://instagram.com/fabianm__11) [![Linkedin Badge](https://img.shields.io/badge/-FabianMartinezRincon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabian-martinez-rincon/)](https://www.linkedin.com/in/fabian-martinez-rincon/)
-[![Gmail Badge](https://img.shields.io/badge/-fabianmartinezrincon.123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabianmartinezrincon.123@gmail.com)](mailto:fabianmartinezrincon.123@gmail.com)
 
 <br>
 <details open> 

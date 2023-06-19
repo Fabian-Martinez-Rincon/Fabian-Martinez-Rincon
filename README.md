@@ -8,7 +8,6 @@
 
 <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31ftwnmqj2p4lr4ckunpyorlimxe&redirect=false"><img align="left" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31ftwnmqj2p4lr4ckunpyorlimxe&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true" width="160 "  /></a>
 
-Quiero buscar la forma de trabajar de algún modo en el CERN, desde 6to que miro videos de fisica por simple vicio. Mire que mi facultad tiene convenios con el cern pero solo toman estudiantes avanzados. Aca sigo remando dia a dia. :D
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=e9f8f3)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=e9f8f3)
 ![](https://img.shields.io/badge/Code-Tailwindcss-informational?style=flat&logo=tailwindcss&logoColor=white&color=e9f8f3)
@@ -22,6 +21,10 @@ Quiero buscar la forma de trabajar de algún modo en el CERN, desde 6to que miro
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=e9f8f3)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=e9f8f3)
 
+Quiero buscar la forma de trabajar de algún modo en el CERN, desde 6to que miro videos de fisica por simple vicio. Mire que mi facultad tiene convenios con el cern pero solo toman estudiantes avanzados. Aca sigo remando dia a dia. :D
+
+
+<br><br><br>
 
 <details open> 
   <summary><h2>

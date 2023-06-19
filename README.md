@@ -6,7 +6,7 @@
 
 
 
-<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31ftwnmqj2p4lr4ckunpyorlimxe&redirect=false"><img align="left" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31ftwnmqj2p4lr4ckunpyorlimxe&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true" width="160 "  /></a>
+<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31ftwnmqj2p4lr4ckunpyorlimxe&redirect=false"><img align="left" src="view.svg" width="160 "  /></a>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=e9f8f3)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=e9f8f3)

@@ -54,7 +54,7 @@
   </p>
 </details>
 
-<details> 
+<details open> 
   <summary><h2>
  <img src="https://media.giphy.com/media/cm57ZsUgo2XV0l8wf4/giphy.gif" height="30" /> Materias de Tercero 2023
 <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/cm57ZsUgo2XV0l8wf4/giphy.gif" height="30" /></h2></summary>
@@ -64,8 +64,9 @@
     <a href="https://github.com/Fabian-Martinez-Rincon/PdS"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=PdS&theme=react&bg_color=261C25&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
     <a href="https://github.com/Fabian-Martinez-Rincon/PC"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=PC&theme=react&bg_color=261C25&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="dice-roll-albert-ext"></a>
     <a href="https://github.com/Fabian-Martinez-Rincon/RyC"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=RyC&theme=react&bg_color=261C25&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"></a>
+    <img src='https://spotify-github-profile.vercel.app/api/view.svg?uid=31ftwnmqj2p4lr4ckunpyorlimxe&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true' href='https://spotify-github-profile.vercel.app/api/view.svg?uid=31ftwnmqj2p4lr4ckunpyorlimxe&redirect=true'>
+
   </p>
 </details>
 
 
-![](https://spotify-github-profile.vercel.app/api/view.svg?uid=31ftwnmqj2p4lr4ckunpyorlimxe&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31ftwnmqj2p4lr4ckunpyorlimxe&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)

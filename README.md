@@ -54,7 +54,7 @@
   </p>
 </details>
 
-<details open> 
+<details> 
   <summary><h2>
  <img src="https://media.giphy.com/media/cm57ZsUgo2XV0l8wf4/giphy.gif" height="30" /> Materias de Tercero 2023
 <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/cm57ZsUgo2XV0l8wf4/giphy.gif" height="30" /></h2></summary>
@@ -67,3 +67,5 @@
   </p>
 </details>
 
+
+![](https://spotify-github-profile.vercel.app/api/view.svg?uid=31ftwnmqj2p4lr4ckunpyorlimxe&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31ftwnmqj2p4lr4ckunpyorlimxe&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true)

@@ -14,6 +14,17 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=e9f8f3)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=e9f8f3)
 
+
+
+
+<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31ftwnmqj2p4lr4ckunpyorlimxe&redirect=false"><img align="left" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31ftwnmqj2p4lr4ckunpyorlimxe&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true" width="160 "  /></a>
+
+Quiero buscar la forma de trabajar de algún modo en el CERN, desde 6to que miro videos de fisica por simple vicio. Mire que mi facultad tiene convenios con el cern pero solo toman estudiantes avanzados. Aca sigo remando dia a dia. :D
+<br>
+<br>
+<br>
+
+
 <details open> 
   <summary><h2>
  <img src="https://media.giphy.com/media/Sd9XrDFZZ0Q0OXAdJM/giphy.gif" height="30" /> Septimo Electrónica 2020
@@ -64,7 +75,7 @@
     <a href="https://github.com/Fabian-Martinez-Rincon/PdS"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=PdS&theme=react&bg_color=261C25&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
     <a href="https://github.com/Fabian-Martinez-Rincon/PC"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=PC&theme=react&bg_color=261C25&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="dice-roll-albert-ext"></a>
     <a href="https://github.com/Fabian-Martinez-Rincon/RyC"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=RyC&theme=react&bg_color=261C25&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"></a>
-    <img src='https://spotify-github-profile.vercel.app/api/view.svg?uid=31ftwnmqj2p4lr4ckunpyorlimxe&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true' href='https://spotify-github-profile.vercel.app/api/view.svg?uid=31ftwnmqj2p4lr4ckunpyorlimxe&redirect=true'>
+
 
   </p>
 </details>

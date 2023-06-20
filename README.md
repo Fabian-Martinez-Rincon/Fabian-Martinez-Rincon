@@ -26,6 +26,10 @@ Quiero buscar la forma de trabajar de algún modo en el CERN, desde 6to que miro
 [![YouTube Badge](https://img.shields.io/badge/-@FabianMartinezRincon-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/@FabianMartinezRinconA)](https://www.youtube.com/@FabianMartinezRincon)  [![Instagram Badge](https://img.shields.io/badge/-@fabianm__11-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/maddhruv)](https://instagram.com/fabianm__11) [![Linkedin Badge](https://img.shields.io/badge/-FabianMartinezRincon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabian-martinez-rincon/)](https://www.linkedin.com/in/fabian-martinez-rincon/)
 
 <br>
+
+- `**Quinto Electónica 2018**` aprendi a usar bucles y estructuras de control como arrays y matrices, ademas de los pasajes de parametros por valor y referencia
+- `**Sexto Electónica 2019**` "Hicimos" un juego en python con unos amigos y basicamente me hizo todo un amigo. Aca esta el [repo](https://github.com/Juanuwu/Jueguito-test/tree/master) 
+
 <details open> 
   <summary><h2>
  <img src="https://media.giphy.com/media/Sd9XrDFZZ0Q0OXAdJM/giphy.gif" height="30" /> Septimo Electrónica 2020

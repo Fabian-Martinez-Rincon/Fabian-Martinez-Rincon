@@ -32,7 +32,7 @@ Quiero buscar la forma de trabajar de algún modo en el CERN, desde 6to que miro
 
 - **`Quinto Electónica 2018`** aprendi a usar bucles y estructuras de datos como arrays y matrices, ademas de los pasajes de parametros por valor y referencia, todo esto en c++. Tambien habia hecho una calculadora en visual basic y trabajamos con lo basico de arduino (Encender leds segun condicionales etc)
 <a href="https://www.youtube.com/watch?v=OWoMlr4bUQ4"><img align="right" src="https://github.com/Fabian-Martinez-Rincon/Fabian-Martinez-Rincon/assets/55964635/91293358-492d-486a-b5bf-1841f72f3780"   /></a>
-- **`Sexto Electónica 2019`** "Hicimos" un juego en python con unos amigos, basicamente hizo todo Juancito (Yo hice el sprite del elefante mafioso :D y rompia el codigo). Aca esta el [repo](https://github.com/Juanuwu/Jueguito-test/tree/master) 
+- **`Sexto Electónica 2019`** "Hicimos" un juego en python con unos amigos, basicamente hizo todo Juancito (Yo hice el sprite del elefante mafioso :D y rompia el codigo). Aca esta el [repo](https://github.com/Juanuwu/Jueguito-test/tree/master) y tambien hicen la cosa esta con los stickers de los profesores jajaja [Repo](https://github.com/El-vertedero-de-Fabo/Gamenem)
 
 <details open> 
   <summary><h2>

@@ -6,7 +6,7 @@
 
 
 
-<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31ftwnmqj2p4lr4ckunpyorlimxe&redirect=false"><img align="left" src="view.svg" width="160 "  /></a>
+<a href="https://www.youtube.com/watch?v=OWoMlr4bUQ4"><img align="left" src="view.svg" width="160 "  /></a>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=e9f8f3)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=e9f8f3)

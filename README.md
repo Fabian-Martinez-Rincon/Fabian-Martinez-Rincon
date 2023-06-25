@@ -1,11 +1,5 @@
 <a title="" href="https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q"><img src="https://user-images.githubusercontent.com/55964635/222882101-46245c1b-354a-4032-bcb9-2c9955c20b29.png" alt="" /></a>
 
-
-
-
-
-
-
 <a href="https://www.youtube.com/watch?v=OWoMlr4bUQ4"><img align="left" src="view.svg" width="160 "  /></a>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=e9f8f3)
@@ -71,6 +65,7 @@ Quiero buscar la forma de trabajar de algún modo en el CERN, desde 6to que miro
     <a href="https://github.com/ZonaFabo/DBD"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=DBD&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
     <a href="https://github.com/Fabian-Martinez-Rincon/IS1"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=IS1&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
     <a href="https://github.com/MITH-arg/EI-Materias"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MITH-arg&repo=EI-Materias&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+    <a href="https://github.com/Fabian-Martinez-Rincon/Fabian-Martinez-Rincon.github.io"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Fabian-Martinez-Rincon.github.io&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
   </p>
 </details>
 

@@ -22,7 +22,11 @@ Quiero buscar la forma de trabajar de algún modo en el CERN, desde 6to que miro
 
 <br>
 
-<table><tr><td>👾 Quinto Tecnicatura en Electónica 2018</td><td>🤖 Sexto Tecnicatura en Electónica 2019</td></tr>
+<table><tr><td>
+  
+### 👾 Quinto Tecnicatura en Electónica 2018</td><td>
+
+### 🤖 Sexto Tecnicatura en Electónica 2019</td></tr>
 
 <tr><td>
 

@@ -22,7 +22,7 @@ Quiero buscar la forma de trabajar de algún modo en el CERN, desde 6to que miro
 
 <br>
 
-<table><tr><td>👾 Quinto Electónica 2018</td><td>🤖 Sexto Electónica 2019</td></tr>
+<table><tr><td>👾 Quinto Tecnicatura en Electónica 2018</td><td>🤖 Sexto Tecnicatura en Electónica 2019</td></tr>
 
 <tr><td>
 
@@ -35,7 +35,7 @@ Aprendi a usar bucles y estructuras de datos como arrays y matrices, ademas de l
 
 <details open> 
   <summary><h2>
- <img src="https://media.giphy.com/media/Sd9XrDFZZ0Q0OXAdJM/giphy.gif" height="30" /> Septimo Electrónica 2020
+ <img src="https://media.giphy.com/media/Sd9XrDFZZ0Q0OXAdJM/giphy.gif" height="30" /> Septimo Tecnicatura en Electrónica 2020
 <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/Sd9XrDFZZ0Q0OXAdJM/giphy.gif" height="30" /></h2></summary>
   <p align="left">
     <a href="https://github.com/Fabian-Martinez-Rincon/Keypad"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Keypad&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F85D7F&show_icons=false" alt="dice-roll-albert-ext"></a>
@@ -47,7 +47,7 @@ Aprendi a usar bucles y estructuras de datos como arrays y matrices, ademas de l
 
 <details open> 
   <summary><h2>
- <img src="https://media.giphy.com/media/ChT2Jt0zAP7NG7CiHB/giphy.gif" height="30" /> Primero Licenciatura En Informatica 2021
+ <img src="https://media.giphy.com/media/ChT2Jt0zAP7NG7CiHB/giphy.gif" height="30" /> Primero Licenciatura en Informatica 2021
 <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/ChT2Jt0zAP7NG7CiHB/giphy.gif" height="30" /></h2></summary>
   <p align="left">
     <a href="https://github.com/Fabian-Martinez-Rincon/CADP"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CADP&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
@@ -60,7 +60,7 @@ Aprendi a usar bucles y estructuras de datos como arrays y matrices, ademas de l
 </details>
 <details open> 
   <summary><h2>
- <img src="https://media.giphy.com/media/eBchNWiXpd3Op7r5L5/giphy.gif" height="30" /> Segundo Licenciatura En Informatica  2022
+ <img src="https://media.giphy.com/media/eBchNWiXpd3Op7r5L5/giphy.gif" height="30" /> Segundo Licenciatura en Informatica  2022
 <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/eBchNWiXpd3Op7r5L5/giphy.gif" height="30" /></h2></summary>
   <p align="left">
     <a href="https://github.com/Fabian-Martinez-Rincon/FOD"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=FOD&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
@@ -77,7 +77,7 @@ Aprendi a usar bucles y estructuras de datos como arrays y matrices, ademas de l
 
 <details open> 
   <summary><h2>
- <img src="https://media.giphy.com/media/i8Gc31GCnKAOOcFEFo/giphy.gif" height="30" /> Tercero Licenciatura En Informatica  2023
+ <img src="https://media.giphy.com/media/i8Gc31GCnKAOOcFEFo/giphy.gif" height="30" /> Tercero Licenciatura en Informatica  2023
 <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/i8Gc31GCnKAOOcFEFo/giphy.gif" height="30" /></h2></summary>
   <p align="left">
     <a href="https://github.com/Fabian-Martinez-Rincon/CPLP"><img width="263" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CPLP&theme=react&bg_color=1F222E&title_color=FF8409&hide_border=true&icon_color=FF8409&show_icons=false" alt="dice-roll-albert-ext"></a>

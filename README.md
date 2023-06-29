@@ -91,7 +91,7 @@ Aprendi a usar bucles y estructuras de datos como arrays y matrices, ademas de l
   </p>
 </details>
 
-<details open> 
+<details> 
   <summary><h2>
  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="30" /> Datos de mi github
 <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="30" /></h2></summary>

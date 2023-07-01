@@ -87,6 +87,7 @@ Aprendi a usar bucles y estructuras de datos como arrays y matrices, ademas de l
     <a href="https://github.com/Fabian-Martinez-Rincon/CPLP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CPLP&theme=react&bg_color=1F222E&title_color=FF8409&hide_border=true&icon_color=FF8409&show_icons=false" alt="dice-roll-albert-ext"></a>
     <a href="https://github.com/Fabian-Martinez-Rincon/PdS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=PdS&theme=react&bg_color=1F222E&title_color=FF8409&hide_border=true&icon_color=FF8409&show_icons=false" alt="custom-icon-badges"></a>
     <a href="https://github.com/Fabian-Martinez-Rincon/PC"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=PC&theme=react&bg_color=1F222E&title_color=FF8409&hide_border=true&icon_color=FF8409&show_icons=false" alt="dice-roll-albert-ext"></a>
+    <a href="https://github.com/Fabian-Martinez-Rincon/Resume"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Resume&theme=react&bg_color=1F222E&title_color=FF8409&hide_border=true&icon_color=FF8409&show_icons=false" alt="dice-roll-albert-ext"></a>
 
   </p>
 </details>

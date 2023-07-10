@@ -52,7 +52,7 @@ Aprendí a utilizar bucles y estructuras de datos como arrays y matrices, ademá
 
 <details open> 
   <summary><h2>
- <img src="https://media.giphy.com/media/1uoimlAhEqR8I/giphy.gif" height="30" /> Primero Licenciatura en Informatica 2021
+ <img src="https://media.giphy.com/media/1uoimlAhEqR8I/giphy.gif" height="30" /> Primero Analista Programador Universitario 2021
 <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/1uoimlAhEqR8I/giphy.gif" height="30" /></h2></summary>
   <p align="left">
     <a href="https://github.com/Fabian-Martinez-Rincon/CADP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CADP&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
@@ -65,7 +65,7 @@ Aprendí a utilizar bucles y estructuras de datos como arrays y matrices, ademá
 </details>
 <details open> 
   <summary><h2>
- <img src="https://media.giphy.com/media/BWAzEOq1fOO1W/giphy.gif" height="30" /> Segundo Licenciatura en Informatica  2022
+ <img src="https://media.giphy.com/media/BWAzEOq1fOO1W/giphy.gif" height="30" /> Segundo Analista Programador Universitario  2022
 <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/BWAzEOq1fOO1W/giphy.gif" height="30" /></h2></summary>
   <p align="left">
     <a href="https://github.com/Fabian-Martinez-Rincon/FOD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=FOD&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
@@ -82,7 +82,7 @@ Aprendí a utilizar bucles y estructuras de datos como arrays y matrices, ademá
 
 <details open> 
   <summary><h2>
- <img src="https://media.giphy.com/media/UD9n7OAteFCTu/giphy.gif" height="30" /> Tercero Licenciatura en Informatica  2023
+ <img src="https://media.giphy.com/media/UD9n7OAteFCTu/giphy.gif" height="30" /> Tercero Analista Programador Universitario  2023
 <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/UD9n7OAteFCTu/giphy.gif" height="30" /></h2></summary>
   <p align="left">
     <a href="https://github.com/Fabian-Martinez-Rincon/CPLP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CPLP&theme=react&bg_color=1F222E&title_color=FF8409&hide_border=true&icon_color=FF8409&show_icons=false" alt="dice-roll-albert-ext"></a>

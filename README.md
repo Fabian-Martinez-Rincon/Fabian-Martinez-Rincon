@@ -1,5 +1,9 @@
 <a title="" href="https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q"><img src="https://user-images.githubusercontent.com/55964635/222882101-46245c1b-354a-4032-bcb9-2c9955c20b29.png" alt="" /></a>
 
+
+
+<details><summary>Relleno</summary>
+
 <a href="https://www.youtube.com/watch?v=OWoMlr4bUQ4"><img align="left" src="view.svg" width="160 "  /></a>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=e9f8f3)
@@ -33,6 +37,10 @@ Aprendí a utilizar bucles y estructuras de datos como arrays y matrices, ademá
 "Hicimos" un juego en python con unos amigos, basicamente hizo todo Juansito (Yo hice el sprite del elefante mafioso y rompia el codigo). Aca esta el [repo](https://github.com/Juanuwu/Jueguito-test/tree/master) y tambien hice la un juego con los stickers de los profesores :D [Repo](https://github.com/El-vertedero-de-Fabo/Gamenem)
 
 </td></tr></table>
+
+</details>
+
+
 
 <details open> 
   <summary><h2>

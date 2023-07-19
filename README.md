@@ -91,7 +91,7 @@ Aprendí a utilizar bucles y estructuras de datos como arrays y matrices, ademá
   </p>
 </details>
 
-<details open> 
+<details> 
   <summary><h2>
  <img src="https://media.giphy.com/media/UD9n7OAteFCTu/giphy.gif" height="30" /> Tercero Licenciatura en Informatica 2023
 <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/UD9n7OAteFCTu/giphy.gif" height="30" /></h2></summary>

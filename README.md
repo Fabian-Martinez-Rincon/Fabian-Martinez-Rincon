@@ -2,7 +2,7 @@
 
 
 
-<details open><summary>💻 Relleno sobre mi</summary>
+<details><summary>💻 Relleno sobre mi</summary>
 
 <a href="https://www.youtube.com/watch?v=OWoMlr4bUQ4"><img align="left" src="view.svg" width="160 "  /></a>
 

@@ -1,8 +1,6 @@
 <a title="" href="https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q"><img src="https://user-images.githubusercontent.com/55964635/222882101-46245c1b-354a-4032-bcb9-2c9955c20b29.png" alt="" /></a>
 
-
-
-<details open><summary>💻 Relleno sobre mi</summary>
+<details><summary>💻 Relleno sobre mi</summary>
 
 <a href="https://www.youtube.com/watch?v=OWoMlr4bUQ4"><img align="left" src="view.svg" width="160 "  /></a>
 
@@ -37,28 +35,23 @@ Aprendí a utilizar bucles y estructuras de datos como arrays y matrices, ademá
 
 </td></tr></table>
 
-</details>
-
-<details> 
-  <summary>📊 Datos de mi github</summary>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Fabian-Martinez-Rincon&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Fabian-Martinez-Rincon&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Fabian-Martinez-Rincon&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-  
 
-</details>
-
-<details open> 
-  <summary><h2>
+<h2>
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZmYzEzaGdocWhidDNvYjczY2MxZWV5Z3VnYzd6eGhxcW51OXpzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hW3eSPv1BkgQ1KPTzm/giphy.gif" height="30" /> Septimo Tecnicatura en Electrónica 2020
-<img style="transform:scaleX(-1);" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZmYzEzaGdocWhidDNvYjczY2MxZWV5Z3VnYzd6eGhxcW51OXpzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hW3eSPv1BkgQ1KPTzm/giphy.gif" height="30" /></h2></summary>
+<img style="transform:scaleX(-1);" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZmYzEzaGdocWhidDNvYjczY2MxZWV5Z3VnYzd6eGhxcW51OXpzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hW3eSPv1BkgQ1KPTzm/giphy.gif" height="30" /></h2>
   <p align="left">
     <a href="https://github.com/Fabian-Martinez-Rincon/Keypad"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Keypad&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F85D7F&show_icons=false" alt="dice-roll-albert-ext"></a>
     <a href="https://github.com/Fabian-Martinez-Rincon/Lock"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Lock&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F85D7F&show_icons=false" alt="dice-roll-albert-ext"></a>
     <a href="https://github.com/Fabian-Martinez-Rincon/Transform-Pokemon-Resolution"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Transform-Pokemon-Resolution&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F85D7F&show_icons=false" alt="dice-roll-albert-ext"></a>
+</p>
 
-  </p>
 </details>
+
+
+
 
 <details open> 
   <summary><h2>

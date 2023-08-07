@@ -49,10 +49,6 @@ Aprendí a utilizar bucles y estructuras de datos como arrays y matrices, ademá
 </p>
 
 </details>
-
-
-
-
 <details open> 
   <summary><h2>
  <img src="https://media.giphy.com/media/1uoimlAhEqR8I/giphy.gif" height="30" /> Primero Licenciatura en Informatica 2021

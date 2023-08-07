@@ -94,7 +94,6 @@ Aprendí a utilizar bucles y estructuras de datos como arrays y matrices, ademá
     <a href="https://github.com/Fabian-Martinez-Rincon/Redes-y-Comunicaciones"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Redes-y-Comunicaciones&theme=react&bg_color=1F222E&title_color=FF8409&hide_border=true&icon_color=FF8409&show_icons=false" alt="dice-roll-albert-ext"></a>
     <a href="https://github.com/Fabian-Martinez-Rincon/Base-de-Datos-1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Base-de-Datos-1&theme=react&bg_color=1F222E&title_color=FF8409&hide_border=true&icon_color=FF8409&show_icons=false" alt="dice-roll-albert-ext"></a>
     <a href="https://github.com/Fabian-Martinez-Rincon/Resume"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Resume&theme=react&bg_color=1F222E&title_color=FF8409&hide_border=true&icon_color=FF8409&show_icons=false" alt="dice-roll-albert-ext"></a>
-  <a href="https://github.com/Fabian-Martinez-Rincon/Portfolio-Minimalista"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Portfolio-Minimalista&theme=react&bg_color=1F222E&title_color=FF8409&hide_border=true&icon_color=FF8409&show_icons=false" alt="dice-roll-albert-ext"></a>
   </p>
 </details>
 

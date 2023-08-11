@@ -1,4 +1,4 @@
-<a title="" href="https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q"><img src="https://github.com/Fabian-Martinez-Rincon/Fabian-Martinez-Rincon/assets/55964635/108f5fb1-31cb-4992-ab00-aad20fa69b4e" alt="" /></a>
+<a title="" href="https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q"><img src="Portada.png" alt="" /></a>
 
 <details><summary>💻 Relleno sobre mi</summary>
 

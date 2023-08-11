@@ -1,8 +1,9 @@
-<a title="" href="https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q"><img src="https://user-images.githubusercontent.com/55964635/222882101-46245c1b-354a-4032-bcb9-2c9955c20b29.png" alt="" /></a>
+<a title="" href="https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q"><img src="https://github.com/Fabian-Martinez-Rincon/Fabian-Martinez-Rincon/assets/55964635/108f5fb1-31cb-4992-ab00-aad20fa69b4e" alt="" /></a>
 
 <details><summary>💻 Relleno sobre mi</summary>
 
 <a href="https://www.youtube.com/watch?v=OWoMlr4bUQ4"><img align="left" src="view.svg" width="160 "  /></a>
+
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=e9f8f3)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=e9f8f3)

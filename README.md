@@ -88,4 +88,3 @@ Aprendí a utilizar bucles y estructuras de datos como arrays y matrices, ademá
     <a href="https://github.com/Fabian-Martinez-Rincon/Resume"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Resume&theme=react&bg_color=1F222E&title_color=FF8409&hide_border=true&icon_color=FF8409&show_icons=false" alt="dice-roll-albert-ext"></a>
   </p>
 
-<a title="" href="https://cafecito.app/ei-materias"><img src="Chiquito.png" alt="" /></a>

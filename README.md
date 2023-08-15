@@ -12,10 +12,10 @@
 
 <tr><td>
 
-Aprendí a utilizar bucles y estructuras de datos como arrays y matrices, además de los pasajes de parámetros por valor y referencia, todo esto en C++. También he creado una calculadora en Visual Basic y he trabajado con los conceptos básicos de Arduino, como encender LEDs según condiciones, entre otras cosas.
+Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice una calculadora en Visual Basic (Perdi el codigo) y muchas cosas con Arduino
 </td><td>
 
-"Hicimos" un juego en python con unos amigos, basicamente hizo todo Juansito (Yo hice el sprite del elefante mafioso y rompia el codigo). Aca esta el [repo](https://github.com/Juanuwu/Jueguito-test/tree/master) y tambien hice la un juego con los stickers de los profesores :D [Repo](https://github.com/El-vertedero-de-Fabo/Gamenem)
+"Hicimos" un juego en python con unos amigos. Aca esta el [repo](https://github.com/Juanuwu/Jueguito-test/tree/master) y tambien hice la un juego con los stickers de los profesores [Repo](https://github.com/El-vertedero-de-Fabo/Gamenem)
 
 </td></tr></table>
 

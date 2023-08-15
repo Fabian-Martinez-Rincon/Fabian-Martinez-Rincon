@@ -1,29 +1,12 @@
 <a title="" href="https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q"><img src="Portada.png" alt="" /></a>
 
 
-
-<a href="https://www.youtube.com/watch?v=OWoMlr4bUQ4"><img align="left" src="view.svg" width="160 "  /></a>
-
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=e9f8f3)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=e9f8f3)
-![](https://img.shields.io/badge/Code-Tailwindcss-informational?style=flat&logo=tailwindcss&logoColor=white&color=e9f8f3)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=e9f8f3)
-![](https://img.shields.io/badge/Code-Nodejs-informational?style=flat&logo=Node.js&logoColor=white&color=e9f8f3)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=e9f8f3)
-![](https://img.shields.io/badge/Code-Nextjs-informational?style=flat&logo=next.js&logoColor=white&color=e9f8f3)
-![](https://img.shields.io/badge/Code-css3-informational?style=flat&logo=css3&logoColor=white&color=e9f8f3)
-![](https://img.shields.io/badge/Code-html5-informational?style=flat&logo=html5&logoColor=white&color=e9f8f3)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=e9f8f3)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=e9f8f3)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=e9f8f3)
-<a href="https://www.youtube.com/watch?v=OWoMlr4bUQ4"><img align="right" src="https://github.com/Fabian-Martinez-Rincon/Fabian-Martinez-Rincon/assets/55964635/91293358-492d-486a-b5bf-1841f72f3780"   /></a>
-Quiero buscar la forma de trabajar de algún modo en el CERN. Desde sexto año he estado viendo videos de física por simple vicio. Me enteré de que mi facultad tiene convenios con el CERN, pero solo toman estudiantes avanzados.
+<div align='center'>
 
 [![YouTube Badge](https://img.shields.io/badge/-@FabianMartinezRincon-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/@FabianMartinezRinconA)](https://www.youtube.com/@FabianMartinezRincon)  [![Instagram Badge](https://img.shields.io/badge/-@fabianm__11-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/maddhruv)](https://instagram.com/fabianm__11) [![Linkedin Badge](https://img.shields.io/badge/-FabianMartinezRincon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabian-martinez-rincon/)](https://www.linkedin.com/in/fabian-martinez-rincon/)
+</div>
 
 
-<br>
 
 <table><tr><td>👾 Quinto Tecnicatura en Electónica 2018</td><td>🤖 Sexto Tecnicatura en Electónica 2019</td></tr>
 

@@ -63,7 +63,7 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
   </p>
 
  <h2 align='center'>
- <img src="https://media.giphy.com/media/y7JcYeqVpgH3G/giphy.gif" height="30" /> Cuarto Licenciatura en Informatica 2023
+ <img src="https://media.giphy.com/media/y7JcYeqVpgH3G/giphy.gif" height="30" /> Cuarto Licenciatura en Informatica 2024
 <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/y7JcYeqVpgH3G/giphy.gif" height="30" /></h2>
   <p align="left">
     <a href="https://github.com/Fabian-Martinez-Rincon/Deep-Learning"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Deep-Learning&theme=react&bg_color=1F222E&title_color=784EFF&hide_border=true&icon_color=FF8409&show_icons=false" alt="dice-roll-albert-ext"></a>

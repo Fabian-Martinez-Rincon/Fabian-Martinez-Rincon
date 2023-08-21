@@ -20,9 +20,8 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
 </td></tr></table>
 
 
-<h2 align='center'>
- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZmYzEzaGdocWhidDNvYjczY2MxZWV5Z3VnYzd6eGhxcW51OXpzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hW3eSPv1BkgQ1KPTzm/giphy.gif" height="30" /> Septimo Tecnicatura en Electrónica 2020
-<img style="transform:scaleX(-1);" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZmYzEzaGdocWhidDNvYjczY2MxZWV5Z3VnYzd6eGhxcW51OXpzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hW3eSPv1BkgQ1KPTzm/giphy.gif" height="30" /></h2>
+Septimo Tecnicatura en Electrónica 2020
+
   <p align="left">
     <a href="https://github.com/Fabian-Martinez-Rincon/Keypad"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Keypad&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F85D7F&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
     <a href="https://github.com/Fabian-Martinez-Rincon/Lock"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Lock&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F85D7F&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
@@ -30,18 +29,17 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
 </p>
 
 
-<h2 align='center'>
- <img src="https://media.giphy.com/media/1uoimlAhEqR8I/giphy.gif" height="30" /> Primero Licenciatura en Informatica 2021
-<img style="transform:scaleX(-1);" src="https://media.giphy.com/media/1uoimlAhEqR8I/giphy.gif" height="30" /></h2>
+Primero Licenciatura en Informatica 2021
+
   <p align="left">
     <a href="https://github.com/Fabian-Martinez-Rincon/CADP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CADP&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/Fabian-Martinez-Rincon/Taller-de-Programacion"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Taller-de-Programacion&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
     <a href="https://github.com/Fabian-Martinez-Rincon/Arquitectura-de-Computadoras"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Arquitectura-de-Computadoras&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
     
   </p>
-<h2 align='center'>
- <img src="https://media.giphy.com/media/BWAzEOq1fOO1W/giphy.gif" height="30" /> Segundo Licenciatura en Informatica 2022
-<img style="transform:scaleX(-1);" src="https://media.giphy.com/media/BWAzEOq1fOO1W/giphy.gif" height="30" /></h2>
+
+Segundo Licenciatura en Informatica 2022
+
   <p align="left">
     <a href="https://github.com/Fabian-Martinez-Rincon/FOD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=FOD&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
     <a href="https://github.com/Fabian-Martinez-Rincon/AyED"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=ayed&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
@@ -51,9 +49,9 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
     <a href="https://github.com/Fabian-Martinez-Rincon/IS1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=IS1&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
     
   </p>
-<h2 align='center'>
- <img src="https://media.giphy.com/media/UD9n7OAteFCTu/giphy.gif" height="30" /> Tercero Licenciatura en Informatica 2023
-<img style="transform:scaleX(-1);" src="https://media.giphy.com/media/UD9n7OAteFCTu/giphy.gif" height="30" /></h2>
+  
+Tercero Licenciatura en Informatica 2023
+
   <p align="left">
     <a href="https://github.com/Fabian-Martinez-Rincon/CPLP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CPLP&theme=react&bg_color=1F222E&title_color=FF8409&hide_border=true&icon_color=FF8409&show_icons=false" alt="dice-roll-albert-ext"></a>
     <a href="https://github.com/Fabian-Martinez-Rincon/Proyecto-de-Software"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Proyecto-de-Software&theme=react&bg_color=1F222E&title_color=FF8409&hide_border=true&icon_color=FF8409&show_icons=false" alt="custom-icon-badges"></a>
@@ -62,17 +60,15 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
     <a href="https://github.com/Fabian-Martinez-Rincon/Base-de-Datos-1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Base-de-Datos-1&theme=react&bg_color=1F222E&title_color=FF8409&hide_border=true&icon_color=FF8409&show_icons=false" alt="dice-roll-albert-ext"></a>
   </p>
 
- <h2 align='center'>
- <img src="https://media.giphy.com/media/y7JcYeqVpgH3G/giphy.gif" height="30" /> Cuarto Licenciatura en Informatica 2024
-<img style="transform:scaleX(-1);" src="https://media.giphy.com/media/y7JcYeqVpgH3G/giphy.gif" height="30" /></h2>
+Cuarto Licenciatura en Informatica 2024
+
   <p align="left">
     <a href="https://github.com/Fabian-Martinez-Rincon/Deep-Learning"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Deep-Learning&theme=react&bg_color=1F222E&title_color=784EFF&hide_border=true&icon_color=FF8409&show_icons=false" alt="dice-roll-albert-ext"></a>
   </p>
 
-<h2 align='center'>
- <img src="https://media.giphy.com/media/jdV1qhKi6H6la/giphy.gif" height="30" /> Proyectos Personales
-<img style="transform:scaleX(-1);" src="https://media.giphy.com/media/jdV1qhKi6H6la/giphy.gif" height="30" /></h2>
-    <a href="https://github.com/Fabian-Martinez-Rincon/Resume"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Resume&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
+Proyectos Personales
+
+<a href="https://github.com/Fabian-Martinez-Rincon/Resume"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Resume&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
   <a href="https://github.com/Fabian-Martinez-Rincon/Linktree"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Linktree&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
   <a href="https://github.com/MITH-arg/EI-Materias"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MITH-arg&repo=EI-Materias&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
     <a href="https://github.com/Fabian-Martinez-Rincon/Fabian-Martinez-Rincon.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Fabian-Martinez-Rincon.github.io&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="custom-icon-badges"></a>

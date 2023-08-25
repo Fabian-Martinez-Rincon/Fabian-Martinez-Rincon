@@ -39,7 +39,9 @@ Septimo Tecnicatura en Electrónica 2020
 <a href="https://github.com/Fabian-Martinez-Rincon/Galleriix-Frontend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Galleriix-Frontend&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
 </details>
 
-Primero Licenciatura en Informatica 2021
+<h2>
+ <img src="https://media.giphy.com/media/1uoimlAhEqR8I/giphy.gif" height="30" /> Primero Licenciatura en Informatica 2021
+<img style="transform:scaleX(-1);" src="https://media.giphy.com/media/1uoimlAhEqR8I/giphy.gif" height="30" /></h2>
 
   <p align="left">
     <a href="https://github.com/Fabian-Martinez-Rincon/CADP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CADP&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
@@ -48,7 +50,9 @@ Primero Licenciatura en Informatica 2021
     
   </p>
 
-Segundo Licenciatura en Informatica 2022
+<h2>
+ <img src="https://media.giphy.com/media/BWAzEOq1fOO1W/giphy.gif" height="30" /> Segundo Licenciatura en Informatica 2022
+<img style="transform:scaleX(-1);" src="https://media.giphy.com/media/BWAzEOq1fOO1W/giphy.gif" height="30" /></h2>
 
   <p align="left">
     <a href="https://github.com/Fabian-Martinez-Rincon/FOD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=FOD&theme=react&bg_color=1F222E&title_color=F85D7Ficon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
@@ -60,7 +64,9 @@ Segundo Licenciatura en Informatica 2022
     
   </p>
   
-Tercero Licenciatura en Informatica 2023
+<h2>
+ <img src="https://media.giphy.com/media/UD9n7OAteFCTu/giphy.gif" height="30" /> Tercero Licenciatura en Informatica 2023
+<img style="transform:scaleX(-1);" src="https://media.giphy.com/media/UD9n7OAteFCTu/giphy.gif" height="30" /></h2>
 
   <p align="left">
     <a href="https://github.com/Fabian-Martinez-Rincon/CPLP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CPLP&theme=react&bg_color=1F222E&title_color=FF8409&hide_border=true&icon_color=FF8409&show_icons=false" alt="dice-roll-albert-ext"></a>

@@ -83,7 +83,7 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
   </p>
 
  <h2>
- <img src="https://media.giphy.com/media/hSv6ssr93JFXq3FMzH/giphy.gif" height="30" /> Tercero Licenciatura en Informatica 2024
+ <img src="https://media.giphy.com/media/hSv6ssr93JFXq3FMzH/giphy.gif" height="30" /> Cuarto Licenciatura en Informatica 2024
 <img style="transform:scaleX(-1);" src="https://media.giphy.com/media/hSv6ssr93JFXq3FMzH/giphy.gif" height="30" /></h2>
 
   <p align="left">

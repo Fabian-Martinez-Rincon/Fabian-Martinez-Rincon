@@ -6,7 +6,7 @@
 [![YouTube Badge](https://img.shields.io/badge/-@FabianMartinezRincon-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/@FabianMartinezRinconA)](https://www.youtube.com/@FabianMartinezRincon)  [![Instagram Badge](https://img.shields.io/badge/-@fabianm__11-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/maddhruv)](https://instagram.com/fabianm__11) [![Linkedin Badge](https://img.shields.io/badge/-FabianMartinezRincon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabian-martinez-rincon/)](https://www.linkedin.com/in/fabian-martinez-rincon/)
 </div>
 
-<details><summary>🎒 Secundaria</summary><table><tr><td>👾 Quinto Tecnicatura en Electónica 2018</td><td>🤖 Sexto Tecnicatura en Electónica 2019</td></tr><tr><td>
+<details open><summary>🎒 Secundaria</summary><table><tr><td>👾 Quinto Tecnicatura en Electónica 2018</td><td>🤖 Sexto Tecnicatura en Electónica 2019</td></tr><tr><td>
 
 Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice una calculadora en Visual Basic (Perdi el codigo) y muchas cosas con Arduino
 </td><td>
@@ -15,8 +15,11 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
 
 </td></tr></table>
 
-Septimo Tecnicatura en Electrónica 2020
 
+
+<h2>
+ <img src="https://media.giphy.com/media/duExSjCrIxTT60Nycr/giphy.gif" height="30" /> Septimo Tecnicatura en Electónica 2020
+<img style="transform:scaleX(-1);" src="https://media.giphy.com/media/duExSjCrIxTT60Nycr/giphy.gif" height="30" /></h2>
   <p align="left">
     <a href="https://github.com/Fabian-Martinez-Rincon/Keypad"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Keypad&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F85D7F&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
     <a href="https://github.com/Fabian-Martinez-Rincon/Lock"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Lock&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F85D7F&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>

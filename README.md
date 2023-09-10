@@ -3,9 +3,6 @@
 
 <div align='center'>
 
-[![YouTube Badge](https://img.shields.io/badge/-@FabianMartinezRincon-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/@FabianMartinezRinconA)](https://www.youtube.com/@FabianMartinezRincon)  [![Instagram Badge](https://img.shields.io/badge/-@fabianm__11-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/maddhruv)](https://instagram.com/fabianm__11) [![Linkedin Badge](https://img.shields.io/badge/-FabianMartinezRincon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabian-martinez-rincon/)](https://www.linkedin.com/in/fabian-martinez-rincon/)
-</div>
-
 <details><summary>🎒 Secundaria</summary><table><tr><td>👾 Quinto Tecnicatura en Electónica 2018</td><td>🤖 Sexto Tecnicatura en Electónica 2019</td></tr><tr><td>
 
 Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice una calculadora en Visual Basic (Perdi el codigo) y muchas cosas con Arduino

@@ -1,9 +1,8 @@
 <a title="" href="https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q"><img src="Portada.png" alt="" /></a>
 
 
-<div align='center'>
 
-<details><summary>🎒 Secundaria</summary><table><tr><td>👾 Quinto Tecnicatura en Electónica 2018</td><td>🤖 Sexto Tecnicatura en Electónica 2019</td></tr><tr><td>
+<details><summary>🎓 Secundaria</summary><table><tr><td>👾 Quinto Tecnicatura en Electónica 2018</td><td>🤖 Sexto Tecnicatura en Electónica 2019</td></tr><tr><td>
 
 Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice una calculadora en Visual Basic (Perdi el codigo) y muchas cosas con Arduino
 </td><td>
@@ -24,7 +23,7 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
 </p>
 </details>
 
-<details><summary>💼Proyectos Personales</summary>
+<details><summary>☕️ Proyectos Personales</summary>
 <a href="https://github.com/Fabian-Martinez-Rincon/Resume"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Resume&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
   <a href="https://github.com/Fabian-Martinez-Rincon/Linktree"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Linktree&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
   <a href="https://github.com/MITH-arg/EI-Materias"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MITH-arg&repo=EI-Materias&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="custom-icon-badges"></a>

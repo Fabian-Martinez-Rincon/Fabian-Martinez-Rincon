@@ -9,7 +9,7 @@
   <a href="https://www.youtube.com/@FabianMartinezRincon">
     <img alt="Awesome" src="https://img.shields.io/badge/-Youtube-c4302b?style=flat-square&logo=youtube">
   </a>
-   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+   <a href="https://www.linkedin.com/in/fabian-martinez-rincon/">
     <img alt="Awesome" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin">
   </a>
    <a href="https://www.twitch.tv/fabo_py">

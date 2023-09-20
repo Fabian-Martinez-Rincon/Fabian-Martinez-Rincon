@@ -1,6 +1,19 @@
 <a title="" href="https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q"><img src="Portada.png" alt="" /></a>
 
-[![committers.top badge](https://user-badge.committers.top/argentina/Fabian-Martinez-Rincon.svg)](https://user-badge.committers.top/argentina/Fabian-Martinez-Rincon)
+<p align="left">
+   <a href="https://github.com/MacroPower/MacroPower">
+    <img src="https://user-badge.committers.top/argentina/Fabian-Martinez-Rincon.svg" alt="page views" />
+  </a>
+  <a href="https://github.com/MacroPower/MacroPower">
+    <img src="https://komarev.com/ghpvc/?username=Fabian-Martinez-Rincon" alt="page views" />
+  </a>
+  <a href="https://github.com/MacroPower?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Fabian-Martinez-Rincon?color=green&logo=github">
+  </a>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://img.shields.io/badge/-Youtube-c4302b?style=flat-square&logo=youtube">
+  </a>
+</p>
 
 <details><summary>🎓 Secundaria</summary><table><tr><td>👾 Quinto Tecnicatura en Electónica 2018</td><td>🤖 Sexto Tecnicatura en Electónica 2019</td></tr><tr><td>
 

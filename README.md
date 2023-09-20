@@ -1,17 +1,19 @@
 <a title="" href="https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q"><img src="Portada.png" alt="" /></a>
 
-<p align="left">
-   <a href="https://github.com/MacroPower/MacroPower">
+<p align="center">
     <img src="https://user-badge.committers.top/argentina/Fabian-Martinez-Rincon.svg" alt="page views" />
-  </a>
-  <a href="https://github.com/MacroPower/MacroPower">
     <img src="https://komarev.com/ghpvc/?username=Fabian-Martinez-Rincon" alt="page views" />
-  </a>
-  <a href="https://github.com/MacroPower?tab=followers">
+  <a href="https://github.com/Fabian-Martinez-Rincon?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Fabian-Martinez-Rincon?color=green&logo=github">
   </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+  <a href="https://www.youtube.com/@FabianMartinezRincon">
     <img alt="Awesome" src="https://img.shields.io/badge/-Youtube-c4302b?style=flat-square&logo=youtube">
+  </a>
+   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin">
+  </a>
+   <a href="https://www.twitch.tv/fabo_py">
+    <img alt="Awesome" src="https://img.shields.io/badge/-Twitch-701198?style=flat-square&logo=twitch">
   </a>
 </p>
 

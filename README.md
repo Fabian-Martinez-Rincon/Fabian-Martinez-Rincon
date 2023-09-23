@@ -17,6 +17,8 @@
   </a>
 </p>
 
+- [Paypal](https://paypal.me/faboart309?country.x=AR&locale.x=es_XC)
+
 <details><summary>🎓 Secundaria</summary><table><tr><td>👾 Quinto Tecnicatura en Electónica 2018</td><td>🤖 Sexto Tecnicatura en Electónica 2019</td></tr><tr><td>
 
 Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice una calculadora en Visual Basic (Perdi el codigo) y muchas cosas con Arduino

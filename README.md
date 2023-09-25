@@ -66,7 +66,9 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
     <a href="https://github.com/Fabian-Martinez-Rincon/CADP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CADP&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/Fabian-Martinez-Rincon/Taller-de-Programacion"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Taller-de-Programacion&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
     <a href="https://github.com/Fabian-Martinez-Rincon/Arquitectura-de-Computadoras"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Arquitectura-de-Computadoras&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
-    
+        <a href="https://github.com/Fabian-Martinez-Rincon/Mega-Conversor-OC"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Mega-Conversor-OC&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
+        <a href="https://github.com/Fabian-Martinez-Rincon/Fabian-Martinez-Rincon.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Fabian-Martinez-Rincon.github.io&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
+        <a href="https://github.com/MITH-arg/EI-Materias"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MITH-arg&repo=EI-Materias&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
   </p>
 
 <h2>

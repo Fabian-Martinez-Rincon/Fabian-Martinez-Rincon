@@ -15,6 +15,11 @@
    <a href="https://www.twitch.tv/fabo_py">
     <img alt="Awesome" src="https://img.shields.io/badge/-Twitch-701198?style=flat-square&logo=twitch">
   </a>
+
+<a href="https://github.com/Fabian-Martinez-Rincon">
+    <img alt="github"
+        src="https://img.shields.io/github/stars/Fabian-Martinez-Rincon?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
+</a>
 </p>
 
 - [Paypal](https://paypal.me/faboart309?country.x=AR&locale.x=es_XC)

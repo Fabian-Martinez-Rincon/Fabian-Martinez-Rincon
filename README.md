@@ -1,8 +1,9 @@
 <a title="" href="https://www.youtube.com/channel/UC9LoqsWsp3E6ymT1j1JLC4Q"><img src="Portada.png" alt="" /></a>
 
+![](https://komarev.com/ghpvc/?username=Fabian-Martinez-Rincon&style=for-the-badge)
+
 <p align="center">
     <img src="https://user-badge.committers.top/argentina/Fabian-Martinez-Rincon.svg" alt="page views" />
-    <img src="https://komarev.com/ghpvc/?username=Fabian-Martinez-Rincon" alt="page views" />
   <a href="https://github.com/Fabian-Martinez-Rincon?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Fabian-Martinez-Rincon?color=green&logo=github">
   </a>

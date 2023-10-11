@@ -12,10 +12,6 @@
    <a href="https://www.linkedin.com/in/fabian-martinez-rincon/">
     <img alt="Awesome" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin">
   </a>
-   <a href="https://www.twitch.tv/fabo_py">
-    <img alt="Awesome" src="https://img.shields.io/badge/-Twitch-701198?style=flat-square&logo=twitch">
-  </a>
-
 <a href="https://github.com/Fabian-Martinez-Rincon">
     <img alt="github"
         src="https://img.shields.io/github/stars/Fabian-Martinez-Rincon?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />

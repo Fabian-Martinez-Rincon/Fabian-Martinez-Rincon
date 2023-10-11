@@ -2,22 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Fabian-Martinez-Rincon&style=for-the-badge)
 
-<p align="center">
-    <img src="https://user-badge.committers.top/argentina/Fabian-Martinez-Rincon.svg" alt="page views" />
-  <a href="https://github.com/Fabian-Martinez-Rincon?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Fabian-Martinez-Rincon?color=green&logo=github">
-  </a>
-  <a href="https://www.youtube.com/@FabianMartinezRincon">
-    <img alt="Awesome" src="https://img.shields.io/badge/-Youtube-c4302b?style=flat-square&logo=youtube">
-  </a>
-   <a href="https://www.linkedin.com/in/fabian-martinez-rincon/">
-    <img alt="Awesome" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin">
-  </a>
-<a href="https://github.com/Fabian-Martinez-Rincon">
-    <img alt="github"
-        src="https://img.shields.io/github/stars/Fabian-Martinez-Rincon?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
-</a>
-</p>
+<img src="https://user-badge.committers.top/argentina/Fabian-Martinez-Rincon.svg" alt="page views" />
+
 
 - [Paypal](https://paypal.me/faboart309?country.x=AR&locale.x=es_XC)
 

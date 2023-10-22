@@ -7,26 +7,7 @@
 
 - [Paypal](https://paypal.me/faboart309?country.x=AR&locale.x=es_XC)
 
-<details><summary>🎓 Secundaria</summary><table><tr><td>👾 Quinto Tecnicatura en Electónica 2018</td><td>🤖 Sexto Tecnicatura en Electónica 2019</td></tr><tr><td>
 
-Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice una calculadora en Visual Basic (Perdi el codigo) y muchas cosas con Arduino
-</td><td>
-
-"Hicimos" un juego en python con unos amigos. Aca esta el [repo](https://github.com/Juanuwu/Jueguito-test/tree/master) y tambien hice la un juego con los stickers de los profesores [Repo](https://github.com/El-vertedero-de-Fabo/Gamenem)
-
-</td></tr></table>
-
-
-
-<h2>
- <img src="https://media.giphy.com/media/duExSjCrIxTT60Nycr/giphy.gif" height="30" /> Septimo Tecnicatura en Electónica 2020
-<img style="transform:scaleX(-1);" src="https://media.giphy.com/media/duExSjCrIxTT60Nycr/giphy.gif" height="30" /></h2>
-  <p align="left">
-    <a href="https://github.com/Fabian-Martinez-Rincon/Keypad"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Keypad&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F85D7F&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
-    <a href="https://github.com/Fabian-Martinez-Rincon/Lock"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Lock&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F85D7F&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
-    <a href="https://github.com/Fabian-Martinez-Rincon/Transform-Pokemon-Resolution"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Transform-Pokemon-Resolution&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F85D7F&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
-</p>
-</details>
 
 <details><summary>☕️ Proyectos Personales</summary>
 <a href="https://github.com/Fabian-Martinez-Rincon/Resume"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Resume&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>

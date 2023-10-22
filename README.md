@@ -5,10 +5,6 @@
 <img src="https://user-badge.committers.top/argentina/Fabian-Martinez-Rincon.svg" alt="page views" />
 
 
-- [Paypal](https://paypal.me/faboart309?country.x=AR&locale.x=es_XC)
-
-
-
 <details><summary>☕️ Proyectos Personales</summary>
 <a href="https://github.com/Fabian-Martinez-Rincon/Resume"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Resume&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
   <a href="https://github.com/Fabian-Martinez-Rincon/Linktree"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Linktree&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>

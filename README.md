@@ -41,7 +41,7 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
 
 <details> <summary>Facultad</summary>
 
-<h2>Primero Licenciatura en Informatica 2021</h2>
+### Primero Licenciatura en Informatica 2021
 
 
 <a href="https://github.com/Fabo-University/CADP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=CADP&theme=react&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
@@ -52,7 +52,7 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
 
 
 
-<h2>Segundo Licenciatura en Informatica 2022</h2>
+### Segundo Licenciatura en Informatica 2022
 
 
 <a href="https://github.com/Fabo-University/FOD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=FOD&theme=react&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
@@ -63,7 +63,7 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
 <a href="https://github.com/Fabo-University/Ingenieria-de-Software1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=Ingenieria-de-Software1&theme=react&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 <a href="https://github.com/Fabo-University/DBD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=DBD&theme=react&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 
-<h2>Tercero Licenciatura en Informatica 2023</h2>
+### Tercero Licenciatura en Informatica 2023
 
 
 <a href="https://github.com/Fabo-University/Proyecto-de-Software"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=Proyecto-de-Software&theme=react&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>

@@ -72,7 +72,7 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
 <a href="https://github.com/Fabo-University/Arquitectura-de-Computadoras"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=Arquitectura-de-Computadoras&theme=react&bg_color=1F222E&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
 <a href="https://github.com/Fabo-University/EPA"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=EPA&theme=react&bg_color=1F222E&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
 <a href="https://github.com/Fabo-University/Organizacion_de_Computadoras"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=Organizacion_de_Computadoras&theme=react&bg_color=1F222E&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
-
+<a href="https://github.com/Fabian-Martinez-Rincon/Fabian-Martinez-Rincon.github.io"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Fabian-Martinez-Rincon.github.io&theme=react&bg_color=1F222E&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
 
 
 ### 🐔 Segundo Licenciatura en Sistemas 2022 

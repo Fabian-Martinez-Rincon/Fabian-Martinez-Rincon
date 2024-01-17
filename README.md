@@ -4,7 +4,7 @@
 
 ### 📹 Vídeos en mi [canal](https://youtube.com/midulive?sub_confirmation=1)
 
-
+<div align='center'>
 <a href='https://youtu.be/6xmOD4W_2Kc?si=qMnRyV4zRK8SwijU' target='_blank'>
   <img width='30%' src='https://github.com/Fabian-Martinez-Rincon/Fabian-Martinez-Rincon/assets/55964635/280f4a16-81e3-4330-9372-1d73835dea6c' />
 </a>
@@ -15,6 +15,7 @@
 <a href='https://youtu.be/64jPO_DxQEQ?si=K2nrrPbHWuPvry51' target='_blank'>
   <img width='30%' src='https://github.com/Fabian-Martinez-Rincon/Fabian-Martinez-Rincon/assets/55964635/717d9cf7-33e0-403a-bf28-714512377052' />
 </a>
+</div>
 
 ### Proyectos Personales
 

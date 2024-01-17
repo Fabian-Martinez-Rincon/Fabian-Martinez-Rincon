@@ -10,7 +10,7 @@
 <a href="https://github.com/MITH-arg/EI-Materias"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MITH-arg&repo=EI-Materias&theme=react&bg_color=1F222E&title_color=007FFF&hide_border=true&icon_color=F85D7F&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
 </p>
 
-<h2>Primero Licenciatura en Informatica 2021</h2>
+<h2>Primero Licenciatura en Sistemas 2021</h2>
 
 
 <a href="https://github.com/Fabo-University/CADP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=CADP&theme=react&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
@@ -21,7 +21,7 @@
 
 
 
-<h2>Segundo Licenciatura en Informatica 2022</h2>
+<h2>Segundo Licenciatura en Sistemas 2022</h2>
 
 
 <a href="https://github.com/Fabo-University/FOD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=FOD&theme=react&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
@@ -32,7 +32,7 @@
 <a href="https://github.com/Fabo-University/Ingenieria-de-Software1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=Ingenieria-de-Software1&theme=react&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 <a href="https://github.com/Fabo-University/DBD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=DBD&theme=react&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 
-<h2>Tercero Licenciatura en Informatica 2023</h2>
+<h2>Tercero Licenciatura en Sistemas 2023 y 2024</h2>
 
 
 <a href="https://github.com/Fabo-University/Proyecto-de-Software"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=Proyecto-de-Software&theme=react&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
@@ -40,6 +40,7 @@
 <a href="https://github.com/Fabo-University/Redes-y-Comunicaciones"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=Redes-y-Comunicaciones&theme=react&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="dice-roll-albert-ext"></a>
 <a href="https://github.com/Fabo-University/CyC"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=CyC&theme=react&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="dice-roll-albert-ext"></a>
 <a href="https://github.com/Fabo-University/CPLP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=CPLP&theme=react&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="dice-roll-albert-ext"></a>
+
 
 
 

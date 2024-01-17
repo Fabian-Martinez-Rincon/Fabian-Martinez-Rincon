@@ -10,7 +10,7 @@
 <a href="https://github.com/MITH-arg/EI-Materias"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MITH-arg&repo=EI-Materias&theme=react&bg_color=1F222E&title_color=007FFF&hide_border=true&icon_color=F85D7F&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
 </p>
 
-<details> <summary> 2018, 2019 y 2020 Tecnicatura en Electronica </summary>
+<details> <summary> 2018, 2019 y 2020 Tecnicatura en Electronica 🐣 </summary>
 
 ### Quinto Tecnicatura en Electónica 2018
 
@@ -46,7 +46,7 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
 
 </details>
 
-### Primero Licenciatura en Sistemas 2021
+### Primero Licenciatura en Sistemas 2021 🐥
 
 
 <a href="https://github.com/Fabo-University/CADP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=CADP&theme=react&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
@@ -57,7 +57,7 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
 
 
 
-### Segundo Licenciatura en Sistemas 2022
+### Segundo Licenciatura en Sistemas 2022 🐔
 
 
 <a href="https://github.com/Fabo-University/FOD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=FOD&theme=react&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
@@ -68,7 +68,7 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
 <a href="https://github.com/Fabo-University/Ingenieria-de-Software1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=Ingenieria-de-Software1&theme=react&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 <a href="https://github.com/Fabo-University/DBD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=DBD&theme=react&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 
-### Tercero Licenciatura en Sistemas 2023
+### Tercero Licenciatura en Sistemas 2023 🦅
 
 
 <a href="https://github.com/Fabo-University/Proyecto-de-Software"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=Proyecto-de-Software&theme=react&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
@@ -78,7 +78,7 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
 <a href="https://github.com/Fabo-University/CPLP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=CPLP&theme=react&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="dice-roll-albert-ext"></a>
 
 
-### Terminando Tercero Licenciatura en Sistema 2024
+### Tercero 2.0 Licenciatura en Sistema 2024 🐲
 
 <a href="https://github.com/Fabian-Martinez-Rincon/Orientacion-a-Objetos-2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Orientacion-a-Objetos-2&theme=react&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
 

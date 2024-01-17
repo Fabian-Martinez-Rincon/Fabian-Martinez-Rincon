@@ -18,6 +18,8 @@
   <img width='30%' src='https://github.com/Fabian-Martinez-Rincon/Fabian-Martinez-Rincon/assets/55964635/717d9cf7-33e0-403a-bf28-714512377052' />
 </a>
 
+</div>
+
 
 ### Proyectos Personales
 

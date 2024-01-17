@@ -2,9 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=Fabian-Martinez-Rincon)
 
-<div align='center'>
+### 📹 Vídeos en mi [canal](https://www.youtube.com/@FabianMartinezRincon)
 
-### 📹 Vídeos en mi [canal](https://youtube.com/midulive?sub_confirmation=1)
+<div align='center'>
 
 
 <a href='https://youtu.be/6xmOD4W_2Kc?si=qMnRyV4zRK8SwijU' target='_blank'>

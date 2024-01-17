@@ -65,11 +65,11 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
 ### 🐥 Primero Licenciatura en Sistemas 2021 
 
 
-<a href="https://github.com/Fabo-University/CADP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=CADP&theme=react&bg_color=1F222E&title_color=007FFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
-<a href="https://github.com/Fabo-University/Taller-de-Programacion"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=Taller-de-Programacion&theme=react&bg_color=1F222E&title_color=007FFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-<a href="https://github.com/Fabo-University/Arquitectura-de-Computadoras"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=Arquitectura-de-Computadoras&theme=react&bg_color=1F222E&title_color=007FFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
-<a href="https://github.com/Fabo-University/EPA"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=EPA&theme=react&bg_color=1F222E&title_color=007FFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
-<a href="https://github.com/Fabo-University/Organizacion_de_Computadoras"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=Organizacion_de_Computadoras&theme=react&bg_color=1F222E&title_color=007FFF&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
+<a href="https://github.com/Fabo-University/CADP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=CADP&theme=react&bg_color=1F222E&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
+<a href="https://github.com/Fabo-University/Taller-de-Programacion"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=Taller-de-Programacion&theme=react&bg_color=1F222E&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/Fabo-University/Arquitectura-de-Computadoras"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=Arquitectura-de-Computadoras&theme=react&bg_color=1F222E&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
+<a href="https://github.com/Fabo-University/EPA"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=EPA&theme=react&bg_color=1F222E&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
+<a href="https://github.com/Fabo-University/Organizacion_de_Computadoras"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=Organizacion_de_Computadoras&theme=react&bg_color=1F222E&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
 
 
 

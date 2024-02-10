@@ -87,12 +87,10 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
 
 ### 🦅 Tercero Licenciatura en Sistemas 2023
 
-<a href="https://github.com/Fabo-University/Deep-Learning"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=Deep-Learning&theme=react&bg_color=1F222E&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
+
 <a href="https://github.com/Fabo-University/Programacion-Concurrente"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=Programacion-Concurrente&theme=react&bg_color=1F222E&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="dice-roll-albert-ext"></a>
 <a href="https://github.com/Fabo-University/Redes-y-Comunicaciones"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=Redes-y-Comunicaciones&theme=react&bg_color=1F222E&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="dice-roll-albert-ext"></a>
-<a href="https://github.com/Fabo-University/CyC"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=CyC&theme=react&bg_color=1F222E&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
-<a href="https://github.com/Fabo-University/CPLP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=CPLP&theme=react&bg_color=1F222E&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false&show_description=false" alt="dice-roll-albert-ext"></a>
-<a href="https://github.com/Fabo-University/Proyecto-de-Software"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=Proyecto-de-Software&theme=react&bg_color=1F222E&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/Fabo-University/CPLP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=CPLP&theme=react&bg_color=1F222E&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="dice-roll-albert-ext"></a><a href="https://github.com/Fabo-University/Proyecto-de-Software"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabo-University&repo=Proyecto-de-Software&theme=react&bg_color=1F222E&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
 
 
 ### 🐉 Fixeando Tercero APU 2024

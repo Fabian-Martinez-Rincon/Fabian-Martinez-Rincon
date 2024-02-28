@@ -1,4 +1,4 @@
-<a title="" href="https://fabian-martinez-rincon.vercel.app/"><img src="Captura2.PNG" alt="" /></a>
+<a title="" href="https://rincondelfabo.vercel.app/"><img src="Captura2.PNG" alt="" /></a>
 
 ### 🐥 Primero Licenciatura en Sistemas
 

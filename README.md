@@ -1,4 +1,4 @@
-<a title="" href="https://rincondelfabo.vercel.app/"><img src="Captura2.PNG" alt="" /></a>
+<a title="" href="https://rincondelfabo.vercel.app/"><img src="1.PNG" alt="" style="border:1px solid black;"/></a>
 
 ### 🐥 Primero Licenciatura en Sistemas
 

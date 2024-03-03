@@ -34,7 +34,7 @@
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-### <img alt="GIF" src="https://media.giphy.com/media/sC81jn2EOiflu/giphy.gif" width="25" /> Tercero Licenciatura en Sistemas
+### <img alt="GIF" src="https://media.giphy.com/media/EWRztVBjmMCxG/giphy.gif" width="25" /> Tercero Licenciatura en Sistemas
 
 
 <a href="https://github.com/Fabian-Martinez-Rincon/Programacion-Concurrente"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Programacion-Concurrente&theme=react&bg_color=00000000&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="dice-roll-albert-ext"></a>

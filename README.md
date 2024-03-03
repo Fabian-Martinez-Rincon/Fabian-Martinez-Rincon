@@ -4,16 +4,12 @@
         </samp><img src="https://media.giphy.com/media/mlUQW9bMGPDFCU8rMB/giphy.gif" width="30px" height="30px" />
 </h1>
 
-<img align="right" src="https://media.giphy.com/media/Q6jjziXs3iQ3an8tWK/giphy.gif"  width="25%" />
+<img align="right" src="https://media.giphy.com/media/nOrwZIohL0Y5a/giphy.gif"  width="25%" />
 
 -  <img alt="GIF" src="https://media.giphy.com/media/MuqpqJmXh6J5UCu7U1/giphy.gif" width="25" /> &nbsp; Casi siempre programo con **Python**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Me gusta documentar todo lo que hago. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Si necesitan una mano me pueden hablar por **discord:fabomartinez**. <br>
 
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Fabian-Martinez-Rincon&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=007FFF&icon_color=F8D866">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabian-Martinez-Rincon&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&title_color=007FFF">
-</p>
 
 
 

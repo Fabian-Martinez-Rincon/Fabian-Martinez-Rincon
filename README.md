@@ -4,8 +4,6 @@
         </samp>
 </h3>
 
-
-- <details><summary>Portfolio</summary><a title="" href="https://rincondelfabo.vercel.app/"><img src="1.PNG"/></a></details>
 -  <img alt="GIF" src="https://media.giphy.com/media/MuqpqJmXh6J5UCu7U1/giphy.gif" width="25" /> &nbsp; Casi siempre programo con **Python**. <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3IxMm12bXNtbWlzc3VvZ3huMDZhMmY4YnR6dTBpajZwajhoNm5ndiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2m5EvGlZaJbdlIy2iw/giphy.gif" alt="Penguin" width="25%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Me gusta documentar todo lo que hago. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Si necesitan una mano me pueden hablar por **discord:fabomartinez**. <br>
@@ -44,4 +42,4 @@
 <a href="https://github.com/Fabian-Martinez-Rincon/Ingenieria-de-Software2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Ingenieria-de-Software2&theme=react&bg_color=00000000&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
 
 
-
+<details open><summary>Portfolio</summary><a title="" href="https://rincondelfabo.vercel.app/"><img src="1.PNG"/></a></details>

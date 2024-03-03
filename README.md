@@ -19,7 +19,7 @@
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-### <img alt="GIF" src="https://media.giphy.com/media/kuWN0iF9BLQKk/giphy.gif" width="25" /> Primero Licenciatura en Sistemas
+## <img alt="GIF" src="https://media.giphy.com/media/kuWN0iF9BLQKk/giphy.gif" width="25" /> Primero Licenciatura en Sistemas
 
 
 <a href="https://github.com/Fabian-Martinez-Rincon/CADP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CADP&theme=react&bg_color=00000000&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
@@ -31,7 +31,7 @@
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-### <img alt="GIF" src="https://media.giphy.com/media/r3dMJGNM3AuOs/giphy.gif" width="35" />  Segundo Licenciatura en Sistemas
+## <img alt="GIF" src="https://media.giphy.com/media/r3dMJGNM3AuOs/giphy.gif" width="35" />  Segundo Licenciatura en Sistemas
 
 <a href="https://github.com/Fabian-Martinez-Rincon/Orientacion-a-Objetos1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Orientacion-a-Objetos1&theme=react&bg_color=00000000&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
 <a href="https://github.com/Fabian-Martinez-Rincon/AyED"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=ayed&theme=react&bg_color=00000000&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
@@ -42,7 +42,7 @@
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-### <img alt="GIF" src="https://media.giphy.com/media/EWRztVBjmMCxG/giphy.gif" width="25" /> Tercero Licenciatura en Sistemas
+## <img alt="GIF" src="https://media.giphy.com/media/EWRztVBjmMCxG/giphy.gif" width="25" /> Tercero Licenciatura en Sistemas
 
 
 <a href="https://github.com/Fabian-Martinez-Rincon/Programacion-Concurrente"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Programacion-Concurrente&theme=react&bg_color=00000000&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="dice-roll-albert-ext"></a>

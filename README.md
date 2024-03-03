@@ -9,12 +9,10 @@
 -  <img alt="GIF" src="https://media.giphy.com/media/MuqpqJmXh6J5UCu7U1/giphy.gif" width="25" /> &nbsp; Casi siempre programo con **Python**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Me gusta documentar todo lo que hago. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Si necesitan una mano me pueden hablar por **discord:fabomartinez**. <br>
-- <details><summary>Estadisticas</summary></details>
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Fabian-Martinez-Rincon&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=007FFF&icon_color=F8D866">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabian-Martinez-Rincon&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&title_color=007FFF">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Fabian-Martinez-Rincon&theme=darcula&hide_border=true&background=FFFFFF00">
 </p>
 
 
@@ -56,3 +54,7 @@
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
+
+<p align="center">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Fabian-Martinez-Rincon&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>

@@ -9,11 +9,11 @@
 -  <img alt="GIF" src="https://media.giphy.com/media/MuqpqJmXh6J5UCu7U1/giphy.gif" width="25" /> &nbsp; Casi siempre programo con **Python**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Me gusta documentar todo lo que hago. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Si necesitan una mano me pueden hablar por **discord:fabomartinez**. <br>
-- Mi blog con temas de la facultad [EI-Materias](https://mith-arg.github.io/EI-Materias/)
-- Recopilatorio de todos los links que tengo por hay [Linktree](https://linktree-fabian.vercel.app/)
-- [Resume/Cv](https://drive.google.com/file/d/1H9IQzIcPTgCtffV4D-LzDxGFi2joDUnT/view)
-- Ultimo Proyecto en Python [Emuti](https://github.com/Fabian-Martinez-Rincon/EmuTi)
-- Proyecto realizado en Space Apps 2022 [Link](https://github.com/Cuestion-de-Espacio)
+- <img src="https://media.giphy.com/media/L0ZhO0YWanyEYF7RTE/giphy.gif" width="25" />&nbsp;&nbsp; Mi blog con temas de la facultad [EI-Materias](https://mith-arg.github.io/EI-Materias/)
+- <img src="https://media.giphy.com/media/k5CSpePpV8GdjxQRfA/giphy.gif" width="25" />&nbsp;&nbsp; Recopilatorio de todos los links que tengo por hay [Linktree](https://linktree-fabian.vercel.app/)
+- <img src="https://media.giphy.com/media/ekqKSKYrVvrP6VMwsf/giphy.gif" width="25" />&nbsp;&nbsp; [Resume/Cv](https://drive.google.com/file/d/1H9IQzIcPTgCtffV4D-LzDxGFi2joDUnT/view)
+- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHRpdHE1czl0eTltNXgxNmF2MzlzMmFqNmJpbjF6eTN6bnVoZ2phdiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="25" />&nbsp;&nbsp; Ultimo Proyecto en Python [Emuti](https://github.com/Fabian-Martinez-Rincon/EmuTi)
+- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXR2bTc4dmQ5NGFmeWh6NzR3a2ttdmZpNHVkNzFxeHA1YTBiM2c5OCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/0TtX2qqpxp3pIafzio/giphy.gif" width="25" />&nbsp;&nbsp; Proyecto realizado en Space Apps 2022 [Link](https://github.com/Cuestion-de-Espacio)
 
 
 

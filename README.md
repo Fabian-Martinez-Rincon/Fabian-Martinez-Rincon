@@ -11,9 +11,9 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Me gusta documentar todo lo que hago. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Si necesitan una mano me pueden hablar por **discord:fabomartinez**. <br>
 - <details><summary>Estadisticas</summary><p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Fabian-Martinez-Rincon&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=007FFF&icon_color=F8D866">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabian-Martinez-Rincon&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&title_color=007FFF"></p></details>
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Fabian-Martinez-Rincon&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=007FFF&icon_color=F8D866"><img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabian-Martinez-Rincon&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&title_color=007FFF"></p></details>
 - <details><summary>Portfolio</summary><a title="" href="https://rincondelfabo.vercel.app/"><img src="1.PNG" alt="" style="border:1px solid black;"/></a></details>
+
 ### 🐥 Primero Licenciatura en Sistemas
 
 

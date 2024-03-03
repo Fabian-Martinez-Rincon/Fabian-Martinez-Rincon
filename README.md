@@ -9,7 +9,11 @@
 -  <img alt="GIF" src="https://media.giphy.com/media/MuqpqJmXh6J5UCu7U1/giphy.gif" width="25" /> &nbsp; Casi siempre programo con **Python**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Me gusta documentar todo lo que hago. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Si necesitan una mano me pueden hablar por **discord:fabomartinez**. <br>
-
+- [Blog De la Facultad](https://mith-arg.github.io/EI-Materias/)
+- Recopilatorio de todos los links que tengo por hay [Linktree](https://linktree-fabian.vercel.app/)
+- [Resume/Cv](https://drive.google.com/file/d/1H9IQzIcPTgCtffV4D-LzDxGFi2joDUnT/view)
+- Ultimo Proyecto en Python [Emuti](https://github.com/Fabian-Martinez-Rincon/EmuTi)
+- Proyecto realizado en Space Apps 2022 [Link](https://github.com/Cuestion-de-Espacio)
 
 
 

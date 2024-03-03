@@ -1,9 +1,11 @@
-<p align="center">
+<details><summary>Estadisticas</summary><p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Fabian-Martinez-Rincon&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=007FFF&icon_color=F8D866">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabian-Martinez-Rincon&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&title_color=007FFF">
 
 </p>
 
+
+</details>
 
 
 ### 🐥 Primero Licenciatura en Sistemas

@@ -8,7 +8,7 @@
 
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Me gusta documentar todo lo que hago. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Si necesitan una mano me pueden hablar por **discord:fabomartinez**. <br>
-- <img src="https://media.giphy.com/media/L0ZhO0YWanyEYF7RTE/giphy.gif" width="25" />&nbsp;&nbsp; Mi blog con temas de la facultad [RinconDeFabo](https://rincondelfabo.vercel.app/blog)
+- <img src="https://media.giphy.com/media/L0ZhO0YWanyEYF7RTE/giphy.gif" width="25" />&nbsp;&nbsp; Mi blog con temas de la facultad [RinconDeFabo](https://rincondelfabo.vercel.app/tags/blog)
 - <img src="https://media.giphy.com/media/k5CSpePpV8GdjxQRfA/giphy.gif" width="25" />&nbsp;&nbsp; Recopilatorio de todos los links que tengo por hay [Linktree](https://linktree-fabian.vercel.app/)
 - <img src="https://media.giphy.com/media/ekqKSKYrVvrP6VMwsf/giphy.gif" width="25" />&nbsp;&nbsp; [Resume/Cv](https://rincondelfabo.vercel.app/resumeES)
 - <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHRpdHE1czl0eTltNXgxNmF2MzlzMmFqNmJpbjF6eTN6bnVoZ2phdiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="25" />&nbsp;&nbsp; Ultimo Proyecto en Python [Emuti](https://github.com/Fabian-Martinez-Rincon/EmuTi)

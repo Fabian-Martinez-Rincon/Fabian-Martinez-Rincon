@@ -1,3 +1,4 @@
+![bg](https://github.com/user-attachments/assets/2b77deb0-67a5-49b4-bb9a-a1045fc68d59)
 <h1 align="center">
         <samp>&gt; Fabian Martinez Rincon
                 <b>(<a target="_blank" href="https://rincondelfabo.vercel.app/">Portfolio</a>)</b>

@@ -1,4 +1,3 @@
-
 <h1 align="center">
         <samp>&gt; Fabian Martinez Rincon
                 <b>(<a target="_blank" href="https://rincondelfabo.vercel.app/">Portfolio</a>)</b>
@@ -51,9 +50,8 @@
 <a href="https://github.com/Fabian-Martinez-Rincon/Proyecto-de-Software"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Proyecto-de-Software&theme=react&bg_color=00000000&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
 <a href="https://github.com/Fabian-Martinez-Rincon/Orientacion-a-Objetos-2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Orientacion-a-Objetos-2&theme=react&bg_color=00000000&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
 <a href="https://github.com/Fabian-Martinez-Rincon/Char-IT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=char-it&theme=react&bg_color=00000000&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
-
-
-
-<img src= 'https://github.com/user-attachments/assets/2b77deb0-67a5-49b4-bb9a-a1045fc68d59' height="90" width="100%">
+<a href="https://github.com/Fabian-Martinez-Rincon/Char-IT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=char-it&theme=react&bg_color=00000000&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/Char-IT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=char-it&theme=react&bg_color=00000000&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/Char-IT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=char-it&theme=react&bg_color=00000000&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
 
 

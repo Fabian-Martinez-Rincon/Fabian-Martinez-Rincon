@@ -15,13 +15,7 @@
 - <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXR2bTc4dmQ5NGFmeWh6NzR3a2ttdmZpNHVkNzFxeHA1YTBiM2c5OCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/0TtX2qqpxp3pIafzio/giphy.gif" width="25" />&nbsp;&nbsp; Proyecto realizado en Space Apps 2022 [Link](https://github.com/Cuestion-de-Espacio)
 
 
-<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-## <img alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJxNnlxbXV0eTZ0NzhteThheTJvZ3h3aTVpaXh0cnhzYTBvNjdsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jiqyXvkHQzEBy/giphy.gif" width="25" /> Materias No Canonicas
-
-<a href="https://github.com/Fabian-Martinez-Rincon/CCyCR"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CCyCR&theme=react&bg_color=00000000&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
-<a href="https://github.com/Fabian-Martinez-Rincon/CABD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CABD&theme=react&bg_color=00000000&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
-<a href="https://github.com/Fabian-Martinez-Rincon/TTPS-E"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=TTPS-E&theme=react&bg_color=00000000&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -58,5 +52,11 @@
 <a href="https://github.com/Fabian-Martinez-Rincon/Orientacion-a-Objetos-2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Orientacion-a-Objetos-2&theme=react&bg_color=00000000&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
 <a href="https://github.com/Fabian-Martinez-Rincon/Char-IT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=char-it&theme=react&bg_color=00000000&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
 
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
+## <img alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJxNnlxbXV0eTZ0NzhteThheTJvZ3h3aTVpaXh0cnhzYTBvNjdsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jiqyXvkHQzEBy/giphy.gif" width="25" /> Materias No Canonicas
+
+<a href="https://github.com/Fabian-Martinez-Rincon/CCyCR"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CCyCR&theme=react&bg_color=00000000&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/CABD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CABD&theme=react&bg_color=00000000&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/TTPS-E"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=TTPS-E&theme=react&bg_color=00000000&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
 

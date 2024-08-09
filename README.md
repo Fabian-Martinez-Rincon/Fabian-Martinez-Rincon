@@ -4,21 +4,6 @@
         </samp><img src="https://media.giphy.com/media/mlUQW9bMGPDFCU8rMB/giphy.gif" width="30px" height="30px" />
 </h1>
 
-<img align="right" src="https://media.giphy.com/media/MtOgB5odQknSg/giphy.gif"  width="22%" />
-
-- Me gusta documentar todo lo que hago. <br>
-- Si necesitan una mano me pueden hablar por **discord:fabomartinez**. <br>
-- Mi blog con temas de la facultad [RinconDeFabo](https://rincondelfabo.vercel.app/tags/blog)
-- Recopilatorio de todos los links que tengo por hay [Linktree](https://linktree-fabian.vercel.app/)
-- [Resume/Cv](https://rincondelfabo.vercel.app/resumeES)
-- Ultimo Proyecto en Python [Emuti](https://github.com/Fabian-Martinez-Rincon/EmuTi)
-- Proyecto realizado en Space Apps 2022 [Link](https://github.com/Cuestion-de-Espacio)
-
-
-
-
-<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
-
 ## <img alt="GIF" src="https://media.giphy.com/media/kuWN0iF9BLQKk/giphy.gif" width="25" /> Primero Licenciatura en Sistemas
 
 

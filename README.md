@@ -4,6 +4,9 @@
         </samp><img src="https://media.giphy.com/media/mlUQW9bMGPDFCU8rMB/giphy.gif" width="30px" height="30px" />
 </h1>
 
+![image](https://github.com/user-attachments/assets/5bfe3b7d-ff5d-4a6a-a394-a1199566698a)
+
+
 ## <img alt="GIF" src="https://media.giphy.com/media/kuWN0iF9BLQKk/giphy.gif" width="25" /> Temporada 1 (Licenciatura en Sistemas)
 
 

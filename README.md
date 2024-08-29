@@ -82,6 +82,8 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
 <a href="https://github.com/Fabian-Martinez-Rincon/CABD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CABD&theme=react&bg_color=00000000&title_color=cacfd2&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
 <a href="https://github.com/Fabian-Martinez-Rincon/TTPS-E"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=TTPS-E&theme=react&bg_color=00000000&title_color=cacfd2&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
 
+<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+
 ## <img alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVha2xuajMwbHdra3phdnkwYnBueTR0a2d6YmZ5ZWM4bTJ4eDI0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l2YOp5fNAFMp63B3a/giphy.gif" width="25" /> Software Laboral <img alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVha2xuajMwbHdra3phdnkwYnBueTR0a2d6YmZ5ZWM4bTJ4eDI0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l2YOp5fNAFMp63B3a/giphy.gif" width="25" />
 
 <a href="https://github.com/Fabian-Martinez-Rincon/EmuTi"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=EmuTi&theme=react&bg_color=00000000&title_color=cacfd2&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>

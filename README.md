@@ -6,9 +6,9 @@
 
 ![image](https://github.com/user-attachments/assets/5bfe3b7d-ff5d-4a6a-a394-a1199566698a)
 
-- [Curriculum para ayudante (2021)](/curriculum/PrimerCv.pdf)
-- [Curriculum para Testing Engineer (2022)](/curriculum/SegundoCv.pdf)
-- [Curriculum para Data Engineer (2023)](/curriculum/TercerCv.pdf)
+- [Curriculum para ayudante](/curriculum/PrimerCv.pdf)
+- [Curriculum para Testing Engineer](/curriculum/SegundoCv.pdf)
+- [Curriculum para Data Engineer](/curriculum/TercerCv.pdf)
 
 <details><summary>🐣 Secundaria</summary>
 

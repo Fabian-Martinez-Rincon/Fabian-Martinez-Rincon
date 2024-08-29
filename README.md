@@ -46,7 +46,7 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
 
 </details>
 
-## <img alt="GIF" src="https://media.giphy.com/media/kuWN0iF9BLQKk/giphy.gif" width="25" /> Temporada 1 (Licenciatura en Sistemas)
+## <img alt="GIF" src="https://media.giphy.com/media/kuWN0iF9BLQKk/giphy.gif" width="25" /> 2021 (Primero Licenciatura en Sistemas)
 
 
 <a href="https://github.com/Fabian-Martinez-Rincon/CADP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CADP&theme=react&bg_color=00000000&title_color=cacfd2&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
@@ -58,7 +58,7 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-## <img alt="GIF" src="https://media.giphy.com/media/r3dMJGNM3AuOs/giphy.gif" width="35" />  Temporada 2 (Licenciatura en Sistemas)
+## <img alt="GIF" src="https://media.giphy.com/media/r3dMJGNM3AuOs/giphy.gif" width="35" />  2022 (Segundo Licenciatura en Sistemas)
 
 <a href="https://github.com/Fabian-Martinez-Rincon/Orientacion-a-Objetos1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Orientacion-a-Objetos1&theme=react&bg_color=00000000&title_color=cacfd2&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
 <a href="https://github.com/Fabian-Martinez-Rincon/AyED"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=ayed&theme=react&bg_color=00000000&title_color=cacfd2&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
@@ -69,7 +69,7 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-## <img alt="GIF" src="https://media.giphy.com/media/EWRztVBjmMCxG/giphy.gif" width="25" /> Temporada 3 (Licenciatura en Sistemas)
+## <img alt="GIF" src="https://media.giphy.com/media/EWRztVBjmMCxG/giphy.gif" width="25" /> 2023 y 2024 (Tercero Licenciatura en Sistemas)
 
 
 <a href="https://github.com/Fabian-Martinez-Rincon/Programacion-Concurrente"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Programacion-Concurrente&theme=react&bg_color=00000000&title_color=cacfd2&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="dice-roll-albert-ext"></a>
@@ -78,11 +78,6 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
 <a href="https://github.com/Fabian-Martinez-Rincon/Proyecto-de-Software"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Proyecto-de-Software&theme=react&bg_color=00000000&title_color=cacfd2&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
 <a href="https://github.com/Fabian-Martinez-Rincon/Orientacion-a-Objetos-2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Orientacion-a-Objetos-2&theme=react&bg_color=00000000&title_color=cacfd2&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
 <a href="https://github.com/Fabian-Martinez-Rincon/Char-IT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=char-it&theme=react&bg_color=00000000&title_color=cacfd2&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
-
-<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
-
-## <img alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJxNnlxbXV0eTZ0NzhteThheTJvZ3h3aTVpaXh0cnhzYTBvNjdsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jiqyXvkHQzEBy/giphy.gif" width="25" /> Materias No Canonicas
-
 <a href="https://github.com/Fabian-Martinez-Rincon/CCyCR"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CCyCR&theme=react&bg_color=00000000&title_color=cacfd2&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
 <a href="https://github.com/Fabian-Martinez-Rincon/CABD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CABD&theme=react&bg_color=00000000&title_color=cacfd2&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
 <a href="https://github.com/Fabian-Martinez-Rincon/TTPS-E"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=TTPS-E&theme=react&bg_color=00000000&title_color=cacfd2&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>

@@ -6,7 +6,7 @@
 
 ![image](https://github.com/user-attachments/assets/5bfe3b7d-ff5d-4a6a-a394-a1199566698a)
 
-<details><summary>Secundaria</summary>
+<details><summary>🐣 Secundaria</summary>
 
 <h1 align='center'> Secundaria (Tecnico en Electronica) </h1>
 

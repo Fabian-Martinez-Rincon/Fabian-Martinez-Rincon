@@ -6,10 +6,6 @@
 
 ![image](https://github.com/user-attachments/assets/5bfe3b7d-ff5d-4a6a-a394-a1199566698a)
 
-- [Curriculum para ayudante](/curriculum/PrimerCv.pdf)
-- [Curriculum para Testing Engineer](/curriculum/SegundoCv.pdf)
-- [Curriculum para Data Engineer](/curriculum/TercerCv.pdf)
-
 <details><summary>🐣 Secundaria</summary>
 
 <h1 align='center'> Secundaria (Tecnico en Electronica) </h1>

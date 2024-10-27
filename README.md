@@ -4,7 +4,8 @@
         </samp><img src="https://media.giphy.com/media/mlUQW9bMGPDFCU8rMB/giphy.gif" width="30px" height="30px" />
 </h1>
 
-![image](https://github.com/user-attachments/assets/5bfe3b7d-ff5d-4a6a-a394-a1199566698a)
+
+[![Example Image](/portfolio.PNG)](https://rincondelfabo.vercel.app/)
 
 <details><summary>🐣 Secundaria</summary>
 

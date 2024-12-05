@@ -5,6 +5,7 @@
 </h1>
 
 
+
 [![Example Image](/portfolio.PNG)](https://rincondelfabo.vercel.app/)
 
 <details><summary>🐣 Secundaria</summary>
@@ -47,6 +48,8 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
 
 </details>
 
+<img src= 'https://github.com/user-attachments/assets/34db68b7-bd87-4219-8005-f9c009c0ad61' height="3" width="100%">
+
 ## <img alt="GIF" src="https://media.giphy.com/media/kuWN0iF9BLQKk/giphy.gif" width="25" /> 2021 (Primero Licenciatura en Sistemas)
 
 
@@ -57,7 +60,7 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
 <a href="https://github.com/Fabian-Martinez-Rincon/EI-Materias"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=EI-Materias&theme=react&bg_color=000000&title_color=cacfd2&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
 <a href="https://github.com/Fabian-Martinez-Rincon/Mega-Conversor-OC"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Mega-Conversor-OC&theme=react&bg_color=000000&title_color=cacfd2&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
 
-<img src= 'https://github.com/user-attachments/assets/a44424c5-e7a6-4dae-86d6-02e8fda9047e' height="3" width="100%">
+<img src= 'https://github.com/user-attachments/assets/34db68b7-bd87-4219-8005-f9c009c0ad61' height="3" width="100%">
 
 ## <img alt="GIF" src="https://media.giphy.com/media/r3dMJGNM3AuOs/giphy.gif" width="35" />  2022 (Segundo Licenciatura en Sistemas)
 
@@ -68,7 +71,7 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
 <a href="https://github.com/Fabian-Martinez-Rincon/ISO"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=ISO&theme=react&bg_color=000000&title_color=cacfd2&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
 <a href="https://github.com/Fabian-Martinez-Rincon/Ingenieria-de-Software1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Ingenieria-de-Software1&theme=react&bg_color=000000&title_color=cacfd2&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 
-<img src= 'https://github.com/user-attachments/assets/a44424c5-e7a6-4dae-86d6-02e8fda9047e' height="3" width="100%">
+<img src= 'https://github.com/user-attachments/assets/34db68b7-bd87-4219-8005-f9c009c0ad61' height="3" width="100%">
 
 ## <img alt="GIF" src="https://media.giphy.com/media/EWRztVBjmMCxG/giphy.gif" width="25" /> 2023 (Tercero Licenciatura en Sistemas)
 
@@ -76,7 +79,8 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
 <a href="https://github.com/Fabian-Martinez-Rincon/Programacion-Concurrente"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Programacion-Concurrente&theme=react&bg_color=000000&title_color=cacfd2&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="dice-roll-albert-ext"></a>
 <a href="https://github.com/Fabian-Martinez-Rincon/CPLP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CPLP&theme=react&bg_color=000000&title_color=cacfd2&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="dice-roll-albert-ext"></a>
 <a href="https://github.com/Fabian-Martinez-Rincon/Proyecto-de-Software"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Proyecto-de-Software&theme=react&bg_color=000000&title_color=cacfd2&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
-<img src= 'https://github.com/user-attachments/assets/a44424c5-e7a6-4dae-86d6-02e8fda9047e' height="3" width="100%">
+
+<img src= 'https://github.com/user-attachments/assets/34db68b7-bd87-4219-8005-f9c009c0ad61' height="3" width="100%">
 
 ## <img alt="GIF" src="https://media.giphy.com/media/EWRztVBjmMCxG/giphy.gif" width="25" /> 2024 (Tercero Licenciatura en Sistemas)
 
@@ -85,6 +89,8 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
 <a href="https://github.com/Fabian-Martinez-Rincon/Char-IT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=char-it&theme=react&bg_color=000000&title_color=cacfd2&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
 <a href="https://github.com/Fabian-Martinez-Rincon/CABD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CABD&theme=react&bg_color=000000&title_color=cacfd2&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
 <a href="https://github.com/Fabian-Martinez-Rincon/Lab-Genetics"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Lab-Genetics&theme=react&bg_color=000000&title_color=cacfd2&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
+
+<img src= 'https://github.com/user-attachments/assets/34db68b7-bd87-4219-8005-f9c009c0ad61' height="3" width="100%">
 
 
 ## <img alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVha2xuajMwbHdra3phdnkwYnBueTR0a2d6YmZ5ZWM4bTJ4eDI0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l2YOp5fNAFMp63B3a/giphy.gif" width="25" /> Software Laboral <img alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVha2xuajMwbHdra3phdnkwYnBueTR0a2d6YmZ5ZWM4bTJ4eDI0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l2YOp5fNAFMp63B3a/giphy.gif" width="25" />

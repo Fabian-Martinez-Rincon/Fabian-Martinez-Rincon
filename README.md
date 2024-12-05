@@ -68,7 +68,7 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
 <a href="https://github.com/Fabian-Martinez-Rincon/ISO"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=ISO&theme=react&bg_color=00000000&title_color=cacfd2&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
 <a href="https://github.com/Fabian-Martinez-Rincon/Ingenieria-de-Software1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Ingenieria-de-Software1&theme=react&bg_color=00000000&title_color=cacfd2&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 
-<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
+<img src= 'https://github.com/user-attachments/assets/a44424c5-e7a6-4dae-86d6-02e8fda9047e' height="2" width="100%">
 
 ## <img alt="GIF" src="https://media.giphy.com/media/EWRztVBjmMCxG/giphy.gif" width="25" /> 2023 y 2024 (Tercero Licenciatura en Sistemas)
 

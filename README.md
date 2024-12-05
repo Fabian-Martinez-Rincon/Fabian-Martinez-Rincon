@@ -82,7 +82,7 @@ Aprendí a usar lo basico de C++ (arrays, matrices y parametros). También hice 
 
 <img src= 'https://github.com/user-attachments/assets/34db68b7-bd87-4219-8005-f9c009c0ad61' height="3" width="100%">
 
-## <img alt="GIF" src="https://media.giphy.com/media/EWRztVBjmMCxG/giphy.gif" width="25" /> 2024 (Tercero Licenciatura en Sistemas)
+## <img alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxmbXB5bDQ0cnA4MjJtNTA4MXJpbjR4N3QwZGVrbDl4MXFsM3F3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hSv6ssr93JFXq3FMzH/giphy.gif" width="25" /> 2024 (Tercero Licenciatura en Sistemas)
 
 <a href="https://github.com/Fabian-Martinez-Rincon/Redes-y-Comunicaciones"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Redes-y-Comunicaciones&theme=react&bg_color=000000&title_color=cacfd2&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="dice-roll-albert-ext"></a>
 <a href="https://github.com/Fabian-Martinez-Rincon/Orientacion-a-Objetos-2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Orientacion-a-Objetos-2&theme=react&bg_color=000000&title_color=cacfd2&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>

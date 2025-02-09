@@ -1,6 +1,6 @@
 <h1 align="center">
         <samp>&gt; Fabian Martinez Rincon
-                <b>(<a target="_blank" href="https://rincondelfabo.vercel.app/">Portfolio</a>)</b>
+                <b>(<a target="_blank" href="https://data-engineer-fabian-martinez.vercel.app/">Portfolio</a>)</b>
         </samp><img src="https://media.giphy.com/media/mlUQW9bMGPDFCU8rMB/giphy.gif" width="30px" height="30px" />
 </h1>
 
@@ -11,8 +11,6 @@
 - <img src="https://media.giphy.com/media/L0ZhO0YWanyEYF7RTE/giphy.gif" width="25" />&nbsp;&nbsp; Mi blog con temas de la facultad [RinconDeFabo](https://rincondelfabo.vercel.app/tags/blog)
 - <img src="https://media.giphy.com/media/k5CSpePpV8GdjxQRfA/giphy.gif" width="25" />&nbsp;&nbsp; Recopilatorio de todos los links que tengo por hay [Linktree](https://linktree-fabian.vercel.app/)
 - <img src="https://media.giphy.com/media/ekqKSKYrVvrP6VMwsf/giphy.gif" width="25" />&nbsp;&nbsp; [Resume/Cv](https://rincondelfabo.vercel.app/resumeES)
-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHRpdHE1czl0eTltNXgxNmF2MzlzMmFqNmJpbjF6eTN6bnVoZ2phdiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" width="25" />&nbsp;&nbsp; Ultimo Proyecto en Python [Emuti](https://github.com/Fabian-Martinez-Rincon/EmuTi)
-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXR2bTc4dmQ5NGFmeWh6NzR3a2ttdmZpNHVkNzFxeHA1YTBiM2c5OCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/0TtX2qqpxp3pIafzio/giphy.gif" width="25" />&nbsp;&nbsp; Proyecto realizado en Space Apps 2022 [Link](https://github.com/Cuestion-de-Espacio)
 
 
 

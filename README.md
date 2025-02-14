@@ -54,7 +54,5 @@
 
 ## <img alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJxNnlxbXV0eTZ0NzhteThheTJvZ3h3aTVpaXh0cnhzYTBvNjdsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jiqyXvkHQzEBy/giphy.gif" width="25" /> Materias No Canonicas
 
-<a href="https://github.com/Fabian-Martinez-Rincon/CCyCR"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CCyCR&theme=react&bg_color=00000000&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
-<a href="https://github.com/Fabian-Martinez-Rincon/CABD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CABD&theme=react&bg_color=00000000&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
 <a href="https://github.com/Fabian-Martinez-Rincon/TTPS-E"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=TTPS-E&theme=react&bg_color=00000000&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
 

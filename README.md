@@ -4,16 +4,6 @@
         </samp><img src="https://media.giphy.com/media/mlUQW9bMGPDFCU8rMB/giphy.gif" width="30px" height="30px" />
 </h1>
 
-<img align="right" src="https://media.giphy.com/media/MtOgB5odQknSg/giphy.gif"  width="22%" />
-
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; Me gusta documentar todo lo que hago. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Si necesitan una mano me pueden hablar por **discord:fabomartinez**. <br>
-- <img src="https://media.giphy.com/media/L0ZhO0YWanyEYF7RTE/giphy.gif" width="25" />&nbsp;&nbsp; Mi blog con temas de la facultad [RinconDeFabo](https://rincondelfabo.vercel.app/tags/blog)
-- <img src="https://media.giphy.com/media/k5CSpePpV8GdjxQRfA/giphy.gif" width="25" />&nbsp;&nbsp; Recopilatorio de todos los links que tengo por hay [Linktree](https://linktree-fabian.vercel.app/)
-- <img src="https://media.giphy.com/media/ekqKSKYrVvrP6VMwsf/giphy.gif" width="25" />&nbsp;&nbsp; [Resume/Cv](https://rincondelfabo.vercel.app/resumeES)
-
-
-
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 

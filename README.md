@@ -4,6 +4,27 @@
         </samp><img src="https://media.giphy.com/media/mlUQW9bMGPDFCU8rMB/giphy.gif" width="30px" height="30px" />
 </h1>
 
+<table>
+  <tbody>
+    <tr>
+      <td>
+      <a target="_blank" href="https://data-engineer-fabian-martinez.vercel.app/">
+        <img alt="Eclipse" src="portfolio1.png" />
+        </a>
+      </td>
+      <td>
+        <a target="_blank" href="https://rincondelfabo.vercel.app/resumeES">
+          <img alt="Raydiance" src="resume.png" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Portfolio</td>
+      <td>Resume</td>
+    </tr>
+  </tbody>
+</table>
+
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 

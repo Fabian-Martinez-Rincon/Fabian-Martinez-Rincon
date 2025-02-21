@@ -13,14 +13,14 @@
         </a>
       </td>
       <td>
-        <a target="_blank" href="https://rincondelfabo.vercel.app/resumeES">
-          <img alt="Raydiance" src="resume.png" />
+        <a target="_blank" href="https://fabian-martinez-rincon-homelab.vercel.app/">
+          <img alt="Raydiance" src="HomeLab.png" />
         </a>
       </td>
     </tr>
     <tr>
       <td>Portfolio</td>
-      <td>Resume</td>
+      <td>HomeLab</td>
     </tr>
   </tbody>
 </table>

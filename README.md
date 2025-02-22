@@ -28,6 +28,9 @@
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
+> [!IMPORTANT]  
+> 💪 Si algo les sirve o es de utilidad me gustaria mucho que dejen alguna recomendación en [Linkedin](https://www.linkedin.com/in/fabian-martinez-rincon/), ya que me ayudan a crecer profesionalmente 💪
+
 ## <img alt="GIF" src="https://media.giphy.com/media/kuWN0iF9BLQKk/giphy.gif" width="25" /> Primero Licenciatura en Sistemas
 
 

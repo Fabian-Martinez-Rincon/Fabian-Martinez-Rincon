@@ -57,27 +57,27 @@
 
 ## <img alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG4xMngwMndhY2h1cTJxbHRsaDBlYjdqcjRkOWQzc216OHQyc2dwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tijXdwSLrnC9KyeLMi/giphy.gif" width="25" /> Tercero | Analista Programador Universitario  <img alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG4xMngwMndhY2h1cTJxbHRsaDBlYjdqcjRkOWQzc216OHQyc2dwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tijXdwSLrnC9KyeLMi/giphy.gif" width="25" />
 
-<a href="https://github.com/Fabian-Martinez-Rincon/Programacion-Concurrente"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Programacion-Concurrente&theme=react&bg_color=00000000&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="dice-roll-albert-ext"></a>
-<a href="https://github.com/Fabian-Martinez-Rincon/Redes-y-Comunicaciones"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Redes-y-Comunicaciones&theme=react&bg_color=00000000&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="dice-roll-albert-ext"></a>
-<a href="https://github.com/Fabian-Martinez-Rincon/CPLP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CPLP&theme=react&bg_color=00000000&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="dice-roll-albert-ext"></a>
-<a href="https://github.com/Fabian-Martinez-Rincon/Proyecto-de-Software"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Proyecto-de-Software&theme=react&bg_color=00000000&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
-<a href="https://github.com/Fabian-Martinez-Rincon/Orientacion-a-Objetos-2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Orientacion-a-Objetos-2&theme=react&bg_color=00000000&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
-<a href="https://github.com/Fabian-Martinez-Rincon/Char-IT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=char-it&theme=react&bg_color=00000000&title_color=007FFF&icon_color=F8D866&hide_border=true&i&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/Programacion-Concurrente"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Programacion-Concurrente&theme=react&bg_color=00000000&title_color=0097ff&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="dice-roll-albert-ext"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/Redes-y-Comunicaciones"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Redes-y-Comunicaciones&theme=react&bg_color=00000000&title_color=0097ff&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="dice-roll-albert-ext"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/CPLP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CPLP&theme=react&bg_color=00000000&title_color=0097ff&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="dice-roll-albert-ext"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/Proyecto-de-Software"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Proyecto-de-Software&theme=react&bg_color=00000000&title_color=0097ff&icon_color=F8D866&hide_border=true&i&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/Orientacion-a-Objetos-2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Orientacion-a-Objetos-2&theme=react&bg_color=00000000&title_color=0097ff&icon_color=F8D866&hide_border=true&i&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/Char-IT"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=char-it&theme=react&bg_color=00000000&title_color=0097ff&icon_color=F8D866&hide_border=true&i&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
 
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
 ## <img alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNiOTFmbWQ0aWtpYjU2engxcjB4YnRrZXdhb3owMzIxcTRsNnFwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WmXZ7qL6YXm8mm7pT7/giphy.gif" width="25" /> Cuarto | Licenciatura en Sistemas <img alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNiOTFmbWQ0aWtpYjU2engxcjB4YnRrZXdhb3owMzIxcTRsNnFwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WmXZ7qL6YXm8mm7pT7/giphy.gif" width="25" />
 
-<a href="https://github.com/Fabian-Martinez-Rincon/FTC"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=FTC&theme=react&bg_color=00000000&title_color=83ff33&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
-<a href="https://github.com/Fabian-Martinez-Rincon/Ingenieria-de-Software-3"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Ingenieria-de-Software-3&theme=react&bg_color=00000000&title_color=83ff33&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/FTC"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=FTC&theme=react&bg_color=00000000&title_color=00ff93&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/Ingenieria-de-Software-3"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Ingenieria-de-Software-3&theme=react&bg_color=00000000&title_color=00ff93&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
 ## <img alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajQwNWMybDF4djF2emtneTB0M2ppNmRwZ3BwMHBiYnFpaHNrb3RkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zv3EHLIABZI6w14kFs/giphy.gif" width="25" /> Quinto | Licenciatura en Sistemas <img alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajQwNWMybDF4djF2emtneTB0M2ppNmRwZ3BwMHBiYnFpaHNrb3RkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zv3EHLIABZI6w14kFs/giphy.gif" width="25" />
 
-<a href="https://github.com/Fabian-Martinez-Rincon/Aspectos-Sociales"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Aspectos-Sociales&theme=react&bg_color=00000000&title_color=FF0000&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
-<a href="https://github.com/Fabian-Martinez-Rincon/Aspectos-Sociales-Avanzados"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Aspectos-Sociales-Avanzados&theme=react&bg_color=00000000&title_color=FF0000&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/Aspectos-Sociales"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Aspectos-Sociales&theme=react&bg_color=00000000&title_color=ff6800&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/Aspectos-Sociales-Avanzados"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Aspectos-Sociales-Avanzados&theme=react&bg_color=00000000&title_color=ff6800&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
@@ -90,7 +90,7 @@
   <tbody>
     <tr>
       <td>
-        <img alt="Eclipse" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJrcmduaHplMjdjeDdzeGVhczZrb2dlMmtzdWxxdWl4MTV1amFzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zpeH9hHFP457a/giphy.gif" />
+        <img alt="Eclipse" src="https://media1.tenor.com/m/518P-3YD5ugAAAAC/light-weight.gif" />
       </td>
       <td>
           <img alt="Raydiance" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5tanBmODh6bG40Y2hrZTNqNHFudmE1bDVvYWdrOWEzenlkdnVpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uY0EolbKFyfuQEVL2C/giphy.gif" />

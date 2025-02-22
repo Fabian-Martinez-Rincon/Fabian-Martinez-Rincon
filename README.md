@@ -99,7 +99,6 @@
   </tbody>
 </table>
 
-<img src='' width="305">
 
 </div>
 

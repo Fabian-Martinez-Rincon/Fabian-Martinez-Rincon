@@ -86,6 +86,7 @@
 <p>Ronnie Gano un MR Olimpia mientras se recibió de Licenciado en Contabilidad, a su vez trabajaba de policía, <b>¡¡NO HAY EXCUSAS FLACO!!.<b></p>
 
 
+
 <table>
   <tbody>
     <tr>
@@ -94,6 +95,14 @@
       </td>
       <td>
           <img alt="Raydiance" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnViNjRycmU1YWF4bzdxbmJrNmF3MGY4MHBzN2FiMmZqNWhldGJ4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12Tob44HkDJty8/giphy.gif" />
+      </td>
+    </tr>
+<tr>
+      <td>
+        <img alt="Eclipse" src="https://github.com/user-attachments/assets/8449bc83-61da-4d4c-bfa1-4f0fe92fd029" />
+      </td>
+      <td>
+          <img alt="Raydiance" src="https://github.com/user-attachments/assets/0932fc85-8fb7-4f16-941e-d2c6fee93c49" />
       </td>
     </tr>
   </tbody>

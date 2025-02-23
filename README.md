@@ -102,7 +102,7 @@
         <img alt="Eclipse" src="https://github.com/user-attachments/assets/8449bc83-61da-4d4c-bfa1-4f0fe92fd029" />
       </td>
       <td>
-          <img alt="Raydiance" src="https://github.com/user-attachments/assets/0932fc85-8fb7-4f16-941e-d2c6fee93c49" />
+          <img alt="Raydiance" src="https://github.com/user-attachments/assets/cb891d70-4c90-4788-9265-9d65b098fe85" />
       </td>
     </tr>
   </tbody>

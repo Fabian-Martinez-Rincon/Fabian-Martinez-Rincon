@@ -93,7 +93,7 @@
         <img alt="Eclipse" src="https://media1.tenor.com/m/518P-3YD5ugAAAAC/light-weight.gif" />
       </td>
       <td>
-          <img alt="Raydiance" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5tanBmODh6bG40Y2hrZTNqNHFudmE1bDVvYWdrOWEzenlkdnVpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uY0EolbKFyfuQEVL2C/giphy.gif" />
+          <img alt="Raydiance" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnViNjRycmU1YWF4bzdxbmJrNmF3MGY4MHBzN2FiMmZqNWhldGJ4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12Tob44HkDJty8/giphy.gif" />
       </td>
     </tr>
   </tbody>

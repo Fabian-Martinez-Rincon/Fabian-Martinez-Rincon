@@ -69,7 +69,6 @@
 
 ## <img alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNiOTFmbWQ0aWtpYjU2engxcjB4YnRrZXdhb3owMzIxcTRsNnFwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WmXZ7qL6YXm8mm7pT7/giphy.gif" width="25" /> Cuarto | Licenciatura en Sistemas <img alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzNiOTFmbWQ0aWtpYjU2engxcjB4YnRrZXdhb3owMzIxcTRsNnFwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WmXZ7qL6YXm8mm7pT7/giphy.gif" width="25" />
 
-<a href="https://github.com/Fabian-Martinez-Rincon/FTC"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=FTC&theme=react&bg_color=00000000&title_color=00ff93&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
 <a href="https://github.com/Fabian-Martinez-Rincon/Ingenieria-de-Software-3"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Ingenieria-de-Software-3&theme=react&bg_color=00000000&title_color=00ff93&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">

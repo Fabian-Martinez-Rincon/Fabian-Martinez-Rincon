@@ -80,34 +80,3 @@
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-<div align='center'>
-
-<p>Ronnie Gano un MR Olimpia mientras se recibió de Licenciado en Contabilidad, a su vez trabajaba de policía, <b>¡¡NO HAY EXCUSAS FLACO!!.<b></p>
-
-
-
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <img alt="Eclipse" src="https://media1.tenor.com/m/518P-3YD5ugAAAAC/light-weight.gif" />
-      </td>
-      <td>
-          <img alt="Raydiance" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjA2ejZtamxwdWJ4cDVkZHBmaTI3bmFrdnhzOHFvMTF0MjJjMmVicyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6gE3cCnT0VtAoLSg/giphy.gif" />
-      </td>
-    </tr>
-<tr>
-      <td>
-        <img alt="Eclipse" src="https://github.com/user-attachments/assets/8449bc83-61da-4d4c-bfa1-4f0fe92fd029" />
-      </td>
-      <td>
-          <img alt="Raydiance" src="https://github.com/user-attachments/assets/cb891d70-4c90-4788-9265-9d65b098fe85" />
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
-</div>
-
-<img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">

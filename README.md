@@ -77,6 +77,7 @@
 
 <a href="https://github.com/Fabian-Martinez-Rincon/Aspectos-Sociales"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Aspectos-Sociales&theme=react&bg_color=00000000&title_color=ff6800&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
 <a href="https://github.com/Fabian-Martinez-Rincon/Aspectos-Sociales-Avanzados"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Aspectos-Sociales-Avanzados&theme=react&bg_color=00000000&title_color=ff6800&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/Ingles"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Ingles&theme=react&bg_color=00000000&title_color=ff6800&icon_color=F8D866&hide_border=true&i&show_icons=false" alt="custom-icon-badges"></a>
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 

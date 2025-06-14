@@ -28,6 +28,13 @@
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
+<h1 align="center">
+        <samp>&gt; 
+                <b>Materias</b>
+        </samp>
+</h1>
+
+
 <details><summary>Materias de Primero</summary>
 
 ## <img alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRrd2p0c3k5YnZwemF1bjBrc21mcWd1c25neGJ6ZHZiMm1rbHQycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t2l7WH9MkvhidYDKui/giphy.gif" width="25" /> Primero | Analista Programador Universitario <img alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRrd2p0c3k5YnZwemF1bjBrc21mcWd1c25neGJ6ZHZiMm1rbHQycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t2l7WH9MkvhidYDKui/giphy.gif" width="25" />

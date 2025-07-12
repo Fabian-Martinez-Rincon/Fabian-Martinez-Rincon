@@ -1,3 +1,30 @@
+
+
+
+## <img alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRrd2p0c3k5YnZwemF1bjBrc21mcWd1c25neGJ6ZHZiMm1rbHQycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t2l7WH9MkvhidYDKui/giphy.gif" width="25" /> Primero | Analista Programador Universitario <img alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRrd2p0c3k5YnZwemF1bjBrc21mcWd1c25neGJ6ZHZiMm1rbHQycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t2l7WH9MkvhidYDKui/giphy.gif" width="25" />
+
+
+<a href="https://github.com/Fabian-Martinez-Rincon/CADP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CADP&theme=react&bg_color=00000000&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/Taller-de-Programacion"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Taller-de-Programacion&theme=react&bg_color=00000000&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/Arquitectura-de-Computadoras"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Arquitectura-de-Computadoras&theme=react&bg_color=00000000&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
+<a href="https://github.com/Fabian-Martinez-Rincon/Organizacion_de_Computadoras"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Organizacion_de_Computadoras&theme=react&bg_color=00000000&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="readme-typing-svg">
+<a href="https://github.com/Fabian-Martinez-Rincon/EI-Materias"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=EI-Materias&theme=react&bg_color=00000000&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="readme-typing-svg">
+<a href="https://github.com/Fabian-Martinez-Rincon/Mega-Conversor-OC"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Mega-Conversor-OC&theme=react&bg_color=00000000&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="readme-typing-svg">
+
+
+
+## <img alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5saXBjZGc5OWtsc2M5bHJ4ZmFzaW8yemlteXJpazNiaXpzNnhleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEQfrwx0OHFS4HXPHQ/giphy.gif" width="35" />  Segundo | Analista Programador Universitario <img alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5saXBjZGc5OWtsc2M5bHJ4ZmFzaW8yemlteXJpazNiaXpzNnhleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEQfrwx0OHFS4HXPHQ/giphy.gif" width="35" />
+
+
+
+<a href="https://github.com/Fabian-Martinez-Rincon/Orientacion-a-Objetos1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Orientacion-a-Objetos1&theme=react&bg_color=00000000&title_color=F9A65D&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/AyED"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=ayed&theme=react&bg_color=00000000&title_color=F9A65D&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/FOD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=FOD&theme=react&bg_color=00000000&title_color=F9A65D&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/Seminario-de-Lenguajes-Python"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Seminario-de-Lenguajes-Python&theme=react&bg_color=00000000&title_color=F9A65D&icon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/ISO"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=ISO&theme=react&bg_color=00000000&title_color=F9A65D&icon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/Ingenieria-de-Software1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Ingenieria-de-Software1&theme=react&bg_color=00000000&title_color=F9A65D&icon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/Fabian-Martinez-Rincon/DBD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=DBD&theme=react&bg_color=00000000&title_color=F9A65D&icon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
+
 <h1>
         <samp>&gt; Fabian Martinez Rincon
                 <b>(<a target="_blank" href="https://data-engineer-fabian-martinez.vercel.app/">Portfolio</a>)</b>
@@ -24,31 +51,6 @@
     </tr>
   </tbody>
 </table>
-
-
-## <img alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRrd2p0c3k5YnZwemF1bjBrc21mcWd1c25neGJ6ZHZiMm1rbHQycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t2l7WH9MkvhidYDKui/giphy.gif" width="25" /> Primero | Analista Programador Universitario <img alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRrd2p0c3k5YnZwemF1bjBrc21mcWd1c25neGJ6ZHZiMm1rbHQycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t2l7WH9MkvhidYDKui/giphy.gif" width="25" />
-
-
-<a href="https://github.com/Fabian-Martinez-Rincon/CADP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=CADP&theme=react&bg_color=00000000&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
-<a href="https://github.com/Fabian-Martinez-Rincon/Taller-de-Programacion"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Taller-de-Programacion&theme=react&bg_color=00000000&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-<a href="https://github.com/Fabian-Martinez-Rincon/Arquitectura-de-Computadoras"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Arquitectura-de-Computadoras&theme=react&bg_color=00000000&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg">
-<a href="https://github.com/Fabian-Martinez-Rincon/Organizacion_de_Computadoras"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Organizacion_de_Computadoras&theme=react&bg_color=00000000&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="readme-typing-svg">
-<a href="https://github.com/Fabian-Martinez-Rincon/EI-Materias"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=EI-Materias&theme=react&bg_color=00000000&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="readme-typing-svg">
-<a href="https://github.com/Fabian-Martinez-Rincon/Mega-Conversor-OC"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Mega-Conversor-OC&theme=react&bg_color=00000000&title_color=FCF800&icon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="readme-typing-svg">
-
-
-
-## <img alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5saXBjZGc5OWtsc2M5bHJ4ZmFzaW8yemlteXJpazNiaXpzNnhleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEQfrwx0OHFS4HXPHQ/giphy.gif" width="35" />  Segundo | Analista Programador Universitario <img alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5saXBjZGc5OWtsc2M5bHJ4ZmFzaW8yemlteXJpazNiaXpzNnhleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEQfrwx0OHFS4HXPHQ/giphy.gif" width="35" />
-
-
-
-<a href="https://github.com/Fabian-Martinez-Rincon/Orientacion-a-Objetos1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Orientacion-a-Objetos1&theme=react&bg_color=00000000&title_color=F9A65D&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
-<a href="https://github.com/Fabian-Martinez-Rincon/AyED"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=ayed&theme=react&bg_color=00000000&title_color=F9A65D&icon_color=F8D866&hide_border=true&show_icons=false" alt="readme-typing-svg"></a>
-<a href="https://github.com/Fabian-Martinez-Rincon/FOD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=FOD&theme=react&bg_color=00000000&title_color=F9A65D&icon_color=F8D866&hide_border=true&show_icons=false" alt="dice-roll-albert-ext"></a>
-<a href="https://github.com/Fabian-Martinez-Rincon/Seminario-de-Lenguajes-Python"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Seminario-de-Lenguajes-Python&theme=react&bg_color=00000000&title_color=F9A65D&icon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
-<a href="https://github.com/Fabian-Martinez-Rincon/ISO"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=ISO&theme=react&bg_color=00000000&title_color=F9A65D&icon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
-<a href="https://github.com/Fabian-Martinez-Rincon/Ingenieria-de-Software1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Ingenieria-de-Software1&theme=react&bg_color=00000000&title_color=F9A65D&icon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
-<a href="https://github.com/Fabian-Martinez-Rincon/DBD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=DBD&theme=react&bg_color=00000000&title_color=F9A65D&icon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
 
 <details><summary>Materias de Tercero</summary>
 

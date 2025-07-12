@@ -1,6 +1,3 @@
-
-
-
 ## <img alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRrd2p0c3k5YnZwemF1bjBrc21mcWd1c25neGJ6ZHZiMm1rbHQycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t2l7WH9MkvhidYDKui/giphy.gif" width="25" /> Primero | Analista Programador Universitario <img alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRrd2p0c3k5YnZwemF1bjBrc21mcWd1c25neGJ6ZHZiMm1rbHQycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t2l7WH9MkvhidYDKui/giphy.gif" width="25" />
 
 
@@ -25,11 +22,9 @@
 <a href="https://github.com/Fabian-Martinez-Rincon/Ingenieria-de-Software1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Ingenieria-de-Software1&theme=react&bg_color=00000000&title_color=F9A65D&icon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
 <a href="https://github.com/Fabian-Martinez-Rincon/DBD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=DBD&theme=react&bg_color=00000000&title_color=F9A65D&icon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
 
-<h1>
-        <samp>&gt; Fabian Martinez Rincon
-                <b>(<a target="_blank" href="https://data-engineer-fabian-martinez.vercel.app/">Portfolio</a>)</b>
-        </samp><img src="https://media.giphy.com/media/mlUQW9bMGPDFCU8rMB/giphy.gif" width="30px" height="30px" />
-</h1>
+
+
+
 
 <table>
   <tbody>
@@ -44,10 +39,16 @@
           <img alt="Raydiance" src="HomeLab.png" />
         </a>
       </td>
+        <td>
+        <a target="_blank" href="https://data-engineer-fabian-martinez.vercel.app/blog">
+          <img alt="Raydiance" src="https://github.com/user-attachments/assets/da522fca-c013-452b-93d4-05e86684617b" />
+        </a>
+      </td>
     </tr>
     <tr>
       <td>Portfolio</td>
       <td>HomeLab</td>
+      <td>Blog</td>
     </tr>
   </tbody>
 </table>

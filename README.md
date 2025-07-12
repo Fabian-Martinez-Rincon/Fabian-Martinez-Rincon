@@ -20,7 +20,7 @@
 <a href="https://github.com/Fabian-Martinez-Rincon/Seminario-de-Lenguajes-Python"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Seminario-de-Lenguajes-Python&theme=react&bg_color=00000000&title_color=F9A65D&icon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
 <a href="https://github.com/Fabian-Martinez-Rincon/ISO"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=ISO&theme=react&bg_color=00000000&title_color=F9A65D&icon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="readme-typing-svg"></a>
 <a href="https://github.com/Fabian-Martinez-Rincon/Ingenieria-de-Software1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=Ingenieria-de-Software1&theme=react&bg_color=00000000&title_color=F9A65D&icon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
-<a href="https://github.com/Fabian-Martinez-Rincon/DBD"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Fabian-Martinez-Rincon&repo=DBD&theme=react&bg_color=00000000&title_color=F9A65D&icon_color=F8D866&hide_border=true&show_icons=false&show_description=false" alt="custom-icon-badges"></a>
+
 
 
 

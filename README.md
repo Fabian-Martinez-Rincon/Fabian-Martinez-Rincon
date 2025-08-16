@@ -24,30 +24,22 @@
 
 
 
-
-
 <table>
   <tbody>
     <tr>
       <td>
       <a target="_blank" href="https://data-engineer-fabian-martinez.vercel.app/">
-        <img alt="Eclipse" src="portfolio1.png" />
-        </a>
-      </td>
-      <td>
-        <a target="_blank" href="https://fabian-martinez-rincon-homelab.vercel.app/">
-          <img alt="Raydiance" src="HomeLab.png" />
+        <img alt="Eclipse" width="472" src="https://media1.tenor.com/m/0gXjFEWlrecAAAAC/avarage-kerem-enjoyer.gif" />
         </a>
       </td>
         <td>
         <a target="_blank" href="https://data-engineer-fabian-martinez.vercel.app/blog">
-          <img alt="Raydiance" src="https://github.com/user-attachments/assets/da522fca-c013-452b-93d4-05e86684617b" />
+          <img alt="Raydiance" src="https://github.com/user-attachments/assets/bc9f7980-318b-42e4-8ddb-9e7b103d3bbd" />
         </a>
       </td>
     </tr>
     <tr>
       <td>Portfolio</td>
-      <td>HomeLab</td>
       <td>Blog</td>
     </tr>
   </tbody>

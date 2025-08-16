@@ -39,7 +39,7 @@
       </td>
     </tr>
     <tr>
-      <td>Portfolio</td>
+      <td><a target="_blank" href="https://data-engineer-fabian-martinez.vercel.app/blog">Portfolio</a></td>
       <td>Blog</td>
     </tr>
   </tbody>

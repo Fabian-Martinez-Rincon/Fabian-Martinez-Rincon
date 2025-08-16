@@ -29,7 +29,7 @@
     <tr>
       <td>
       <a target="_blank" href="https://data-engineer-fabian-martinez.vercel.app/">
-        <img alt="Eclipse" width="472" src="https://media1.tenor.com/m/0gXjFEWlrecAAAAC/avarage-kerem-enjoyer.gif" />
+        <img alt="Eclipse" width="402" src="https://media1.tenor.com/m/0gXjFEWlrecAAAAC/avarage-kerem-enjoyer.gif" />
         </a>
       </td>
         <td>

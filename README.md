@@ -1,3 +1,7 @@
+<div align="center">
+<img src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczdxcWg2cWZ3bHE1YjQ3aGx6eW42YmJrazIxajl3cHczbjM4c2Q2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jcnrprCUg2qJNioD4W/giphy.gif' width='400px'>
+</div>
+  
 ## <img alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRrd2p0c3k5YnZwemF1bjBrc21mcWd1c25neGJ6ZHZiMm1rbHQycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t2l7WH9MkvhidYDKui/giphy.gif" width="25" /> Primero | Analista Programador Universitario <img alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRrd2p0c3k5YnZwemF1bjBrc21mcWd1c25neGJ6ZHZiMm1rbHQycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t2l7WH9MkvhidYDKui/giphy.gif" width="25" />
 
 

@@ -77,6 +77,4 @@
 
 <img src= 'https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif' height="20" width="100%">
 
-<div align="center">
-<img src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczdxcWg2cWZ3bHE1YjQ3aGx6eW42YmJrazIxajl3cHczbjM4c2Q2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jcnrprCUg2qJNioD4W/giphy.gif' width='400px'>
-</div>
+

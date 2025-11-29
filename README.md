@@ -1,4 +1,9 @@
-
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=55964635" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=55964635&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Fabian-Martinez-Rincon" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=55964635&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
   
 ## <img alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRrd2p0c3k5YnZwemF1bjBrc21mcWd1c25neGJ6ZHZiMm1rbHQycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t2l7WH9MkvhidYDKui/giphy.gif" width="25" /> Primero | Analista Programador Universitario <img alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRrd2p0c3k5YnZwemF1bjBrc21mcWd1c25neGJ6ZHZiMm1rbHQycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t2l7WH9MkvhidYDKui/giphy.gif" width="25" />
 

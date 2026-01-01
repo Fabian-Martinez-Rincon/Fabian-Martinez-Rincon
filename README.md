@@ -9,6 +9,9 @@ Analista Programador Universitario | Data Engineer
     <img alt="Dashboard stats of @Fabian-Martinez-Rincon" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=55964635&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
+
+## <img alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXNlZDY0cjRzMHZ1anlzb3g4ZXRvazcxZDlrdnBja3ZucDhvN2FqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hjZ3T2Eso1wJ8QWoCl/giphy.gif" width="25" /> Ingreso | Analista Programador Universitario <img alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxkZWxhNm5hanF0YzhmeXl6cGcxMmVuNzRyeXB4MzJtd2pnMGNwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/BXjqytvu9bKzCUHdzz/giphy.gif" width="25" />
+
   
 ## <img alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRrd2p0c3k5YnZwemF1bjBrc21mcWd1c25neGJ6ZHZiMm1rbHQycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t2l7WH9MkvhidYDKui/giphy.gif" width="25" /> Primero | Analista Programador Universitario <img alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRrd2p0c3k5YnZwemF1bjBrc21mcWd1c25neGJ6ZHZiMm1rbHQycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t2l7WH9MkvhidYDKui/giphy.gif" width="25" />
 
